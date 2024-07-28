@@ -1,2 +1,1 @@
-# source
-music and video source
+在线视频以及音频源搜集整理，链接在index.js中。
