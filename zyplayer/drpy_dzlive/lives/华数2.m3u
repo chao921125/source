@@ -1,0 +1,156 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE blank
+
+#EXTINF:-1 group-title="未分类",CCTV1综合
+http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV2财经
+http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV3综艺
+http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV4中文国际
+http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV5体育
+http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV5+体育赛事
+http://125.210.150.58:9090/live/hzgq-cctvzhgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV6电影
+http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV7国防军事
+http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV8电视剧
+http://125.210.150.58:9090/live/hzgq-cctv8gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV9纪录
+http://125.210.150.58:9090/live/hzgq-cctvjlgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV10科教
+http://125.210.150.58:9090/live/hzgq-cctv10gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV11戏曲
+http://125.210.150.58:9090/live/hszx-cctv11-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV12社会与法
+http://125.210.150.58:9090/live/hzgq-cctv12gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV13新闻
+http://125.210.150.58:9090/live/hzgq-cctvnewsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV14少儿
+http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV15音乐
+http://125.210.150.58:9090/live/hzgq-cctvmusicgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV16奥林匹克
+http://125.210.150.58:9090/live/hzgq-cctv16gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CCTV17农业农村
+http://125.210.150.58:9090/live/hzgq-cctv17gq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CGTN
+http://125.210.150.58:9090/live/hszx-cctvgj-h264.m3u8
+#EXTINF:-1 group-title="未分类",重温经典
+http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",CETV4中教4台
+http://125.210.150.58:9090/live/hszx-CETV-4-h264.m3u8
+#EXTINF:-1 group-title="未分类",北京卫视
+http://125.210.150.58:9090/live/hzgq-bjgqws-h264.m3u8
+#EXTINF:-1 group-title="未分类",东方卫视
+http://125.210.150.58:9090/live/hzgq-dftvgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",天津卫视
+http://125.210.150.58:9090/live/hzgq-tjwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",重庆卫视
+http://125.210.150.58:9090/live/hzgq-cqwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",黑龙江卫视
+http://125.210.150.58:9090/live/hzgq-hljwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",吉林卫视
+http://125.210.150.58:9090/live/hzgq-jlwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",辽宁卫视
+http://125.210.150.58:9090/live/hzgq-lnwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",内蒙古卫视
+http://125.210.150.58:9090/live/hszx-nmgtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",宁夏卫视
+http://125.210.150.58:9090/live/hszx-nxtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",甘肃卫视
+http://125.210.150.58:9090/live/hszx-gstv-h264.m3u8
+#EXTINF:-1 group-title="未分类",青海卫视
+http://125.210.150.58:9090/live/hszx-qhtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",陕西卫视
+http://125.210.150.58:9090/live/hszx-sxtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",河北卫视
+http://125.210.150.58:9090/live/hszx-hebeitv-h264.m3u8
+#EXTINF:-1 group-title="未分类",山西卫视
+http://125.210.150.58:9090/live/hszx-shanxitv-h264.m3u8
+#EXTINF:-1 group-title="未分类",山东卫视
+http://125.210.150.58:9090/live/hzgq-sdwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",安徽卫视
+http://125.210.150.58:9090/live/hzgq-ahwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",河南卫视
+http://125.210.150.58:9090/live/hszx-henantv-h264.m3u8
+#EXTINF:-1 group-title="未分类",湖北卫视
+http://125.210.150.58:9090/live/hzgq-hbwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",湖南卫视
+http://125.210.150.58:9090/live/hzgq-hnwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",江西卫视
+http://125.210.150.58:9090/live/hzgq-jxwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",江苏卫视
+http://125.210.150.58:9090/live/hzgq-jswsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江卫视
+http://125.210.150.58:9090/live/hzgq-zjwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",东南卫视
+http://125.210.150.58:9090/live/hzgq-fjwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",广东卫视
+http://125.210.150.58:9090/live/hzgq-gdwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",深圳卫视
+http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",广西卫视
+http://125.210.150.58:9090/live/hszx-gxtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",云南卫视
+http://125.210.150.58:9090/live/hszx-yntv-h264.m3u8
+#EXTINF:-1 group-title="未分类",贵州卫视
+http://125.210.150.58:9090/live/hzgq-gzwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",四川卫视
+http://125.210.150.58:9090/live/hzgq-scwsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",新疆卫视
+http://125.210.150.58:9090/live/hszx-xjtv-h264.m3u8
+#EXTINF:-1 group-title="未分类",兵团卫视
+http://125.210.150.58:9090/live/hszx-bttv-h264.m3u8
+#EXTINF:-1 group-title="未分类",西藏卫视
+http://125.210.150.58:9090/live/hszx-xztv-h264.m3u8
+#EXTINF:-1 group-title="未分类",海南卫视
+http://125.210.150.58:9090/live/hszx-lytv-h264.m3u8
+#EXTINF:-1 group-title="未分类",三沙卫视
+http://125.210.150.58:9090/live/hzgq-ssws-h264.m3u8
+#EXTINF:-1 group-title="未分类",北京纪实科教
+http://125.210.150.58:9090/live/hszx-bjjs-h264.m3u8
+#EXTINF:-1 group-title="未分类",四海钓鱼
+http://125.210.150.58:9090/live/hszx-shdy-h264.m3u8
+#EXTINF:-1 group-title="未分类",金鹰纪实
+http://125.210.150.58:9090/live/hszx-jyjs-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江钱江
+http://125.210.150.58:9090/live/hzgq-qjpdgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江经济生活
+http://125.210.150.58:9090/live/hzgq-zjjsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江教育科技
+http://125.210.150.58:9090/live/hzgq-zjjygq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江民生休闲
+http://125.210.150.58:9090/live/hzgq-msxxgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江新闻
+http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江少儿
+http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8
+#EXTINF:-1 group-title="未分类",浙江好易购
+http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州综合
+http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州明珠
+http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州生活
+http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州影视
+http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州青少
+http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8
+#EXTINF:-1 group-title="未分类",杭州导视
+http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",临平新闻
+http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8
+#EXTINF:-1 group-title="未分类",华数频道
+http://125.210.150.58:9090/live/hzgq-hsfwgq-h264.m3u8
+#EXTINF:-1 group-title="未分类",天元围棋
+http://125.210.150.58:9090/live/hszx-tywq-h264.m3u8
+#EXTINF:-1 group-title="未分类",凤 凰中文
+http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8
+#EXTINF:-1 group-title="未分类",凤 凰资讯
+http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8
