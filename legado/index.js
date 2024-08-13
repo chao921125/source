@@ -1,5 +1,4 @@
 (() => {
-//     https://shuyuan.yiove.com/
 //     https://github.com/XIU2/Yuedu?tab=readme-ov-file
 //     https://www.e-yck.top/yuedu/index/index.html
 //     https://gedoor.github.io/
