@@ -2,6 +2,8 @@
 [Lx 官网](https://lxmusic.toside.cn/)
 [Lx Win & Mac 下载地址](https://github.com/lyswhut/lx-music-desktop/releases)
 [Lx 手机版 下载地址](https://github.com/lyswhut/lx-music-mobile/releases)
+# IPTV
+[IPTV](./iptv/README.md)
 # 视频 + 视频源
 [ZyPlayer 官网](https://github.com/Hiram-Wong/ZyPlayer)
 [ZyPlayer 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases)
