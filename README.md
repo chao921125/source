@@ -2,6 +2,13 @@
 [Lx 官网](https://lxmusic.toside.cn/)
 [Lx Win & Mac 下载地址](https://github.com/lyswhut/lx-music-desktop/releases)
 [Lx 手机版 下载地址](https://github.com/lyswhut/lx-music-mobile/releases)
+[listen1](https://github.com/listen1/listen1_desktop)
+[listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)
+[MusicFree](https://github.com/maotoumao/MusicFreeDesktop)
+[MusicFree 安卓&鸿蒙](https://github.com/maotoumao/MusicFree)
+[YesPlayMusic 仿网易](https://github.com/qier222/YesPlayMusic)
+[spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)
+[nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)
 # IPTV
 [IPTV](./iptv/README.md)
 # 视频 + 视频源
