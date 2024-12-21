@@ -26,12 +26,13 @@
 | [IPTV](./iptv/README.md) |
 |                          |
 # 视频 + 视频源
-|                                                                  |
-|------------------------------------------------------------------|
-| [ZyPlayer 官网](https://github.com/Hiram-Wong/ZyPlayer)            |
-| [ZyPlayer 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases) |
-| [my-tv](https://github.com/lizongying/my-tv)                     |
-|                                                                  |
+|                                                                     |
+|---------------------------------------------------------------------|
+| [ZyPlayer 官网](https://github.com/Hiram-Wong/ZyPlayer)               |
+| [ZyPlayer 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases)    |
+| [my-tv](https://github.com/lizongying/my-tv)                        |
+| [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release) |
+|                                                                     |
 # 图书 + 书源
 |                                                        |
 |--------------------------------------------------------|
