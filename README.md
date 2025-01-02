@@ -20,19 +20,52 @@
 | http://www.xmsj.org/ |
 | https://flac.life/   |
 |                      |
-# IPTV
-|                          |
-|--------------------------|
-| [IPTV](./iptv/README.md) |
-|                          |
+
 # 视频 + 视频源
 |                                                                     |
 |---------------------------------------------------------------------|
 | [ZyPlayer 官网](https://github.com/Hiram-Wong/ZyPlayer)               |
 | [ZyPlayer 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases)    |
-| [my-tv](https://github.com/lizongying/my-tv)                        |
 | [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release) |
 |                                                                     |
+
+| IPTV 播放器                                                          |
+|-------------------------------------------------------------------|
+| [Mac iina](https://iina.io/)                                      |
+| [Win iina](https://potplayer.org/en/index.html)                   |
+| [Win SPlayer](https://github.com/imsyy/SPlayer/releases)          |
+| [Win TV](https://github.com/Guovin/TV/releases)                   |
+| [Win linux Ombi](https://github.com/Ombi-app/Ombi)                |
+| [Win SFVIP-Player]()                                              |
+| [Win PotPlayer]()                                                 |
+| [Win QMPlay2]()                                                   |
+| [All videolan](https://www.videolan.org/)                         |
+| [All elmedia-video-player](https://www.elmedia-video-player.com/) |
+| [IOS Mac APTV](https://aptv.app/home)                             |
+| [APK IOS OK影视]()                                                  |
+| [APK ourtv](https://github.com/andandroidor/ourtv)                |
+| [APK my-tv-0](https://github.com/lizongying/my-tv-0)              |
+| [APK my-tv 停更](https://github.com/lizongying/my-tv)               |
+| [APK Televizo]()                                                  |
+| [TV 天光云影](https://tmxk.pp.ua/)                                    |
+| [TV TiviMate]()                                                   |
+| [TV OTT]()                                                        |
+|                                                                   |
+
+| IPTV 源                                                   |
+|----------------------------------------------------------|
+| [iptv-org](https://github.com/iptv-org/iptv)             |
+| [awesome-iptv](https://github.com/iptv-org/awesome-iptv) |
+| [IPTV](https://github.com/joevess/IPTV)                  |
+| [Livelist](https://github.com/Rivens7/Livelist)          |
+| [图标库 live](https://github.com/fanmingming/live)          |
+|                                                          |
+
+| IPTV API                                       |
+|------------------------------------------------|
+| [iptv-api](https://github.com/Guovin/iptv-api) |
+|                                                |
+
 # 图书 + 书源
 |                                                        |
 |--------------------------------------------------------|
@@ -40,6 +73,7 @@
 | [开源阅读 下载地址](https://github.com/gedoor/legado/releases) |
 | [小书包]()                                                |
 |                                                        |
+
 # 漫画 + 图源
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
