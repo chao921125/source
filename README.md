@@ -28,12 +28,17 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | [spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)                           |
 | [nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)                                   |
 
-| 在线                   |
-|----------------------|
-| https://zz123.com/   |
-| https://m.uzz.me/    |
-| http://www.xmsj.org/ |
-|                      |
+| 在线                       |
+|--------------------------|
+| https://www.xmwav.com/   |
+| https://www.gequbao.com/ |
+| https://zz123.com/       |
+| https://m.uzz.me/        |
+| http://www.xmsj.org/     |
+| https://www.kumeiwp.com/ |
+| http://www.eev3.com/     |
+| https://www.isflac.com/  |
+|                          |
 
 # 视频 + 视频源
 |                                                                               |
