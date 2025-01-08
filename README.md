@@ -20,6 +20,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | [Lx ikun 修改版 Win & Mac 下载地址](https://github.com/ikunshare/ikun-music-desktop/releases) |
 | [Lx ikun 修改版 Android 下载地址](https://github.com/ikunshare/ikun-music-mobile/releases)    |
 | [方格 Win & Android](http://fonger.top/) [方格 Win & Android](http://morin.vin/)           |
+| [方格 Android](https://fangge.fun/)                                                      |
 | [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
 | [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
 | [MusicFree Win & Mac & Linux](https://github.com/maotoumao/MusicFreeDesktop)           |
