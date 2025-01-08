@@ -2,7 +2,7 @@
 #### 音乐 [lxmusic](lxmusic)
 https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/lxmusic/****.js
 
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js.js
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 #### 视频 [zyfun](zyfun)
 https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
