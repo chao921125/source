@@ -3,6 +3,7 @@
  * @description Github搜索“洛雪音乐音源”，禁止批量下载！
  * @version v1.2.0
  * @author Huibq
+ * https://github.com/Huibq/keep-alive/blob/master/render_api.js
  */
 const DEV_ENABLE = false
 const API_URL = 'https://lxmusicapi.onrender.com'
