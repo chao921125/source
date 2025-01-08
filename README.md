@@ -1,3 +1,16 @@
+# 使用方法
+#### 音乐 [lxmusic](lxmusic)
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/lxmusic/****.js
+
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js.js
+#### 视频 [zyfun](zyfun)
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/zyfun/index.json
+#### 动漫 [cimoc](cimoc)
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/cimoc/****.json
+
+https://cdn.jsdelivr.net/gh/chao921125/source@3.3.0/cimoc/apk01.json
+#### 小说 [legado](legado)
+
 # 音乐 + 音源
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
@@ -24,12 +37,12 @@
 |                      |
 
 # 视频 + 视频源
-|                                                                     |
-|---------------------------------------------------------------------|
-| [ZyPlayer 官网](https://github.com/Hiram-Wong/ZyPlayer)               |
-| [ZyPlayer 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases)    |
-| [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release) |
-|                                                                     |
+|                                                                               |
+|-------------------------------------------------------------------------------|
+| [ZyFun(原 ZyPlayer) 官网](https://github.com/Hiram-Wong/ZyPlayer)                |
+| [ZyFun(原 ZyPlayer) 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases)     |
+| [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release)           |
+|                                                                               |
 
 | IPTV 播放器                                                          |
 |-------------------------------------------------------------------|
