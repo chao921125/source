@@ -33,7 +33,6 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | https://zz123.com/   |
 | https://m.uzz.me/    |
 | http://www.xmsj.org/ |
-| https://flac.life/   |
 |                      |
 
 # 视频 + 视频源
