@@ -1,7 +1,3 @@
-https://github.com/cyao2q/files
-
-https://github.com/scovis/TVBox
-
 |                                                 |
 |-------------------------------------------------|
 | [小米](https://mpanso.me/DEMO.json)               |
@@ -17,5 +13,7 @@ https://github.com/scovis/TVBox
 | [小盒子](http://xhztv.top/xhz)                     |
 | []()                                            |
 | [多仓配置接口地址 欧歌多仓](http://tv.nxog.top/m/)          |
+| []()                                            |
+| [m线路](https://m.nxog.top/nxog/ou1.php?&mGy)     |
 | []()                                            |
 |                                                 |
