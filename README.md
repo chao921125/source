@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/****.json
 https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 #### 小说 [legado](legado)
 
-# 音乐 + 音源 [lxmusic](lxmusic)
+# 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
 | [Lx 官网](https://lxmusic.toside.cn/) [Lx 官网](https://docs.lxmusic.top/)                 |
