@@ -308,108 +308,9 @@
       "logo": ""
     },
     {
-      "id": "aa20b63b-aa07-4ba4-a58f-362b7c7a4ca0",
-      "name": "凤凰资讯",
-      "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "c669a3e9-ac60-41ab-ad14-167e972ef62c",
-      "name": "茶客",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "825c85e0-899f-4273-a5fa-474056ed075b",
-      "name": "CQYX",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "385599a7-c438-47a7-a37d-b4f081fc83cf",
-      "name": "乌云",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "147bde98-1805-4716-8aee-6ec66c2b5594",
-      "name": "4k/8k",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "4123da99-9bc7-4081-948c-897ece167b7f",
-      "name": "GHYX",
-      "url": "https://telegram-feiyangdigital.v1.mk/ghyx.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
       "id": "02b4370d-bb5c-4e2d-9526-25a93375b666",
       "name": "SXG-IPV6",
       "url": "https://telegram-feiyangdigital.v1.mk/sxg.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "27a3f87a-c6d7-4039-b215-c0f44ddf8272",
-      "name": "爱尚",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "2f63940a-b312-49d5-9f7c-81b2661afbea",
-      "name": "虎牙直播",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "24217631-6381-4238-8538-b2ec032ddc6e",
-      "name": "虎牙一起看",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "d7783d69-e95f-4967-8145-7540aac1f93f",
-      "name": "斗鱼一起看",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "6a90aaac-da7c-47a9-bcf4-e054a8386793",
-      "name": "斗鱼直播",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yu.m3u",
       "type": "remote",
       "isActive": true,
       "epg": "",
@@ -425,24 +326,6 @@
       "logo": ""
     },
     {
-      "id": "1d3ccb06-8057-46d1-a1c0-f5d985eff4d1",
-      "name": "Ray直播",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "https://epg.112114.eu.org/",
-      "logo": ""
-    },
-    {
-      "id": "200dd35b-c3e9-47d3-94ee-0a97e9750d10",
-      "name": "多多直播",
-      "url": "https://bitbucket.org/xduo/duoapi/raw/master/v.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "https://epg.112114.eu.org/",
-      "logo": ""
-    },
-    {
       "id": "237c7838-380f-4386-b1e1-e4e1377bb59a",
       "name": "IPV6专用",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
@@ -452,81 +335,9 @@
       "logo": ""
     },
     {
-      "id": "7140dfec-f822-49f6-8f54-850c09b58d9f",
-      "name": "电视伴音",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "https://epg.112114.eu.org/",
-      "logo": ""
-    },
-    {
-      "id": "412aba40-d4e9-444c-b6a7-be1d16324aa1",
-      "name": "4k/8k",
-      "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "05edd607-5dc6-4218-b64c-549e15c5b368",
-      "name": "秋天直播",
-      "url": "https://pan.shangui.cc/f/XR6dud/%E7%A7%8B%E5%A4%A9%E7%9B%B4%E6%92%AD.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "c7c1140b-bd48-4441-a8a2-5464cb8f79e7",
-      "name": "电视伴音(广播)",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
       "id": "6f35a125-8643-4cf3-9b1f-5d914012de82",
       "name": "pastebin",
       "url": "https://pastebin.com/raw/tuXBQs7U",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "e1c03af1-7dfb-4a40-84a3-0615f5e6da57",
-      "name": "大杂烩",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "a133a593-2d4c-4a53-94ce-156c31ded072",
-      "name": "秒看电视",
-      "url": "https://pan.shangui.cc/f/w7Y4fg/%E7%94%B5%E8%A7%86%E5%AE%B6.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "d57cceed-1377-4678-b322-2608ef2b5923",
-      "name": "天微科技",
-      "url": "https://tvkj.top/tvlive.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "2e2d2110-014b-47fb-b07c-248a15f8c855",
-      "name": "广播",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u",
       "type": "remote",
       "isActive": true,
       "epg": "",
@@ -542,54 +353,9 @@
       "logo": ""
     },
     {
-      "id": "6a64265e-d2e0-4b26-aeea-b8ced55cd4b9",
-      "name": "乌云",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
       "id": "05f22264-6d70-45c7-a226-8df582a2add6",
       "name": "SXG",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "eda5687f-bb53-4416-8340-22e19f3070b6",
-      "name": "大鱼TV",
-      "url": "https://pan.shangui.cc/f/Zk2XFv/%EF%BB%BF%E7%A7%8B%E5%88%86TV.txt",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "0f54133d-27c1-4f28-9662-5fcc19297a89",
-      "name": "虎牙一起看",
-      "url": "https://goodiptv.vercel.app/huyayqk.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "4d988dc4-1f2b-4be9-8c97-7d7fede23d7b",
-      "name": "斗鱼一起看",
-      "url": "https://goodiptv.vercel.app/douyuyqk.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "27647d9e-4a96-4bfa-95dc-a3729441c0d9",
-      "name": "重庆广电源",
-      "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u",
       "type": "remote",
       "isActive": true,
       "epg": "",
@@ -617,60 +383,6 @@
       "id": "d822a8ec-3e25-472d-89bc-d6b7d9b5c984",
       "name": "codeberg:xmbjm",
       "url": "https://codeberg.org/xmbjm/xmbjm/raw/branch/main/xinlive.json",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "ae419a96-a7c9-490f-89ca-42bebcaceccf",
-      "name": "百视通源",
-      "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "fb52dc3e-a867-4afe-89b7-271e28083830",
-      "name": "zbefine源",
-      "url": "https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "0d58bbed-5518-4b88-b1db-979f5b07248d",
-      "name": "知乎:一天天",
-      "url": "http://47.113.202.27:66/tv1.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "be1e0a2a-da48-45bd-8962-e1df43de6b2e",
-      "name": "YQGD",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/yqgd.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "49816176-c5c5-456d-9a1d-e9d6949a1c1f",
-      "name": "MSP",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/msp.m3u",
-      "type": "remote",
-      "isActive": true,
-      "epg": "",
-      "logo": ""
-    },
-    {
-      "id": "7ceba289-cbe9-4a0e-a22c-df135e33e4a0",
-      "name": "体育",
-      "url": "https://codeberg.org/testTV/TestV/raw/branch/main/Slive.m3u",
       "type": "remote",
       "isActive": true,
       "epg": "",
@@ -10695,36 +10407,10 @@
   ],
   "sites": [
     {
-      "id": "5de2f0c3-f6ca-4c30-9947-2f6db112c485",
-      "key": "5de2f0c3-f6ca-4c30-9947-2f6db112c485",
-      "name": "39影视",
-      "api": "https://www.39kan.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
       "id": "ce337e26-f4b0-499f-9f02-5576b1b5bc3e",
       "key": "ce337e26-f4b0-499f-9f02-5576b1b5bc3e",
       "name": "天堂资源",
       "api": "http://vipmv.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
-      "id": "b413e473-4406-4695-99f8-97bb815d26f1",
-      "key": "b413e473-4406-4695-99f8-97bb815d26f1",
-      "name": "6U资源",
-      "api": "http://zy.ataoju.com/inc/api.php",
       "playUrl": "",
       "search": 1,
       "group": "切片",
@@ -11072,19 +10758,6 @@
       "isActive": true
     },
     {
-      "id": "f82aafd1-095c-452a-b54e-57087adbab0a",
-      "key": "f82aafd1-095c-452a-b54e-57087adbab0a",
-      "name": "1080zyku",
-      "api": "http://api.1080zyku.com/inc/api_mac10.php",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
       "id": "c5c0cf0d-d37d-4b87-9955-f107a2200750",
       "key": "c5c0cf0d-d37d-4b87-9955-f107a2200750",
       "name": "U酷资源",
@@ -11163,19 +10836,6 @@
       "isActive": true
     },
     {
-      "id": "3df09793-292a-45c5-8ecf-9c81f527b247",
-      "key": "3df09793-292a-45c5-8ecf-9c81f527b247",
-      "name": "1080资源",
-      "api": "https://1080p.tv/api.php/provide/vod",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
       "id": "78d5f8e2-e0e8-4e01-8acb-56d637515585",
       "key": "78d5f8e2-e0e8-4e01-8acb-56d637515585",
       "name": "易看资源",
@@ -11219,19 +10879,6 @@
       "key": "10c13838-3a9e-4630-9eed-30c568783313",
       "name": "红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
-      "id": "12cd80b7-cad9-4e56-9c3d-801f2382d1cc",
-      "key": "12cd80b7-cad9-4e56-9c3d-801f2382d1cc",
-      "name": "77韩剧",
-      "api": "https://www.77hanju.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 1,
       "group": "切片",
@@ -11329,19 +10976,6 @@
       "type": 1,
       "ext": "",
       "categories": "电视,影视",
-      "isActive": true
-    },
-    {
-      "id": "f8f12cb9-dae0-43b1-887a-473b5de7028a",
-      "key": "f8f12cb9-dae0-43b1-887a-473b5de7028a",
-      "name": "8848",
-      "api": "http://bn.iptv8848.site/api.php/app/",
-      "playUrl": "",
-      "search": 1,
-      "group": "app",
-      "type": 1,
-      "ext": "",
-      "categories": "电 视,影视",
       "isActive": true
     },
     {
@@ -11735,19 +11369,6 @@
       "isActive": true
     },
     {
-      "id": "f9df7c96-0266-46a3-8d22-8610d6e46a6a",
-      "key": "f9df7c96-0266-46a3-8d22-8610d6e46a6a",
-      "name": "49资源网",
-      "api": " https://49zyw.com/api.php/provide/vod/",
-      "playUrl": "",
-      "search": 1,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
       "id": "83b091c6-ea87-4548-acca-c966925d993e",
       "key": "83b091c6-ea87-4548-acca-c966925d993e",
       "name": "快看资源",
@@ -11947,32 +11568,6 @@
       "key": "5136f469-e3d8-42b1-82e9-261f56918f32",
       "name": "八戒云",
       "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "playUrl": "",
-      "search": 0,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
-      "id": "afb4dfc5-136e-43c5-9891-07ea6d1ad940",
-      "key": "afb4dfc5-136e-43c5-9891-07ea6d1ad940",
-      "name": "39影视",
-      "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-      "playUrl": "",
-      "search": 0,
-      "group": "切片",
-      "type": 1,
-      "ext": "",
-      "categories": "电视,影视",
-      "isActive": true
-    },
-    {
-      "id": "c627d569-e91f-4190-be1f-545da2f81dbc",
-      "key": "c627d569-e91f-4190-be1f-545da2f81dbc",
-      "name": "8090资源",
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
       "playUrl": "",
       "search": 0,
       "group": "切片",
@@ -12190,97 +11785,9 @@
       "isActive": true
     },
     {
-      "id": "a81bb331-54cc-463e-957e-88599d598831",
-      "name": "🤮布满灰尘",
-      "server": "https://pan.baiblog.ren/",
-      "showAll": false,
-      "startPage": "/🤮布满灰尘/V盘/",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
       "id": "671775b7-a070-4087-b1a0-8d5f1e7ec519",
       "name": "🌊七米蓝",
       "server": "https://al.chirmyram.com",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "444dce80-de7b-42e7-ae0b-2d5a9956d55f",
-      "name": "🌴 非盘",
-      "server": "http://www.feifwp.top",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "401800ab-804e-4e1c-a3c2-20fd09efad55",
-      "name": "🥼帅盘",
-      "server": "https://hi.shuaipeng.wang",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "dfa729af-d5de-44b1-8f88-97d7db2ab1b9",
-      "name": "🐉神族九帝",
-      "server": "https://alist.shenzjd.com",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "1b180b33-638b-4830-8643-7ef9cdca177e",
-      "name": "☃姬路白雪",
-      "server": "https://pan.jlbx.xyz",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "ee17809c-3538-4616-8d9e-6ee0c89e3045",
-      "name": "🎧听闻网盘",
-      "server": "https://wangpan.sangxuesheng.com",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "a2f7a9c6-b263-4c39-9229-65d49de76497",
-      "name": "✨星梦",
-      "server": "https://pan.bashroot.top",
-      "showAll": false,
-      "startPage": "",
-      "search": false,
-      "headers": "{}",
-      "params": "{}",
-      "isActive": true
-    },
-    {
-      "id": "cfb6d606-77a0-46ae-b35f-228f80b58052",
-      "name": "❤关于纯七",
-      "server": "https://by.xzbzq.com",
       "showAll": false,
       "startPage": "",
       "search": false,
