@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/****.json
 https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 #### 小说 [legado](legado)
 
-# 音乐 + 音源
+# 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
 | [Lx 官网](https://lxmusic.toside.cn/) [Lx 官网](https://docs.lxmusic.top/)                 |
@@ -41,7 +41,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | https://www.isflac.com/  |
 |                          |
 
-# 视频 + 视频源
+# 视频 + 电视直播 + 视频源 [zyfun](zyfun) [iptv](iptv) [tvbox](tvbox)
 |                                                                               |
 |-------------------------------------------------------------------------------|
 | [ZyFun(原 ZyPlayer) 官网](https://github.com/Hiram-Wong/ZyPlayer)                |
@@ -52,6 +52,8 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | IPTV 播放器                                                          |
 |-------------------------------------------------------------------|
 | [Mac iina](https://iina.io/)                                      |
+| [Mac IOS APTV](https://aptv.app/home)                             |
+|                                                                   |
 | [Win iina](https://potplayer.org/en/index.html)                   |
 | [Win SPlayer](https://github.com/imsyy/SPlayer/releases)          |
 | [Win TV](https://github.com/Guovin/TV/releases)                   |
@@ -59,34 +61,33 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | [Win SFVIP-Player]()                                              |
 | [Win PotPlayer]()                                                 |
 | [Win QMPlay2]()                                                   |
-| [All videolan](https://www.videolan.org/)                         |
-| [All elmedia-video-player](https://www.elmedia-video-player.com/) |
-| [IOS Mac APTV](https://aptv.app/home)                             |
+|                                                                   |
 | [APK IOS OK影视]()                                                  |
 | [APK ourtv](https://github.com/andandroidor/ourtv)                |
 | [APK my-tv-0](https://github.com/lizongying/my-tv-0)              |
 | [APK my-tv 停更](https://github.com/lizongying/my-tv)               |
 | [APK Televizo]()                                                  |
+|                                                                   |
+| [IOS ntplayer](https://ntplayer.nilbt.com/)                       |
+| [IOS am3u](https://apps.apple.com/us/app/am3u/id6443454388)       |
+|                                                                   |
 | [TV 天光云影](https://tmxk.pp.ua/)                                    |
 | [TV TiviMate]()                                                   |
 | [TV OTT]()                                                        |
 |                                                                   |
+| [All videolan](https://www.videolan.org/)                         |
+| [All elmedia-video-player](https://www.elmedia-video-player.com/) |
+|                                                                   |
 
-| IPTV 源                                                   |
-|----------------------------------------------------------|
-| [iptv-org](https://github.com/iptv-org/iptv)             |
-| [awesome-iptv](https://github.com/iptv-org/awesome-iptv) |
-| [IPTV](https://github.com/joevess/IPTV)                  |
-| [Livelist](https://github.com/Rivens7/Livelist)          |
-| [图标库 live](https://github.com/fanmingming/live)          |
-|                                                          |
+| TVBox                                                |
+|------------------------------------------------------|
+| [TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) |
+| [files](https://github.com/cyao2q/files)             |
+| []()                                                 |
+| [TVBox](https://github.com/scovis/TVBox)             |
+|                                                      |
 
-| IPTV API                                       |
-|------------------------------------------------|
-| [iptv-api](https://github.com/Guovin/iptv-api) |
-|                                                |
-
-# 图书 + 书源
+# 图书 + 书源 [legado](legado)
 |                                                        |
 |--------------------------------------------------------|
 | [开源阅读 官网](https://gedoor.github.io/)                   |
@@ -94,7 +95,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | [小书包]()                                                |
 |                                                        |
 
-# 漫画 + 图源
+# 漫画 + 图源 [cimoc](cimoc)
 |                                                                                                       |
 |-------------------------------------------------------------------------------------------------------|
 | [Cimoc 官网](https://github.com/Haleydu/Cimoc)  [Cimoc 下载地址](https://github.com/Haleydu/Cimoc/releases) |
@@ -104,3 +105,5 @@ https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
 | [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi)                                          |
 | [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                         |
 |                                                                                                       |
+
+[//]: # (https://yinghezhinan.com/)
