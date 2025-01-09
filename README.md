@@ -1,14 +1,14 @@
 # 使用方法
 #### 音乐 [lxmusic](lxmusic)
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/lxmusic/****.js
+https://cdn.jsdelivr.net/gh/chao921125/source@4.0.0/lxmusic/****.js
 
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+https://cdn.jsdelivr.net/gh/chao921125/source@4.0.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 #### 视频 [zyfun](zyfun)
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/zyfun/index.json
+https://cdn.jsdelivr.net/gh/chao921125/source@4.0.0/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/****.json
+https://cdn.jsdelivr.net/gh/chao921125/source@4.0.0/cimoc/****.json
 
-https://cdn.jsdelivr.net/gh/chao921125/source@3.3.3/cimoc/apk01.json
+https://cdn.jsdelivr.net/gh/chao921125/source@4.0.0/cimoc/apk01.json
 #### 小说 [legado](legado)
 
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
