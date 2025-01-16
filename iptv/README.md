@@ -6,6 +6,8 @@
 | [YueChan](https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u)                     | 180个 | CCTV、卫视频道、国际频道、数字频道、地方频道 |
 | [joevess](https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8)                    | 503个 | CCTV、卫视频道、国际频道、地方频道      |
 | [Kimentanm](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u)           | 177个 | CCTV、卫视频道                |
+| [iptv cc](https://iptv.cc/)                                                                                            |      |                          |
+| [iptvsearch](https://www.foodieguide.com/iptvsearch/)                                                                  |      |                          |
 | []()                                                                                                                   |      |                          |
 |                                                                                                                        |      |                          |
 
