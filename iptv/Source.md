@@ -702,23 +702,6 @@ http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 —————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-
-两岸三地,#genre#
-凤凰卫视
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰资讯
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰影视
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰卫视
-http://120.238.13.198:8000/hls/20/index.m3u8
-香港卫视文旅
-http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-澳门卫视
-http://www.biaozhun114.com/dl/dl668/top.php?id=309
-澳亚卫视
-http://www.biaozhun114.com/dl/dl668/top.php?id=308
-
 👉关于应用,#genre#
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
