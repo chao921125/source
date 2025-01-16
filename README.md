@@ -49,35 +49,36 @@ https://cdn.jsdelivr.net/gh/chao921125/source@4.0.1/cimoc/apk01.json
 | [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release)           |
 |                                                                               |
 
-| IPTV 播放器                                                          |
-|-------------------------------------------------------------------|
-| [Mac iina](https://iina.io/)                                      |
-| [Mac IOS APTV](https://aptv.app/home)                             |
-|                                                                   |
-| [Win iina](https://potplayer.org/en/index.html)                   |
-| [Win SPlayer](https://github.com/imsyy/SPlayer/releases)          |
-| [Win TV](https://github.com/Guovin/TV/releases)                   |
-| [Win linux Ombi](https://github.com/Ombi-app/Ombi)                |
-| [Win SFVIP-Player]()                                              |
-| [Win PotPlayer]()                                                 |
-| [Win QMPlay2]()                                                   |
-|                                                                   |
-| [APK IOS OK影视]()                                                  |
-| [APK ourtv](https://github.com/andandroidor/ourtv)                |
-| [APK my-tv-0](https://github.com/lizongying/my-tv-0)              |
-| [APK my-tv 停更](https://github.com/lizongying/my-tv)               |
-| [APK Televizo]()                                                  |
-|                                                                   |
-| [IOS ntplayer](https://ntplayer.nilbt.com/)                       |
-| [IOS am3u](https://apps.apple.com/us/app/am3u/id6443454388)       |
-|                                                                   |
-| [TV 天光云影](https://tmxk.pp.ua/)                                    |
-| [TV TiviMate]()                                                   |
-| [TV OTT]()                                                        |
-|                                                                   |
-| [All videolan](https://www.videolan.org/)                         |
-| [All elmedia-video-player](https://www.elmedia-video-player.com/) |
-|                                                                   |
+| IPTV 播放器                                                           |
+|--------------------------------------------------------------------|
+| [Mac iina](https://iina.io/) [](https://github.com/iina/iina)      |
+| [Mac iina-plus](https://github.com/xjbeta/iina-plus)               |
+| [Mac IOS APTV](https://aptv.app/home)                              |
+|                                                                    |
+| [Win iina](https://potplayer.org/en/index.html)                    |
+| [Win SPlayer](https://github.com/imsyy/SPlayer/releases)           |
+| [Win TV](https://github.com/Guovin/TV/releases)                    |
+| [Win linux Ombi](https://github.com/Ombi-app/Ombi)                 |
+| [Win SFVIP-Player]()                                               |
+| [Win PotPlayer]()                                                  |
+| [Win QMPlay2]()                                                    |
+|                                                                    |
+| [APK IOS OK影视]()                                                   |
+| [APK ourtv](https://github.com/andandroidor/ourtv)                 |
+| [APK my-tv-0](https://github.com/lizongying/my-tv-0)               |
+| [APK my-tv 停更](https://github.com/lizongying/my-tv)                |
+| [APK Televizo]()                                                   |
+|                                                                    |
+| [IOS ntplayer](https://ntplayer.nilbt.com/)                        |
+| [IOS am3u](https://apps.apple.com/us/app/am3u/id6443454388)        |
+|                                                                    |
+| [TV 天光云影](https://tmxk.pp.ua/)                                     |
+| [TV TiviMate]()                                                    |
+| [TV OTT]()                                                         |
+|                                                                    |
+| [All videolan](https://www.videolan.org/)                          |
+| [All elmedia-video-player](https://www.elmedia-video-player.com/)  |
+|                                                                    |
 
 | TVBox                                                |
 |------------------------------------------------------|
