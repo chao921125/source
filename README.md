@@ -52,36 +52,45 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
 | [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release)           |
 |                                                                               |
 
-| IPTV 播放器                                                           |
-|--------------------------------------------------------------------|
-| [Mac iina](https://iina.io/) [](https://github.com/iina/iina)      |
-| [Mac iina-plus](https://github.com/xjbeta/iina-plus)               |
-| [Mac IOS APTV](https://aptv.app/home)                              |
-|                                                                    |
-| [Win iina](https://potplayer.org/en/index.html)                    |
-| [Win SPlayer](https://github.com/imsyy/SPlayer/releases)           |
-| [Win TV](https://github.com/Guovin/TV/releases)                    |
-| [Win linux Ombi](https://github.com/Ombi-app/Ombi)                 |
-| [Win SFVIP-Player]()                                               |
-| [Win PotPlayer]()                                                  |
-| [Win QMPlay2]()                                                    |
-|                                                                    |
-| [APK IOS OK影视]()                                                   |
-| [APK ourtv](https://github.com/andandroidor/ourtv)                 |
-| [APK my-tv-0](https://github.com/lizongying/my-tv-0)               |
-| [APK my-tv 停更](https://github.com/lizongying/my-tv)                |
-| [APK Televizo]()                                                   |
-|                                                                    |
-| [IOS ntplayer](https://ntplayer.nilbt.com/)                        |
-| [IOS am3u](https://apps.apple.com/us/app/am3u/id6443454388)        |
-|                                                                    |
-| [TV 天光云影](https://tmxk.pp.ua/)                                     |
-| [TV TiviMate]()                                                    |
-| [TV OTT]()                                                         |
-|                                                                    |
-| [All videolan](https://www.videolan.org/)                          |
-| [All elmedia-video-player](https://www.elmedia-video-player.com/)  |
-|                                                                    |
+| [IPTV 播放器](https://github.com/iptv-org/awesome-iptv)              |
+|-------------------------------------------------------------------|
+| [All VLC](https://www.videolan.org/)                              |
+| [All elmedia-video-player](https://www.elmedia-video-player.com/) |
+| [All open-tv](https://github.com/Fredolx/open-tv)                 |
+| [All iptvnator](https://github.com/4gray/iptvnator)               |
+| [All SPlayer](https://github.com/imsyy/SPlayer)                   |
+| [All Ombi](https://github.com/Ombi-app/Ombi)                      |
+| [All QMPlay2](https://github.com/zaps166/QMPlay2)                 |
+| [All media-kit](https://github.com/media-kit/media-kit)           |
+|                                                                   |
+| [Win mpc-hc](https://github.com/clsid2/mpc-hc)                    |
+| [Win mpv.net](https://github.com/mpvnet-player/mpv.net)           |
+| [Win tsukimi](https://github.com/tsukinaha/tsukimi)               |
+| [Win kodi](https://kodi.tv/)                                      |
+| [Win PotPlayer](https://potplayer.org/en/index.html)              |
+| [Win TV](https://github.com/Guovin/TV/releases)                   |
+| [Win SFVIP-Player](https://github.com/austintools/SFVIP-Player)   |
+|                                                                   |
+| [Mac iina](https://iina.io/) [](https://github.com/iina/iina)     |
+| [Mac iina-plus](https://github.com/xjbeta/iina-plus)              |
+| [Mac IOS APTV](https://aptv.app/home)                             |
+|                                                                   |
+| [APK IOS OK影视]()                                                  |
+| [APK ourtv](https://github.com/andandroidor/ourtv)                |
+| [APK my-tv-0](https://github.com/lizongying/my-tv-0)              |
+| [APK mpv-android](https://github.com/mpv-android/mpv-android)     |
+| [APK nextplayer](https://github.com/anilbeesetti/nextplayer)      |
+| [APK Player](https://github.com/moneytoo/Player)                  |
+| [APK my-tv 停更](https://github.com/lizongying/my-tv)               |
+| [APK Televizo]()                                                  |
+|                                                                   |
+| [IOS ntplayer](https://ntplayer.nilbt.com/)                       |
+| [IOS am3u](https://apps.apple.com/us/app/am3u/id6443454388)       |
+|                                                                   |
+| [TV 天光云影](https://tmxk.pp.ua/)                                    |
+| [TV TiviMate]()                                                   |
+| [TV OTT]()                                                        |
+|                                                                   |
 
 | TVBox                                                |
 |------------------------------------------------------|
