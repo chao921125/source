@@ -7,3 +7,4 @@ https://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyua
 http://sy.legado1.top/sy.php/a70dce0cc0b32cd5120e568603b4888d.json
 http://sy.legado1.top/sy.php/a921c98826526e13a8be13f4cea49d93.json&#8203;
 http://sy.legado1.top/sy.php/a058c3d4525c89345a5793c383bdf071.json&#8203;
+https://github.com/shidahuilang/shuyuan
