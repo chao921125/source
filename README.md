@@ -1,18 +1,18 @@
-# 使用方法
+# 使用方法 [version = 5.0.0]
 #### 音乐 [lxmusic](lxmusic)
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/lxmusic/****.js
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/lxmusic/****.js
 
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 #### 视频 [zyfun](zyfun)
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/zyfun/index.json
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/cimoc/****.json
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/****.json
 
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/cimoc/apk01.json
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/apk01.json
 #### 小说 [legado](legado)
 
 #### IPTV
-https://cdn.jsdelivr.net/gh/chao921125/source@5.0.0/cimoc/index.m3u
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
 
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
