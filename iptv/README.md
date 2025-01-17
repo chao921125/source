@@ -31,14 +31,21 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Sketches.m3u
 
 | IPTV 源                                                   |
 |----------------------------------------------------------|
-| [iptv-org](https://github.com/iptv-org/iptv)             |
 | [awesome-iptv](https://github.com/iptv-org/awesome-iptv) |
-| [IPTV](https://github.com/joevess/IPTV)                  |
-| [Livelist](https://github.com/Rivens7/Livelist)          |
 | [图标库 live](https://github.com/fanmingming/live)          |
+| [epg 51zmt](http://epg.51zmt.top:8000/)                  |
+| [m3u iptv-sources](https://m3u.ibert.me/)                |
+| [m3u epg](https://epg.pw/test_channel_page.html)         |
 |                                                          |
 
-| IPTV API                                       |
-|------------------------------------------------|
-| [iptv-api](https://github.com/Guovin/iptv-api) |
-|                                                |
+| IPTV API                                             |
+|------------------------------------------------------|
+| [iptv-org](https://github.com/iptv-org/iptv)         |
+| [Guovin](https://github.com/Guovin/iptv-api)         |
+| [joevess](https://github.com/joevess/IPTV)           |
+| [Rivens7](https://github.com/Rivens7/Livelist)       |
+| [Free-TV](https://github.com/Free-TV/IPTV)           |
+| [YueChan](https://github.com/YueChan/Live)           |
+| [YanG-1989](https://github.com/YanG-1989/m3u)        |
+| [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV) |
+|                                                      |
