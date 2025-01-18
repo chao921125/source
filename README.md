@@ -11,7 +11,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/****.json
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/apk01.json
 #### 小说 [legado](legado)
 
-#### IPTV
+#### IPTV [iptv](iptv)
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
 
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
