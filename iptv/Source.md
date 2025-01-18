@@ -1,26 +1,18 @@
 
-隆化影视
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/playlist.m3u8
-隆化影视
-http://hblh.chinashadt.com:2036/live/stream:lh2.stream/HasBahCa.m3u8
-潜江
-http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
 青州综合
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 青州文化旅游
 http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
-霍山综合
-http://ahhsdb.chinashadt.com:1936/live/stream:ahws.stream/playlist.m3u8?zanhd
+
 武夷山综合
 http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 CCTV 1
 http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
-隆化综合频道
-http://hblh.chinashadt.com:2036/live/stream:lh1.stream/playlist.m3u8
 
 
 固镇新闻
-http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
+http://www.guzhenm.com:7001/hls/hd-live.m3u8
+
 灵璧综合
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 金海湖电视台
@@ -3575,10 +3567,6 @@ http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8
 https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
 德阳公共
 http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
-固镇新闻
-http://www.guzhenm.com:7001/hls/hd-live.m3u8
-固镇影视
-http://www.guzhenm.com:7004/hls/hd-live.m3u8
 灵璧综合
 http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
 范县新闻综合
