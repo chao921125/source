@@ -63,11 +63,11 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
 | [All QMPlay2](https://github.com/zaps166/QMPlay2)                 |
 | [All media-kit](https://github.com/media-kit/media-kit)           |
 |                                                                   |
+| [Win PotPlayer](https://potplayer.org/en/index.html)              |
 | [Win mpc-hc](https://github.com/clsid2/mpc-hc)                    |
 | [Win mpv.net](https://github.com/mpvnet-player/mpv.net)           |
 | [Win tsukimi](https://github.com/tsukinaha/tsukimi)               |
 | [Win kodi](https://kodi.tv/)                                      |
-| [Win PotPlayer](https://potplayer.org/en/index.html)              |
 | [Win TV](https://github.com/Guovin/TV/releases)                   |
 | [Win SFVIP-Player](https://github.com/austintools/SFVIP-Player)   |
 |                                                                   |

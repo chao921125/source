@@ -867,6 +867,12 @@ http://222.179.42.129:8181/hls1.m3u8
 重庆｜万源新闻综合
 http://live.wanyuannews.com/wytv/hd/live.m3u8
 
+荣昌综合
+http://183.64.181.25:40023/rongchang01.m3u8
+
+潼南综合
+http://183.230.184.51:65500/tntv1.m3u8
+
 大足综合
 http://218.201.85.71:3170/m3u8?zzhongqd
 
@@ -1608,6 +1614,47 @@ http://live.xysrmt.cn/xwzh/sd/live.m3u8
 宜兴新
 张家港新闻综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+
+句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+句容生活
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+句容党建
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+句容影视
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+句容新闻综合
+http://jrlive.jrntv.com/live/_definst_/jrxwzhs/playlist.m3u8
+句容生活频道
+http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8
+句容影院频道
+http://jrlive.jrntv.com/live/_definst_/yingshis/playlist.m3u8
+句容党建频道
+http://jrlive.jrntv.com/live/_definst_/dangjians/playlist.m3u8
+
+镇江新闻综合
+http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
+镇江民生
+http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
+
+靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+靖江新闻综合
+http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8
+
+徐州新闻综合
+http://stream3.huaihai.tv/xwzh1t/sd/live.m3u8
+徐州经济生活
+http://stream3.huaihai.tv/xz2t/sd/live.m3u8
+徐州公共频道
+http://stream3.huaihai.tv/xz4t/sd/live.m3u8
+徐州文艺影视
+http://stream3.huaihai.tv/xz3t/sd/live.m3u8
+
+连云港新闻综合
+http://live.lyg1.com/zhpd/sd/live.m3u8
+连云港公共
+http://live.lyg1.com/ggpd/sd/live.m3u8
 
 
 #EXTM3U,#江西频道#,#genre#
