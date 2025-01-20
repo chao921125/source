@@ -1,4 +1,4 @@
-# 使用方法 [version = 5.2.11]
+# 使用方法 [version = 5.3.0]
 #### 音乐 [lxmusic](lxmusic)
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/lxmusic/****.js
 
