@@ -1667,8 +1667,6 @@ http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8
 https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
 #EXTINF:-1 tvg-name="嘉定电视台" tvg-logo="https://live.fanmingming.cn/tv/嘉定电视台.png" group-title="上海频道",嘉定电视台
 https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
-#EXTINF:-1 tvg-name="http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8" tvg-logo="https://live.fanmingming.cn/tv/http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8.png" group-title="山西频道山西｜运城公共",http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8
-undefined
 #EXTINF:-1 tvg-name="山西｜运城新闻综合" tvg-logo="https://live.fanmingming.cn/tv/山西｜运城新闻综合.png" group-title="山西频道山西｜运城公共",山西｜运城新闻综合
 http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8
 #EXTINF:-1 tvg-name="山西｜运城科技教育" tvg-logo="https://live.fanmingming.cn/tv/山西｜运城科技教育.png" group-title="山西频道山西｜运城公共",山西｜运城科技教育

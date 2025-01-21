@@ -1,65 +1,63 @@
-#EXTM3U,#直播频道#,#genre#
-美丽中国说
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="美丽中国说" tvg-logo="https://live.fanmingming.cn/tv/美丽中国说.png" group-title="#EXTM3U,#直播频道#",美丽中国说
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
-美丽中国自然
+#EXTINF:-1 tvg-name="美丽中国自然" tvg-logo="https://live.fanmingming.cn/tv/美丽中国自然.png" group-title="#EXTM3U,#直播频道#",美丽中国自然
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
-航拍中国第一季
+#EXTINF:-1 tvg-name="航拍中国第一季" tvg-logo="https://live.fanmingming.cn/tv/航拍中国第一季.png" group-title="#EXTM3U,#直播频道#",航拍中国第一季
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-梵净山
+#EXTINF:-1 tvg-name="梵净山" tvg-logo="https://live.fanmingming.cn/tv/梵净山.png" group-title="#EXTM3U,#直播频道#",梵净山
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
-乘着火车看中国
+#EXTINF:-1 tvg-name="乘着火车看中国" tvg-logo="https://live.fanmingming.cn/tv/乘着火车看中国.png" group-title="#EXTM3U,#直播频道#",乘着火车看中国
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-
-直播中国
+#EXTINF:-1 tvg-name="直播中国" tvg-logo="https://live.fanmingming.cn/tv/直播中国.png" group-title="#EXTM3U,#直播频道#",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-熊猫基地
+#EXTINF:-1 tvg-name="熊猫基地" tvg-logo="https://live.fanmingming.cn/tv/熊猫基地.png" group-title="#EXTM3U,#直播频道#",熊猫基地
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-都江堰青青
+#EXTINF:-1 tvg-name="都江堰青青" tvg-logo="https://live.fanmingming.cn/tv/都江堰青青.png" group-title="#EXTM3U,#直播频道#",都江堰青青
 http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-都江堰妃妃
+#EXTINF:-1 tvg-name="都江堰妃妃" tvg-logo="https://live.fanmingming.cn/tv/都江堰妃妃.png" group-title="#EXTM3U,#直播频道#",都江堰妃妃
 http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-都江堰娅祥
+#EXTINF:-1 tvg-name="都江堰娅祥" tvg-logo="https://live.fanmingming.cn/tv/都江堰娅祥.png" group-title="#EXTM3U,#直播频道#",都江堰娅祥
 http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-都江堰瑞瑞
+#EXTINF:-1 tvg-name="都江堰瑞瑞" tvg-logo="https://live.fanmingming.cn/tv/都江堰瑞瑞.png" group-title="#EXTM3U,#直播频道#",都江堰瑞瑞
 http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-都江堰英英
+#EXTINF:-1 tvg-name="都江堰英英" tvg-logo="https://live.fanmingming.cn/tv/都江堰英英.png" group-title="#EXTM3U,#直播频道#",都江堰英英
 http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-都江堰壹玖
+#EXTINF:-1 tvg-name="都江堰壹玖" tvg-logo="https://live.fanmingming.cn/tv/都江堰壹玖.png" group-title="#EXTM3U,#直播频道#",都江堰壹玖
 http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-都江堰水秀
+#EXTINF:-1 tvg-name="都江堰水秀" tvg-logo="https://live.fanmingming.cn/tv/都江堰水秀.png" group-title="#EXTM3U,#直播频道#",都江堰水秀
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-都江堰怡然
+#EXTINF:-1 tvg-name="都江堰怡然" tvg-logo="https://live.fanmingming.cn/tv/都江堰怡然.png" group-title="#EXTM3U,#直播频道#",都江堰怡然
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-基地幼年园①
+#EXTINF:-1 tvg-name="基地幼年园①" tvg-logo="https://live.fanmingming.cn/tv/基地幼年园①.png" group-title="#EXTM3U,#直播频道#",基地幼年园①
 http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
-基地幼年园①
+#EXTINF:-1 tvg-name="基地幼年园①" tvg-logo="https://live.fanmingming.cn/tv/基地幼年园①.png" group-title="#EXTM3U,#直播频道#",基地幼年园①
 http://gcalic.v.myalicdn.com/gc/xiongmao04_1/index.m3u8
-基地母子园①
+#EXTINF:-1 tvg-name="基地母子园①" tvg-logo="https://live.fanmingming.cn/tv/基地母子园①.png" group-title="#EXTM3U,#直播频道#",基地母子园①
 http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-基地母子园①
+#EXTINF:-1 tvg-name="基地母子园①" tvg-logo="https://live.fanmingming.cn/tv/基地母子园①.png" group-title="#EXTM3U,#直播频道#",基地母子园①
 http://gcalic.v.myalicdn.com/gc/xiongmao08_1/index.m3u8
-基地幼儿园①
+#EXTINF:-1 tvg-name="基地幼儿园①" tvg-logo="https://live.fanmingming.cn/tv/基地幼儿园①.png" group-title="#EXTM3U,#直播频道#",基地幼儿园①
 http://gcalic.v.myalicdn.com/gc/xiongmao05_1/index.m3u8
-基地幼儿园①
+#EXTINF:-1 tvg-name="基地幼儿园①" tvg-logo="https://live.fanmingming.cn/tv/基地幼儿园①.png" group-title="#EXTM3U,#直播频道#",基地幼儿园①
 http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-基地成年园①
+#EXTINF:-1 tvg-name="基地成年园①" tvg-logo="https://live.fanmingming.cn/tv/基地成年园①.png" group-title="#EXTM3U,#直播频道#",基地成年园①
 http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-基地成年园①
+#EXTINF:-1 tvg-name="基地成年园①" tvg-logo="https://live.fanmingming.cn/tv/基地成年园①.png" group-title="#EXTM3U,#直播频道#",基地成年园①
 http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
-基地别墅
+#EXTINF:-1 tvg-name="基地别墅" tvg-logo="https://live.fanmingming.cn/tv/基地别墅.png" group-title="#EXTM3U,#直播频道#",基地别墅
 http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-基地别墅
+#EXTINF:-1 tvg-name="基地别墅" tvg-logo="https://live.fanmingming.cn/tv/基地别墅.png" group-title="#EXTM3U,#直播频道#",基地别墅
 http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-大丰麋鹿
+#EXTINF:-1 tvg-name="大丰麋鹿" tvg-logo="https://live.fanmingming.cn/tv/大丰麋鹿.png" group-title="#EXTM3U,#直播频道#",大丰麋鹿
 http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-白马雪山
+#EXTINF:-1 tvg-name="白马雪山" tvg-logo="https://live.fanmingming.cn/tv/白马雪山.png" group-title="#EXTM3U,#直播频道#",白马雪山
 http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
-都江堰高清
+#EXTINF:-1 tvg-name="都江堰高清" tvg-logo="https://live.fanmingming.cn/tv/都江堰高清.png" group-title="#EXTM3U,#直播频道#",都江堰高清
 http://gcalic.v.myalicdn.com/gc/ipanda1000_1td/index.m3u8
-浙江杭州云栖小镇
+#EXTINF:-1 tvg-name="浙江杭州云栖小镇" tvg-logo="https://live.fanmingming.cn/tv/浙江杭州云栖小镇.png" group-title="#EXTM3U,#直播频道#",浙江杭州云栖小镇
 https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-
-峨眉电影
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/峨眉电影.png" group-title="#EXTM3U,#直播频道#",峨眉电影
 http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0
-峨眉电影
+#EXTINF:-1 tvg-name="峨眉电影" tvg-logo="https://live.fanmingming.cn/tv/峨眉电影.png" group-title="#EXTM3U,#直播频道#",峨眉电影
 http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
