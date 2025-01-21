@@ -33,24 +33,40 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Sketches.m3u
 | [m3u epg](https://epg.pw/test_channel_page.html)         |
 |                                                          |
 
-| IPTV API                                                     |
-|--------------------------------------------------------------|
-| [iptv-org](https://github.com/iptv-org/iptv)                 |
-| [Guovin](https://github.com/Guovin/iptv-api)                 |
-| [joevess](https://github.com/joevess/IPTV)                   |
-| [Rivens7](https://github.com/Rivens7/Livelist)               |
-| [Free-TV](https://github.com/Free-TV/IPTV)                   |
-| [YueChan](https://github.com/YueChan/Live)                   |
-| [YanG-1989](https://github.com/YanG-1989/m3u)                |
-| [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV)         |
-| [vbskycn](https://github.com/vbskycn/iptv)                   |
-| [suxuang](https://github.com/suxuang/myIPTV)                 |
-| [kimwang1978](https://github.com/kimwang1978/collect-tv-txt) |
-| [xzw832](https://github.com/xzw832/cmys)                     |
-| [asdjkl6](https://github.com/asdjkl6/tv)                     |
-| [yuanzl77](https://github.com/yuanzl77/IPTV)                 |
-| [fanmingming](https://github.com/fanmingming/live)           |
-|                                                              |
+| IPTV API                                                                                    |
+|---------------------------------------------------------------------------------------------|
+| [iptv-org](https://github.com/iptv-org/iptv)                                                |
+| [Guovin](https://github.com/Guovin/iptv-api)                                                |
+| [joevess](https://github.com/joevess/IPTV)                                                  |
+| [Rivens7](https://github.com/Rivens7/Livelist)                                              |
+| [Free-TV](https://github.com/Free-TV/IPTV)                                                  |
+| [YueChan](https://github.com/YueChan/Live)                                                  |
+| [YanG-1989](https://github.com/YanG-1989/m3u)                                               |
+| [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV)                                        |
+| [vbskycn](https://github.com/vbskycn/iptv)                                                  |
+| [suxuang](https://github.com/suxuang/myIPTV)                                                |
+| [kimwang1978](https://github.com/kimwang1978/collect-tv-txt)                                |
+| [xzw832](https://github.com/xzw832/cmys)                                                    |
+| [asdjkl6](https://github.com/asdjkl6/tv)                                                    |
+| [yuanzl77](https://github.com/yuanzl77/IPTV)                                                |
+| [fanmingming](https://github.com/fanmingming/live)                                          |
+|                                                                                             |
+| https://live.zbds.top/tv/iptv6.m3u                                                          |
+| 1.范明明直播源：https://github.com/fanmingming/live                                                |
+| 2. Tvlist-awesome:  https://github.com/imDazui/Tvlist-awesome-m3u-m3u8                      |
+| 3.IPTV: https://github.com/kimcrowing/IPTV                                                  |
+| 4.WTV: https://github.com/biancangming/wtv                                                  |
+| 5.Myiptv: https://github.com/abc1763613206/myiptv                                           |
+| 6.IPTV6直播源: https://github.com/lylehust/Chinese-IPTV                                        |
+| 7.更多的: https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u           |
+| https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-SXYD.m3u                  |
+| https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u             |
+| https://raw.githubusercontent.com/lylehust/Chinese-IPTV/master/TV-EDU-HAUST.m3u             |
+| https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u  |
+|                                                                                             |
+|                                                                                             |
+|                                                                                             |
+[//]: # (https://www.freedidi.com/14946.html)
 
 # M3U8 格式
 ```text
