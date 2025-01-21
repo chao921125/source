@@ -44,3 +44,10 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Sketches.m3u
 | [YanG-1989](https://github.com/YanG-1989/m3u)        |
 | [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV) |
 |                                                      |
+
+# M3U8 格式
+```text
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-id="节目的唯一标识符" tvg-country="节目的所属国家" tvg-language="节目的语言" tvg-logo="节目LOGO" group-title="节目的分组名称",节目的标题
+url
+```
