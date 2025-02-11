@@ -1,10 +1,13 @@
-https://github.com/XIU2/Yuedu?tab=readme-ov-file https://yuedu.xiu2.xyz/
-https://www.e-yck.top/yuedu/index/index.html
-https://gedoor.github.io/
-https://www.gitlink.org.cn/yi-c/yd
-https://legado.aoaostar.com/
-https://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/good.json
-http://sy.legado1.top/sy.php/a70dce0cc0b32cd5120e568603b4888d.json
-http://sy.legado1.top/sy.php/a921c98826526e13a8be13f4cea49d93.json&#8203;
-http://sy.legado1.top/sy.php/a058c3d4525c89345a5793c383bdf071.json&#8203;
-https://github.com/shidahuilang/shuyuan
+| 书源                                                                                                          |
+|-------------------------------------------------------------------------------------------------------------|
+| [精品书源](https://bitbucket.org/xiu2/yuedu/raw/master/shuyuan)                                                 |
+| [源](https://gh.llkk.cc/https://raw.githubusercontent.com/shidahuilang/shuyuan/refs/heads/shuyuan/azyd.json) |
+| []()                                                                                                        |
+ 
+| 书源项目                                                                                         |
+|----------------------------------------------------------------------------------------------|
+| [「阅读」APP 精品书源](https://github.com/XIU2/Yuedu?tab=readme-ov-file) [](https://yuedu.xiu2.xyz/) |
+| [开源阅读](https://gedoor.github.io/)                                                            |
+| [源](https://legado.aoaostar.com/)                                                            |
+| [书源](https://github.com/shidahuilang/shuyuan)                                                |
+| []()                                                                                         |
