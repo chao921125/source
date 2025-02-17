@@ -18,17 +18,17 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
+| [方格 Win & Android](http://fonger.top/) [方格 Win & Android](http://morin.vin/)           |
+| [方格 Android](https://fangge.fun/)                                                      |
 | [Lx 官网](https://lxmusic.toside.cn/) [Lx 官网](https://docs.lxmusic.top/)                 |
 | [Lx Win & Mac 下载地址](https://github.com/lyswhut/lx-music-desktop/releases)              |
 | [Lx Android 下载地址](https://github.com/lyswhut/lx-music-mobile/releases)                 |
 | [Lx ikun 修改版 Win & Mac 下载地址](https://github.com/ikunshare/ikun-music-desktop/releases) |
 | [Lx ikun 修改版 Android 下载地址](https://github.com/ikunshare/ikun-music-mobile/releases)    |
-| [方格 Win & Android](http://fonger.top/) [方格 Win & Android](http://morin.vin/)           |
-| [方格 Android](https://fangge.fun/)                                                      |
-| [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
-| [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
 | [MusicFree Win & Mac & Linux](https://github.com/maotoumao/MusicFreeDesktop)           |
 | [MusicFree 安卓 & 鸿蒙](https://github.com/maotoumao/MusicFree)                            |
+| [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
+| [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
 | [YesPlayMusic 仿网易](https://github.com/qier222/YesPlayMusic)                            |
 | [spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)                           |
 | [nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)                                   |
