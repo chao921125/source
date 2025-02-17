@@ -1,14 +1,14 @@
-# 使用方法 [version = 5.6.6]
+# 使用方法 [version = 6.0.0]
 #### 音乐 [lxmusic](lxmusic)
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/lxmusic/****.js
 
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+https://cdn.jsdelivr.net/gh/chao921125/source@6.0.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+#### 音乐 [musicfree](musicfree)
+https://cdn.jsdelivr.net/gh/chao921125/source@[version]/musicfree/index.json
 #### 视频 [zyfun](zyfun)
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
 https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/****.json
-
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/cimoc/apk01.json
 #### 小说 [legado](legado)
 
 #### IPTV [iptv](iptv)

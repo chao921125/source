@@ -29,8 +29,6 @@ fs.readFile(filePath, "utf8", (err, data) => {
         map.forEach((item) => {
             uniqueData.push(item);
         });
-        console.log(uniqueData);
-        // console.log(JSON.stringify(uniqueData));
         fs.writeFileSync(filePathOut, JSON.stringify(uniqueData), "utf8");
     } catch (parseErr) {
         console.error("Error parsing JSON:", parseErr);
