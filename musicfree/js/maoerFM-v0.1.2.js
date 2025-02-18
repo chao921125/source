@@ -6,14 +6,13 @@ function validMusicFilter(_) {
     return `${_.pay_type}` === "0";
 }
 function formatMusicItem(_) {
-    var _a;
     return {
         id: _.id,
         artwork: _.front_cover,
         title: _.soundstr,
         artist: _.username,
         user_id: _.user_id,
-        duration: +((_a = _.duration) !== null && _a !== void 0 ? _a : 0),
+        duration: +(_.duration ?? 0),
     };
 }
 function formatAlbumItem(_) {
@@ -116,7 +115,7 @@ async function getRecommendSheetTags() {
             referer: `https://www.missevan.com`,
         }
     })).data.info;
-    const data = Object.entries(res !== null && res !== void 0 ? res : {}).map(group => ({
+    const data = Object.entries(res ?? {}).map(group => ({
         title: group[0],
         data: group[1].map(_ => ({
             id: _[0],
@@ -137,7 +136,7 @@ async function getRecommendSheetsByTag(tag, page) {
         },
         params: {
             order: 0,
-            tid: (tag === null || tag === void 0 ? void 0 : tag.id) || 0,
+            tid: tag?.id || 0,
             p: page
         }
     })).data;
@@ -177,12 +176,11 @@ async function getMusicSheetInfo(sheet, page) {
 }
 module.exports = {
     platform: "猫耳FM",
-    author: '猫头猫',
-    version: "0.1.4",
+    version: "0.1.2",
     appVersion: ">0.1.0-alpha.0",
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/maoerfm/index.js",
+    order: 16,
+    srcUrl: "http://adad23u.appinstall.life/dist/maoerfm/index.js",
     cacheControl: "no-cache",
-    supportedSearchType: ["music", "album",],
     async search(query, page, type) {
         if (type === "music") {
             return await searchMusic(query, page);

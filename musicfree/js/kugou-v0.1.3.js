@@ -346,7 +346,7 @@ module.exports = {
     version: "0.1.3",
     appVersion: ">0.1.0-alpha.0",
     order: 15,
-    srcUrl: "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/kugou.js",
+    srcUrl: "http://adad23u.appinstall.life/dist/kugou/index.js",
     cacheControl: "no-cache",
     primaryKey: ["id", "album_id", "album_audio_id"],
     hints: {
