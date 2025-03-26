@@ -109,14 +109,15 @@ https://cdn.jsdelivr.net/gh/chao921125/source@6.0.0/iptv/index.m3u
 |                                                        |
 
 # 漫画 + 图源 [cimoc](cimoc)
-|                                                                                                       |
-|-------------------------------------------------------------------------------------------------------|
-| [Cimoc 官网](https://github.com/Haleydu/Cimoc)  [Cimoc 下载地址](https://github.com/Haleydu/Cimoc/releases) |
-| [cartoon](https://github.com/hongchacha/cartoon)                                                      |
-| [CeJS](https://github.com/kanasimi/work_crawler)                                                      |
-| [mihon](https://github.com/mihonapp/mihon)                                                            |
-| [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi)                                          |
-| [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                         |
-|                                                                                                       |
+|                                                                                                                  |
+|------------------------------------------------------------------------------------------------------------------|
+| [Cimoc 官网](https://github.com/Haleydu/Cimoc)  [Cimoc 下载地址](https://github.com/Haleydu/Cimoc/releases)            |
+| [Cilidili IOS](https://apps.apple.com/br/app/cilidili%E6%BC%AB%E7%94%BB%E6%B5%8F%E8%A7%88%E5%99%A8/id1597875546) |
+| [cartoon](https://github.com/hongchacha/cartoon)                                                                 |
+| [CeJS](https://github.com/kanasimi/work_crawler)                                                                 |
+| [mihon](https://github.com/mihonapp/mihon)                                                                       |
+| [EasyBangumi](https://github.com/easybangumiorg/EasyBangumi)                                                     |
+| [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                                    |
+|                                                                                                                  |
 
 [//]: # (https://yinghezhinan.com/)
