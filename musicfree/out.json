@@ -1,6 +1,1 @@
-
-{
-  "name": "5sing",
-  "url": "https://cdn.jsdelivr.net/gh/chao921125/source@6.1.0/musicfree/js/5sing-v0.1.0.js",
-  "version": "0.0.2"
-}
+{"plugins":[{"name":"小秋音乐","url":"https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/xiaoqiu.js","version":"0.3.0"},{"name":"小蜗音乐","url":"https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/xiaowo.js","version":"0.3.0"},{"name":"小芸音乐","url":"https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/xiaoyun.js","version":"0.3.0"},{"name":"小枸音乐","url":"https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/xiaogou.js","version":"0.3.0"},{"name":"小蜜音乐","url":"https://fastly.jsdelivr.net/gh/Huibq/keep-alive/Music_Free/xiaomi.js","version":"0.3.0"}]}
