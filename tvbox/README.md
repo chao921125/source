@@ -1,8 +1,5 @@
 |                                                 |
 |-------------------------------------------------|
-| [小米](https://mpanso.me/DEMO.json)               |
-| [王二小](https://mpanso.me/DEMO.json)              |
-| [纯一骚零](https://100km.top/0)                     |
 | [技巧](http://tvbox.xn--4kq62z5rby2qupq9ub.top/)  |
 | [吃猫的鱼](https://d.kstore.dev/download/7213/吃猫的鱼) |
 | [菜妮丝](https://tv.xn--yhqu5zs87a.top)            |
