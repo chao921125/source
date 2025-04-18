@@ -92,6 +92,13 @@ https://cdn.jsdelivr.net/gh/chao921125/source@6.0.1/iptv/index.m3u
 | [TV TiviMate]()                                                   |
 | [TV OTT]()                                                        |
 |                                                                   |
+| [soft Player](https://github.com/GhostenEditor/Ghosten-Player)    |
+| [soft open-tv](https://github.com/Fredolx/open-tv)                |
+| [soft hypnotix](https://github.com/linuxmint/hypnotix)            |
+| [soft iptv-checker](https://github.com/zhimin-dev/iptv-checker)   |
+|                                                                   |
+| [](http://qiqiv.cn/zy.php)                                        |
+|                                                                   |
 
 | TVBox                                                |
 |------------------------------------------------------|
