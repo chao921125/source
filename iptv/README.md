@@ -77,8 +77,8 @@ https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Sketches.m3u
 | [suxuang-ipv4](https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u)  |
 | [suxuang-ipv6](https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u)  |
 |                                                                                            |
-| [yuanzl77](https://github.com/yuanzl77/IPTV)                                               |
-| [yuanzl77](http://175.178.251.183:6689/live.m3u)                                           |
+| [* yuanzl77](https://github.com/yuanzl77/IPTV)                                             |
+| [* yuanzl77](http://175.178.251.183:6689/live.m3u)                                         |
 |                                                                                            |
 | [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV)                                       |
 |                                                                                            |
