@@ -50,8 +50,7 @@ https://cdn.jsdelivr.net/gh/chao921125/source@6.0.1/iptv/index.m3u
 | [ZyFun(原 ZyPlayer) 官网](https://github.com/Hiram-Wong/ZyPlayer)            |
 | [ZyFun(原 ZyPlayer) 下载地址](https://github.com/Hiram-Wong/ZyPlayer/releases) |
 | [mifun 动漫 Android & IOS](https://github.com/Carole007/midm-release)       |
-|                                                                           |
-[//]: # (https://www.jianpian.com/)
+| [](https://www.jianpian.com/)                                             |
 
 | [IPTV 播放器](https://github.com/iptv-org/awesome-iptv)              |
 |-------------------------------------------------------------------|
