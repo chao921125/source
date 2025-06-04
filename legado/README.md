@@ -12,7 +12,6 @@
 | [yuedu](https://cyao2q.github.io/yuedu/)               |
 | [Yiove](https://shuyuan.yiove.com/)                    |
 | [喵公子](https://dy.mgz6.com/)                            |
-| [喵公子](https://yd.mgz6.com/)                            |
 | [「阅读」APP 精品书源](https://yuedu.xiu2.xyz/)                |
 | [「阅读」APP 精品书源](https://github.com/XIU2/yuedu/)         |
 | [开源阅读](https://gedoor.github.io/)                      |

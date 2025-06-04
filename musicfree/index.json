@@ -66,31 +66,6 @@
       "version": "0.0.1"
     },
     {
-      "name": "QQ音乐",
-      "url": "https://mf.ikunshare.com/qq/index.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "咪咕音乐",
-      "url": "https://mf.ikunshare.com/mg/index.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "网易云音乐",
-      "url": "https://mf.ikunshare.com/wy/index.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "酷我音乐",
-      "url": "https://mf.ikunshare.com/kw/index.js",
-      "version": "0.1.0"
-    },
-    {
-      "name": "酷狗音乐",
-      "url": "https://mf.ikunshare.com/kg/index.js",
-      "version": "0.1.0"
-    },
-    {
       "name": "书音FM",
       "url": "https://gitee.com/kevinr/tvbox/raw/master/musicfree/plugins/shuyinfm.js",
       "version": "0.3.6"
