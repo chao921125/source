@@ -1,21 +1,3 @@
-# 综合频道
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/All.m3u
-# 国内频道
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/index.m3u
-# 国外频道
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Foreign.m3u
-# 在线直播
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Online.m3u
-# 其他频道
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Other.m3u
-
-# 音乐
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Music.m3u
-# 美食
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Food.m3u
-# 小品
-https://cdn.jsdelivr.net/gh/chao921125/source@[version]/iptv/Sketches.m3u
-
 # 源
 | IPTV 源地址                                                                                                               | 频道数  | 频道内容                     |
 |------------------------------------------------------------------------------------------------------------------------|------|--------------------------|
