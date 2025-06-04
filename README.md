@@ -1,18 +1,18 @@
 ###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途
 #### 音乐 [lxmusic](lxmusic)
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/lxmusic/****.js
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/lxmusic/****.js
 
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 #### 音乐 [musicfree](musicfree)
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/musicfree/index.json
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/musicfree/index.json
 #### 视频 [zyfun](zyfun)
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/zyfun/index.json
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/cimoc/****.json
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/cimoc/****.json
 #### 小说 [legado](legado)
 
 #### IPTV [iptv](iptv)
-https://cdn.jsdelivr.net/gh/chao921125/source@6.1.2/iptv/index.m3u
+https://cdn.jsdelivr.net/gh/chao921125/source@6.3.1/iptv/index.m3u
 
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
