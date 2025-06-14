@@ -5,7 +5,7 @@ import {fileURLToPath} from "node:url";
 // 读取文件内容
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const filePath = path.join(__dirname, "index.json");
+const filePath = path.join(__dirname, "input.json");
 const filePathOut = path.join(__dirname, "out.json");
 
 // 读取 JSON 文件内容

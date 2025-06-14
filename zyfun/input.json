@@ -1,0 +1,1504 @@
+{
+  "iptv": [
+    {
+      "id": "ca435348-67ee-53fe-a3fd-9bbcf272b4c71",
+      "name": "APTV[需设置UA:AptvPlayer/1.0]",
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "https://epg.112114.xyz/"
+    },
+    {
+      "id": "61d34819-6449-6067-01f3-3d0fbd02a76f",
+      "name": "4k/8k",
+      "url": "https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "95731947-4281-1c9c-aca2-211edf2883a7",
+      "name": "秋天直播",
+      "url": "https://pan.shangui.cc/f/XR6dud/%E7%A7%8B%E5%A4%A9%E7%9B%B4%E6%92%AD.txt",
+      "isActive": true,
+      "type": "remote",
+      "epg": ""
+    },
+    {
+      "id": "d85c15a9-8b87-2f3a-aa3d-1052ce9d24f6",
+      "name": "电视伴音(广播)",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u",
+      "type": "remote",
+      "epg": "",
+      "isActive": true
+    },
+    {
+      "id": "7820a319-aedc-ebf8-f486-3ebaf9c1f25d",
+      "name": "pastebin",
+      "url": "https://pastebin.com/raw/tuXBQs7U",
+      "epg": "",
+      "type": "remote",
+      "isActive": true
+    },
+    {
+      "id": "fac85b1c-4be0-f71b-17d3-ce4a08aff610",
+      "name": "大杂烩",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/rad168/iptv/main/live.m3u",
+      "epg": "",
+      "type": "remote",
+      "isActive": true
+    },
+    {
+      "name": "秒看电视",
+      "url": "https://pan.shangui.cc/f/w7Y4fg/%E7%94%B5%E8%A7%86%E5%AE%B6.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "1984a5f3-6160-4d2d-b294-405bc41a36b4"
+    },
+    {
+      "name": "天微科技",
+      "url": "https://tvkj.top/tvlive.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "bc570387-85bb-4057-8f13-2e7a4976d7c4"
+    },
+    {
+      "name": "广播",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": "6e6e790a-af69-4754-b328-e861a851d460"
+    }
+  ],
+  "channel": [
+    {
+      "name": "CCTV1综合",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv1gq-h264.m3u8",
+      "id": "ikwfLZMvThhzGP2gxG3yK"
+    },
+    {
+      "name": "CCTV2财经",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv2gq-h264.m3u8",
+      "id": "CqS_3eA4DTzTzfqtoCqrh"
+    },
+    {
+      "name": "CCTV3综艺",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv3gq-h264.m3u8",
+      "id": "1iiurRBMYfxL7N7cSPDWQ"
+    },
+    {
+      "name": "CCTV4中文国际",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv4gq-h264.m3u8",
+      "id": "4pm91DKIVEx6RkmVidaya"
+    },
+    {
+      "name": "CCTV5体育",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv5gq-h264.m3u8",
+      "id": "OWyFP3SJFQkltj8nqAgL9"
+    },
+    {
+      "name": "CCTV5+体育赛事",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctvzhgq-h264.m3u8",
+      "id": "BEpPxw6qkF7_6kgjf0Pra"
+    },
+    {
+      "name": "CCTV6电影",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv6gq-h264.m3u8",
+      "id": "D3TuHiUGhpYFGPMt8OxVJ"
+    },
+    {
+      "name": "CCTV7国防军事",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv7gq-h264.m3u8",
+      "id": "xuwDM9Odo_IDiopBfU6AM"
+    },
+    {
+      "name": "CCTV8电视剧",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv8gq-h264.m3u8",
+      "id": "CxaTSaNGLmj_2Qj4WgtGn"
+    },
+    {
+      "name": "CCTV9纪录",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctvjlgq-h264.m3u8",
+      "id": "syLTzemIebo8yZyP7SXHi"
+    },
+    {
+      "name": "CCTV10科教",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv10gq-h264.m3u8",
+      "id": "fWM31bxsJMokE6cNYu94s"
+    },
+    {
+      "name": "CCTV11戏曲",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hszx-cctv11-h264.m3u8",
+      "id": "j51Uzk6nqUykdAf9DzJw5"
+    },
+    {
+      "name": "CCTV12社会与法",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv12gq-h264.m3u8",
+      "id": "d5KUt9CTuiH4vP_mWRUqB"
+    },
+    {
+      "name": "CCTV13新闻",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctvnewsgq-h264.m3u8",
+      "id": "qPn-DUsbL8epYcAUaY_VU"
+    },
+    {
+      "name": "CCTV14少儿",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctvsegq-h264.m3u8",
+      "id": "UcN8hlsZamgsQ577u2vpD"
+    },
+    {
+      "name": "CCTV15音乐",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctvmusicgq-h264.m3u8",
+      "id": "9gtDf0Defy6IrCzpYQd30"
+    },
+    {
+      "name": "CCTV16奥林匹克",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv16gq-h264.m3u8",
+      "id": "zcU7-w0qaKv2lIOm6kv32"
+    },
+    {
+      "name": "CCTV17农业农村",
+      "logo": "",
+      "group": "央视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cctv17gq-h264.m3u8",
+      "id": "Qayl_eqmEM86rO78pRh02"
+    },
+    {
+      "name": "CGTN",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-cctvgj-h264.m3u8",
+      "id": "ar6OH03dWbnw5lCb3HQDH"
+    },
+    {
+      "name": "重温经典",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hzgq-cwjdgq-h264.m3u8",
+      "id": "6LzIXxfDYgMiBknjTDORb"
+    },
+    {
+      "name": "CETV4中教4台",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-CETV-4-h264.m3u8",
+      "id": "LGyojGs02CJPfyPvAlUsN"
+    },
+    {
+      "name": "北京卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-bjgqws-h264.m3u8",
+      "id": "6bgQ_3v2KTa1y-fMYYbun"
+    },
+    {
+      "name": "东方卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-dftvgq-h264.m3u8",
+      "id": "J8u8hFTkiragDfLYAyLrv"
+    },
+    {
+      "name": "天津卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-tjwsgq-h264.m3u8",
+      "id": "FGk6VIcSBYWtvMdrAQdGc"
+    },
+    {
+      "name": "重庆卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-cqwsgq-h264.m3u8",
+      "id": "pctgg-zkKrNnXLK47nobn"
+    },
+    {
+      "name": "黑龙江卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-hljwsgq-h264.m3u8",
+      "id": "1HBmB3xy56I8nbb-oBJT-"
+    },
+    {
+      "name": "吉林卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-jlwsgq-h264.m3u8",
+      "id": "jaAJ7apmmoRnHSu14azzI"
+    },
+    {
+      "name": "辽宁卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-lnwsgq-h264.m3u8",
+      "id": "d3ustfshBf_26WRkSC0VE"
+    },
+    {
+      "name": "内蒙古卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-nmgtv-h264.m3u8",
+      "id": "8aliJ22YEgKuQFFQP_mDt"
+    },
+    {
+      "name": "宁夏卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-nxtv-h264.m3u8",
+      "id": "r_COF15Y1n8j-uCwx_EUG"
+    },
+    {
+      "name": "甘肃卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-gstv-h264.m3u8",
+      "id": "tBPKsUl_Uvhe-xalL7WiR"
+    },
+    {
+      "name": "青海卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-qhtv-h264.m3u8",
+      "id": "gu8bZfqvT7jg6t2uO-plr"
+    },
+    {
+      "name": "陕西卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-sxtv-h264.m3u8",
+      "id": "OT2CG4T3xy4XyAuPiAg6H"
+    },
+    {
+      "name": "河北卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-hebeitv-h264.m3u8",
+      "id": "pPZq0FFWJxo6vGc22n23V"
+    },
+    {
+      "name": "山西卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-shanxitv-h264.m3u8",
+      "id": "5DQKyYnL2ZSwCpqPo1vAg"
+    },
+    {
+      "name": "山东卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-sdwsgq-h264.m3u8",
+      "id": "lFEOYAiNII3xrP5DA-uzH"
+    },
+    {
+      "name": "安徽卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-ahwsgq-h264.m3u8",
+      "id": "-eOrPixNDHHJOZOLxbS2C"
+    },
+    {
+      "name": "河南卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-henantv-h264.m3u8",
+      "id": "FMEA55nTBwIF3D-MbqxU1"
+    },
+    {
+      "name": "湖北卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-hbwsgq-h264.m3u8",
+      "id": "xtSxbr0xlEb7TSPt_YriZ"
+    },
+    {
+      "name": "湖南卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-hnwsgq-h264.m3u8",
+      "id": "lMy57A_lfjZ0ftT95WJ6S"
+    },
+    {
+      "name": "江西卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-jxwsgq-h264.m3u8",
+      "id": "lL21yQ2kHkHA-EqNn__qS"
+    },
+    {
+      "name": "江苏卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-jswsgq-h264.m3u8",
+      "id": "Hb4Or2m7wV8DU7W2OMUmY"
+    },
+    {
+      "name": "浙江卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-zjwsgq-h264.m3u8",
+      "id": "S059JGflNHfjZc39KzlCs"
+    },
+    {
+      "name": "东南卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-fjwsgq-h264.m3u8",
+      "id": "-4JVNDH-zsfrIB6ODufmb"
+    },
+    {
+      "name": "广东卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-gdwsgq-h264.m3u8",
+      "id": "xUr0WwIc3F8_JUZtNsGyV"
+    },
+    {
+      "name": "深圳卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-szwsgq-h264.m3u8",
+      "id": "GgiM9ZUHtLHoBzn4-hUjW"
+    },
+    {
+      "name": "广西卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-gxtv-h264.m3u8",
+      "id": "Or9mcd67I5CyyP_JDjRR6"
+    },
+    {
+      "name": "云南卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-yntv-h264.m3u8",
+      "id": "gugRyMuOVE0Fs4RY9oNyD"
+    },
+    {
+      "name": "贵州卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-gzwsgq-h264.m3u8",
+      "id": "XLDlq9QtZKDyE6fhHiRKS"
+    },
+    {
+      "name": "四川卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-scwsgq-h264.m3u8",
+      "id": "59hrBlce20FdQR2JG_S0h"
+    },
+    {
+      "name": "新疆卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-xjtv-h264.m3u8",
+      "id": "-YpipRKqxUP4BK5Bof4Os"
+    },
+    {
+      "name": "兵团卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-bttv-h264.m3u8",
+      "id": "oeIpP12tL7LRuZuIV8xK_"
+    },
+    {
+      "name": "西藏卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-xztv-h264.m3u8",
+      "id": "Vb17krLXB8fKDijMrrwjS"
+    },
+    {
+      "name": "海南卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hszx-lytv-h264.m3u8",
+      "id": "Qr3-0dAfnhcGOqvBNriPv"
+    },
+    {
+      "name": "三沙卫视",
+      "logo": "",
+      "group": "卫视",
+      "url": "http://125.210.150.58:9090/live/hzgq-ssws-h264.m3u8",
+      "id": "KbEYjEMlCgl1wYszK1wwq"
+    },
+    {
+      "name": "北京纪实科教",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hszx-bjjs-h264.m3u8",
+      "id": "fjdi50mmJi5uKUL5IrEh6"
+    },
+    {
+      "name": "四海钓鱼",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-shdy-h264.m3u8",
+      "id": "3fUScaivvA2a15ytOD7nP"
+    },
+    {
+      "name": "金鹰纪实",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-jyjs-h264.m3u8",
+      "id": "jrjRW8Hz1EdBcxSDAsMtA"
+    },
+    {
+      "name": "浙江钱江",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-qjpdgq-h264.m3u8",
+      "id": "tLuu0ouiuLqp9xEHhJpRN"
+    },
+    {
+      "name": "浙江经济生活",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-zjjsgq-h264.m3u8",
+      "id": "yclP3bZaHXnjd3I3Am0HT"
+    },
+    {
+      "name": "浙江教育科技",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-zjjygq-h264.m3u8",
+      "id": "nlqwCfzvN6hK9kJKL3_NY"
+    },
+    {
+      "name": "浙江民生休闲",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-msxxgq-h264.m3u8",
+      "id": "1QBft8hf_SDCdTcTBkWb3"
+    },
+    {
+      "name": "浙江新闻",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-zjxwgq-h264.m3u8",
+      "id": "38npyEOWr7WABBMJkI-j7"
+    },
+    {
+      "name": "浙江少儿",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-zjsegq-h264.m3u8",
+      "id": "Wu6v7QQIV0i5q0spYl2BG"
+    },
+    {
+      "name": "浙江好易购",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hyggq-h264.m3u8",
+      "id": "hNk4aDPIVMKD5EaXVmLa5"
+    },
+    {
+      "name": "杭州综合",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hzzhgq-h264.m3u8",
+      "id": "hhO4QUp3PwXVFbWW4q46d"
+    },
+    {
+      "name": "杭州明珠",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-xhmzgq-h264.m3u8",
+      "id": "YwhU77tzdewfIzkcfnxkg"
+    },
+    {
+      "name": "杭州生活",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hzshgq-h264.m3u8",
+      "id": "fcstPrNsEnlI1xm04IKfH"
+    },
+    {
+      "name": "杭州影视",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hzysgq-h264.m3u8",
+      "id": "pYTP6Kw4SNKV_jUNNorcx"
+    },
+    {
+      "name": "杭州青少",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hzsegq-h264.m3u8",
+      "id": "9rMqRVwxR18HHWGbm7nkC"
+    },
+    {
+      "name": "杭州导视",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hzgq-hzdsgq-h264.m3u8",
+      "id": "2VgcbfAoMUsLU80jYt2az"
+    },
+    {
+      "name": "临平新闻",
+      "logo": "",
+      "group": "地方",
+      "url": "http://125.210.150.58:9090/live/hszx-klcd-h264.m3u8",
+      "id": "XA01RO9izYeRR4RgTDado"
+    },
+    {
+      "name": "华数频道",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hzgq-hsfwgq-h264.m3u8",
+      "id": "83Icau7RMUqvwXnNf9rS0"
+    },
+    {
+      "name": "天元围棋",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-tywq-h264.m3u8",
+      "id": "_Jh76R5Smlb-O9VFGCq09"
+    },
+    {
+      "name": "凤凰中文",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-fhzw-h264.m3u8",
+      "id": "-SqNXEYVitdBZ8MGBjsQ3"
+    },
+    {
+      "name": "凤凰资讯",
+      "logo": "",
+      "group": "其他",
+      "url": "http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8",
+      "id": "_Z74YdWOJjxsw7fqBGhpq"
+    }
+  ],
+  "sites": [
+    {
+      "id": "4a871b02-1c03-34de-281f-109ff7946efb",
+      "name": "卧龙资源",
+      "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "4a871b02-1c03-34de-281f-109ff7946efb"
+    },
+    {
+      "id": "cd6b1cbe-42bb-42d3-7844-9494716487e5",
+      "name": "量子资源",
+      "api": "http://www.lzzy.tv/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "cd6b1cbe-42bb-42d3-7844-9494716487e5"
+    },
+    {
+      "id": "504ae106-5751-379f-8a1e-83bad8cd7d61",
+      "name": "百度云资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 0,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "504ae106-5751-379f-8a1e-83bad8cd7d61"
+    },
+    {
+      "id": "76489ae3-c843-35a2-860b-58868e8ee4cd",
+      "name": "淘片资源采集网",
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "76489ae3-c843-35a2-860b-58868e8ee4cd"
+    },
+    {
+      "id": "6768cdcf-4d18-5fef-10d2-98d513b1f991",
+      "name": "新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "playUrl": "",
+      "search": 0,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "6768cdcf-4d18-5fef-10d2-98d513b1f991"
+    },
+    {
+      "id": "2cc99a31-9a03-16f4-3a8e-6db1f113bc5e",
+      "name": "快车资源",
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "2cc99a31-9a03-16f4-3a8e-6db1f113bc5e"
+    },
+    {
+      "id": "9bc17f0f-4b09-32ee-afaf-cbef5d4cba8b",
+      "name": "闪电资源",
+      "api": "https://sdzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "9bc17f0f-4b09-32ee-afaf-cbef5d4cba8b"
+    },
+    {
+      "id": "a18448a6-f14b-ef60-1893-514a86e63c1c",
+      "name": "云解析资源网",
+      "api": "https://api.yparse.com/api/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "resource": 0,
+      "key": "a18448a6-f14b-ef60-1893-514a86e63c1c"
+    },
+    {
+      "id": "5b45accb-c367-e891-617f-1d6140656604",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "5b45accb-c367-e891-617f-1d6140656604"
+    },
+    {
+      "id": "840806fb-5378-1003-4e13-2a1609379304",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "840806fb-5378-1003-4e13-2a1609379304"
+    },
+    {
+      "id": "59a19f43-e8b7-5359-427f-a007ecd2d8e3",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "59a19f43-e8b7-5359-427f-a007ecd2d8e3"
+    },
+    {
+      "id": "c2ca30e7-897e-f519-3122-7aef7db2fb5c",
+      "name": "天空资源",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "c2ca30e7-897e-f519-3122-7aef7db2fb5c"
+    },
+    {
+      "id": "7d6ab82c-339d-82c9-d82d-26070df703d0",
+      "name": "飞速资源",
+      "api": "https://www.feisuzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "7d6ab82c-339d-82c9-d82d-26070df703d0"
+    },
+    {
+      "id": "562aeb6b-8c03-3660-54e2-291f121dac9e",
+      "name": "鱼乐资源",
+      "api": "https://ylzy11.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "562aeb6b-8c03-3660-54e2-291f121dac9e"
+    },
+    {
+      "id": "28393120-9d11-5110-b209-c925b2d8f87e",
+      "name": "非凡资源",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "28393120-9d11-5110-b209-c925b2d8f87e"
+    },
+    {
+      "id": "f55d585d-b146-5db6-d7d2-a9b0d9bfe38f",
+      "name": "iKun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "f55d585d-b146-5db6-d7d2-a9b0d9bfe38f"
+    },
+    {
+      "id": "b6c42806-becd-e49d-0b9c-4bbda7383f39",
+      "name": "樱花动漫",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "b6c42806-becd-e49d-0b9c-4bbda7383f39"
+    },
+    {
+      "id": "a84439e9-73a8-6b89-b38b-00da0cee5e76",
+      "name": "1080zyku",
+      "api": "http://api.1080zyku.com/inc/api_mac10.php",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "a84439e9-73a8-6b89-b38b-00da0cee5e76"
+    },
+    {
+      "id": "89cee8c5-c86a-9391-a9f2-6fb7131614e3",
+      "name": "U酷资源",
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "89cee8c5-c86a-9391-a9f2-6fb7131614e3"
+    },
+    {
+      "id": "566fb0e1-8619-09dd-de4a-42ba872737dc",
+      "name": "影图资源",
+      "api": "https://cj.vodimg.top/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "566fb0e1-8619-09dd-de4a-42ba872737dc"
+    },
+    {
+      "id": "ef2c10e3-8d3f-d632-727b-667fdd2e5b50",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "ef2c10e3-8d3f-d632-727b-667fdd2e5b50"
+    },
+    {
+      "id": "eb3d2ddf-76ec-b462-0ff2-b930c7faf602",
+      "name": "忆梦资源",
+      "api": "http://anltv.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "eb3d2ddf-76ec-b462-0ff2-b930c7faf602"
+    },
+    {
+      "id": "8ed85599-f988-a8d1-41fd-265c4f64a5d9",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "8ed85599-f988-a8d1-41fd-265c4f64a5d9"
+    },
+    {
+      "id": "24875219-40cb-d350-047f-a82c813293a3",
+      "name": "真逗",
+      "api": "http://ys.realdou.cn/api.php/app/",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "isActive": false,
+      "type": 3,
+      "ext": "",
+      "categories": "",
+      "key": "24875219-40cb-d350-047f-a82c813293a3"
+    },
+    {
+      "id": "136a93b2-9826-af52-d063-dd5b4e637ba5",
+      "name": "具全",
+      "api": "http://xinxing.juquanweb.top/icciu_api.php/v1.vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "isActive": false,
+      "type": 4,
+      "ext": "",
+      "categories": "",
+      "key": "136a93b2-9826-af52-d063-dd5b4e637ba5"
+    },
+    {
+      "id": "d0e66944-61f8-2197-4356-8f8cde93e100",
+      "name": "徕米",
+      "api": "https://www.laimi.me/api.php/v1.vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "isActive": false,
+      "type": 4,
+      "ext": "",
+      "categories": "",
+      "key": "d0e66944-61f8-2197-4356-8f8cde93e100"
+    },
+    {
+      "id": "f10d2925-a991-1fa1-475f-21ac57ef698f",
+      "name": "飞速资源",
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "f10d2925-a991-1fa1-475f-21ac57ef698f"
+    },
+    {
+      "id": "a9e6e326-5a44-5764-fcd1-addc4c76ab76",
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "a9e6e326-5a44-5764-fcd1-addc4c76ab76"
+    },
+    {
+      "id": "5ad3edc1-8e52-5bf6-90f1-2f785465ec2a",
+      "name": "奇虎",
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "影视",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "5ad3edc1-8e52-5bf6-90f1-2f785465ec2a"
+    },
+    {
+      "id": "a5a4498a-04ae-5267-b11c-a68eb32ff1e8",
+      "name": "极速",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "影视",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "a5a4498a-04ae-5267-b11c-a68eb32ff1e8"
+    },
+    {
+      "id": "a00bc761-7b9f-5804-9bfd-7a07322159b5",
+      "name": "海外看[翻墙]",
+      "api": "http://api.haiwaikan.com/v1/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "影视",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "a00bc761-7b9f-5804-9bfd-7a07322159b5"
+    },
+    {
+      "id": "cb658939-5abf-5d37-81d9-16633d80818e",
+      "name": "优质资源网",
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "playUrl": "",
+      "search": 1,
+      "group": "影视",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "cb658939-5abf-5d37-81d9-16633d80818e"
+    },
+    {
+      "id": "cb15e5f4-e058-5766-bb85-f5d2fa28411a",
+      "name": "索尼",
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "cb15e5f4-e058-5766-bb85-f5d2fa28411a"
+    },
+    {
+      "id": "51793af6-c923-5504-85db-0ef686624dec",
+      "name": "豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "51793af6-c923-5504-85db-0ef686624dec"
+    },
+    {
+      "id": "4aa0e523-d76f-504b-812a-5fcccfc9d6b8",
+      "name": "虎牙",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 0,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "4aa0e523-d76f-504b-812a-5fcccfc9d6b8"
+    },
+    {
+      "id": "014234c3-aa3e-583d-a4f5-87c058843aca",
+      "name": "timizy",
+      "api": "https://vipcj.timizy.top/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "官采",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "014234c3-aa3e-583d-a4f5-87c058843aca"
+    },
+    {
+      "id": "fc028ea5-d479-5253-b247-c11f99d06dda",
+      "name": "KUIN",
+      "api": "https://www.kuin.one/api.php/app",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "isActive": false,
+      "type": 3,
+      "ext": "",
+      "categories": "",
+      "key": "fc028ea5-d479-5253-b247-c11f99d06dda"
+    },
+    {
+      "id": "643043a5-4f08-5313-bc7f-1385967ad6cd",
+      "name": "腐宅",
+      "api": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "app",
+      "isActive": true,
+      "type": 4,
+      "ext": "",
+      "categories": "",
+      "key": "643043a5-4f08-5313-bc7f-1385967ad6cd"
+    },
+    {
+      "id": "643043a5-4f08-5313-bc7e-1385967ad6cd",
+      "name": "暴风",
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "643043a5-4f08-5313-bc7e-1385967ad6cd"
+    },
+    {
+      "id": "dc03252b-735d-467e-be45-27d88ddfbd1e",
+      "name": "速播",
+      "api": "http://suboziyuan.net/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "切片",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "dc03252b-735d-467e-be45-27d88ddfbd1e"
+    },
+    {
+      "id": "54e747d7-4a0d-4e71-aaa9-a2272cdb4fc5",
+      "name": "全站资源",
+      "api": "https://caiji.yueai55.cc:2277/yuelove.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "官采",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "54e747d7-4a0d-4e71-aaa9-a2272cdb4fc5"
+    },
+    {
+      "id": "8ccd22d8-7405-eda1-668d-950260f50d1e",
+      "name": "爱狗",
+      "api": "https://api.i2g.cn/api.php/provide/vod/",
+      "playUrl": "",
+      "search": 1,
+      "group": "官采",
+      "isActive": true,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "8ccd22d8-7405-eda1-668d-950260f50d1e"
+    },
+    {
+      "id": "11296d39-f697-875c-4b93-6f44545cc0d8",
+      "name": "乐视",
+      "api": "https://leshizyapi.com/api.php/provide/vod/at/json/",
+      "playUrl": "",
+      "search": 1,
+      "group": "官采",
+      "isActive": false,
+      "type": 1,
+      "ext": "",
+      "categories": "",
+      "key": "11296d39-f697-875c-4b93-6f44545cc0d8"
+    },
+    {
+      "name": "左岸",
+      "api": "http://103.97.176.128:9528/api.php/provide/vod/",
+      "playUrl": "http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+      "group": "切片",
+      "search": 1,
+      "isActive": false,
+      "type": 1,
+      "id": "7a0c3c38-d860-465d-9f2d-34bb430f9add",
+      "key": "7a0c3c38-d860-465d-9f2d-34bb430f9add"
+    },
+    {
+      "name": "49资源网",
+      "api": " https://49zyw.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "d24a2022-450a-48b6-9051-ac04b398dfdc",
+      "key": "d24a2022-450a-48b6-9051-ac04b398dfdc"
+    },
+    {
+      "name": "快看资源",
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikanyun",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "3b12d06d-96bc-4bca-a973-1177abeb5bc7",
+      "key": "3b12d06d-96bc-4bca-a973-1177abeb5bc7"
+    },
+    {
+      "name": "享看资源",
+      "api": "https://xkanzy.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": false,
+      "type": 1,
+      "id": "b90da766-fcd4-477e-b595-cd3a23fb85fc",
+      "key": "b90da766-fcd4-477e-b595-cd3a23fb85fc"
+    },
+    {
+      "name": "魔都动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "52a69bcb-934b-47a8-8315-75c9d6bbd194",
+      "key": "52a69bcb-934b-47a8-8315-75c9d6bbd194"
+    },
+    {
+      "name": "快云资源",
+      "api": "https://kuaiyun-api.com/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "bff1f137-fb6a-4b57-9da5-bd519abbd4cb",
+      "key": "bff1f137-fb6a-4b57-9da5-bd519abbd4cb"
+    },
+    {
+      "name": "快鹰资源",
+      "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/",
+      "playUrl": "https://stray.serv00.net/ky.php?url=",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "883db2b8-eb09-45c9-96b2-bdf9cd4123ac",
+      "key": "883db2b8-eb09-45c9-96b2-bdf9cd4123ac"
+    },
+    {
+      "name": "AI1",
+      "api": "http://124.222.116.5/macos/seven/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "官采",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "c46de987-070e-4ed7-9844-703f3915128d",
+      "key": "c46de987-070e-4ed7-9844-703f3915128d"
+    },
+    {
+      "name": "业余自营",
+      "api": "http://154.3.2.163/api.php/provide/vod/",
+      "playUrl": "",
+      "group": "切片",
+      "search": 1,
+      "isActive": true,
+      "type": 1,
+      "id": "d600021e-e135-4691-ba1b-7bbb290c3a82",
+      "categories": "短剧,电影,电视剧,动漫,综艺,记录片,体育",
+      "key": "d600021e-e135-4691-ba1b-7bbb290c3a82"
+    }
+  ],
+  "drive": [
+    {
+      "name": "🙋丫仙女",
+      "server": "http://alist.xiaoya.pro/",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "76266126-8536-bc13-f882-3bb187802cd2"
+    },
+    {
+      "name": "🤮布满灰尘",
+      "server": "https://pan.baiblog.ren/",
+      "startPage": "/🤮布满灰尘/V盘/",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "a2f6e842-0743-5dd2-a85e-cfdaecdfb298"
+    },
+    {
+      "name": "🌊七米蓝",
+      "server": "https://al.chirmyram.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "11076590-4c85-b8e5-89f2-2df4b48b2a33"
+    },
+    {
+      "name": "🌴非盘",
+      "server": "http://www.feifwp.top",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "7e3e270e-7c58-9a69-07f8-0d670ffe8668"
+    },
+    {
+      "name": "🥼帅盘",
+      "server": "https://hi.shuaipeng.wang",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "d79c7467-7321-1f28-8b75-36c633355bd6"
+    },
+    {
+      "name": "🐉神族九帝",
+      "server": "https://alist.shenzjd.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "f346cae0-2805-7dd5-aa87-0be1284dd39a"
+    },
+    {
+      "name": "☃姬路白雪",
+      "server": "https://pan.jlbx.xyz",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "433c5080-8a77-ffc4-73e8-167b27cbc3bc"
+    },
+    {
+      "name": "🎧听闻网盘",
+      "server": "https://wangpan.sangxuesheng.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": false,
+      "id": "f9e46314-4993-e677-291e-9f970fb041f2"
+    },
+    {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "b68d1329-46e5-580a-2345-123fa54de141"
+    }
+  ],
+  "analyze": [
+    {
+      "id": "72a7e3c1-94de-4a1d-8d25-36b2c3de8fc5",
+      "name": "咸鱼",
+      "url": "https://jx.xyflv.cc/?url=",
+      "isActive": true
+    },
+    {
+      "id": "e883df51-5abf-47eb-836b-76e9bca6fb2e",
+      "name": "虾米",
+      "url": "https://jx.xmflv.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "d66d1c67-2895-4927-a0b6-99f6d7b4d81a",
+      "name": "夜幕",
+      "url": "https://www.yemu.xyz/?url=",
+      "isActive": true
+    },
+    {
+      "id": "4c2fdff4-d26b-4e15-b1d0-d4b5a56f3f7d",
+      "name": "M3U8.TV",
+      "url": "https://dmjx.m3u8.tv/?url=",
+      "isActive": true
+    },
+    {
+      "id": "83cf8db5-2c05-42fb-b50b-1f9a726927e7",
+      "name": "冰豆",
+      "url": "https://bd.jx.cn/?url=",
+      "isActive": true
+    },
+    {
+      "id": "4e720d91-1078-4cb5-8274-86ec6f7e4c2d",
+      "name": "CK",
+      "url": "https://www.ckplayer.vip/jiexi/?url=",
+      "isActive": true
+    },
+    {
+      "id": "f871eafc-731a-4e6d-a29b-1cf25b8c64d5",
+      "name": "PlayerJy[需点击]",
+      "url": "https://jx.playerjy.com/?url=",
+      "isActive": true
+    },
+    {
+      "id": "82a15f2f-97eb-4a65-930b-53f575c3da8d",
+      "name": "BL",
+      "url": "https://vip.bljiex.com/?v=",
+      "isActive": true
+    },
+    {
+      "id": "27b09c28-7985-48d7-bb65-ff2c8a3b52a9",
+      "name": "777Player",
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "isActive": true
+    },
+    {
+      "id": "aca361da-a5da-cd92-9394-2ce79bfb7611",
+      "name": "爱狗",
+      "url": "https://jx.i2g.cn/?url=",
+      "isActive": true
+    },
+    {
+      "id": "f32dc6eb-ac43-bbfd-c878-4869543116a5",
+      "name": "南风蓝光",
+      "url": "http://jx.66666zy.top/?url=",
+      "isActive": true
+    },
+    {
+      "id": "6c2f0160-ee66-e273-e943-e7332d3c9f50",
+      "name": "冰豆",
+      "url": "https://bd.jx.cn/?url=",
+      "isActive": true
+    },
+    {
+      "name": "猫影",
+      "url": "https://jx.xgphp.cn/player/?url=",
+      "isActive": true,
+      "id": "06ede2bf-6c41-44f7-bc69-71939fb21add"
+    },
+    {
+      "name": "1907[需点击]",
+      "url": "https://im1907.top/?jx=",
+      "isActive": true,
+      "id": "cf489437-55b8-4497-89cc-eb53a64aea6d"
+    }
+  ],
+  "setting": [
+    {
+      "id": 0,
+      "theme": "auto",
+      "externalPlayer": "",
+      "defaultHot": "kylive",
+      "defaultSearchRecommend": "douban",
+      "defaultSearchType": "group",
+      "defaultCheckModel": true,
+      "defaultChangeModel": false,
+      "defaultIptvEpg": "https://epg.112114.eu.org/",
+      "iptvSkipIpv6": true,
+      "iptvThumbnail": false,
+      "restoreWindowPositionAndSize": false,
+      "pauseWhenMinimize": true,
+      "defaultSite": "8ccd22d8-7405-eda1-668d-950260f50d1e",
+      "defaultIptv": "7820a319-aedc-ebf8-f486-3ebaf9c1f25d",
+      "defaultAnalyze": "aca361da-a5da-cd92-9394-2ce79bfb7611",
+      "analyzeFlag": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv"
+      ],
+      "analyzeQuickSearchType": "platform",
+      "analyzeSupport": true,
+      "broadcasterType": "xgplayer",
+      "softSolution": false,
+      "skipStartEnd": true,
+      "agreementMask": true,
+      "recordShortcut": "Shift+Command+Z",
+      "selfBoot": false,
+      "hardwareAcceleration": true,
+      "doh": "",
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",
+      "communitySubscribe": "",
+      "iptvStatus": true,
+      "dns": "https://sm2.doh.pub/dns-query",
+      "webdevUrl": "https://dav.jianguoyun.com/dav/",
+      "webdevUsername": "",
+      "webdevPassword": "",
+      "snifferType": "pie",
+      "defaultDrive": "76266126-8536-bc13-f882-3bb187802cd2"
+    }
+  ],
+  "analyzeHistory": [],
+  "history": [],
+  "searchHistory": [],
+  "star": []
+}
