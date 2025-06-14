@@ -347,9 +347,9 @@
   "channel": [
     {
       "id": "7fa9471c-6ac9-4e84-a3fc-6e9b42d35f48",
-      "name": "凤凰资讯",
-      "url": "http://125.210.150.58:9090/live/hszx-fhzx-h264.m3u8",
-      "group": "其他"
+      "name": "无效配置-可删除",
+      "url": "https://www.iptv.com/name.m3u8",
+      "group": "无效配置"
     }
   ],
   "sites": [
