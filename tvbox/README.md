@@ -4,7 +4,7 @@
 
 |                                                 |
 |-------------------------------------------------|
-| [技巧](http://tvbox.xn--4kq62z5rby2qupq9ub.top/)  |
+| [王二小](http://tvbox.xn--4kq62z5rby2qupq9ub.top/) |
 | [吃猫的鱼](https://d.kstore.dev/download/7213/吃猫的鱼) |
 | [菜妮丝](https://tv.xn--yhqu5zs87a.top)            |
 | [肥猫](http://肥猫.com/)                            |
