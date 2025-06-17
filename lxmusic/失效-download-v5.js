@@ -1,8 +1,8 @@
 /*!
- * @name ikun公益音源
- * @description 交流群组: https://t.me/ikunshare_qun
- * @version 1.1.3
- * @author ikunshare
+ * @name 音乐下载器
+ * @description 音乐下载器接口的LX Music音源
+ * @version 5
+ * @author team MeoProject
  * @repository https://github.com/lxmusics/lx-music-api-server
  */
 
@@ -11,12 +11,12 @@ const DEV_ENABLE = false
 // 是否开启更新提醒
 const UPDATE_ENABLE = true
 // 服务端地址
-const API_URL = "https://lxmusic.ikunshare.com"
+const API_URL = "https://api.v2.sukimon.me:19742"
 // 服务端配置的请求key
-const API_KEY = ``
+const API_KEY = `LXMusic_dmsowplaeq`
 // 音质配置(key为音源名称,不要乱填.如果你账号为VIP可以填写到hires)
 // 全部的支持值: ['128k', '320k', 'flac', 'flac24bit']
-const MUSIC_QUALITY = JSON.parse('{"kw":["128k","320k","flac","flac24bit"],"kg":["128k","320k","flac","flac24bit"],"tx":["128k","320k","flac","flac24bit","dolby","master"],"wy":["128k","320k","flac","flac24bit","dolby","sky","master"],"mg":["128k","320k","flac","flac24bit"]}')
+const MUSIC_QUALITY = JSON.parse('{"kw":["128k","320k","flac","flac24bit"],"kg":["128k","320k","flac","flac24bit"],"tx":["128k","320k","flac","flac24bit"],"wy":["128k","320k","flac","flac24bit"],"mg":["128k","320k","flac","flac24bit"]}')
 // 音源配置(默认为自动生成,可以修改为手动)
 const MUSIC_SOURCE = Object.keys(MUSIC_QUALITY)
 MUSIC_SOURCE.push('local')
@@ -27,7 +27,7 @@ MUSIC_SOURCE.push('local')
 const { EVENT_NAMES, request, on, send, utils, env, version } = globalThis.lx
 
 // MD5值,用来检查更新
-const SCRIPT_MD5 = 'd3419099fafcd0a5c49e7004c9ac7c90'
+const SCRIPT_MD5 = '864939f4aa33ddf14465eab3ba4b1a0d'
 
 /**
  * URL请求
@@ -96,7 +96,7 @@ const handleGetMusicUrl = async (source, musicInfo, quality) => {
 
   const songId = musicInfo.hash ?? musicInfo.songmid
 
-  const request = await httpFetch(`${API_URL}/url/${source}/${songId}/${quality}`, {
+  const request = await httpFetch(`${API_URL}/QAQ/url/${source}/${songId}/${quality}`, {
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
