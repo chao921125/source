@@ -1,10 +1,4 @@
 # 源
-| IPTV 源地址                                              | 频道数  | 频道内容                     |
-|-------------------------------------------------------|------|--------------------------|
-|  |      |                          |
-| []()                                                  |      |                          |
-|                                                       |      |                          |
-
 | IPTV 源                                                            |
 |-------------------------------------------------------------------|
 | [awesome-iptv](https://github.com/iptv-org/awesome-iptv)          |
@@ -25,6 +19,7 @@
 | IPTV API                                                                                   |
 |--------------------------------------------------------------------------------------------|
 | [iptv-org](https://github.com/iptv-org/iptv)                                               |
+| [iptv-org-all](https://iptv-org.github.io/iptv/index.m3u)                                  |
 | [iptv-org-category](https://iptv-org.github.io/iptv/index.category.m3u)                    |
 | [iptv-org-language](https://iptv-org.github.io/iptv/index.language.m3u)                    |
 | [iptv-org-country](https://iptv-org.github.io/iptv/index.country.m3u)                      |
