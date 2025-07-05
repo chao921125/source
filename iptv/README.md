@@ -29,8 +29,8 @@
 |                                                                                            |
 | [Guovin](https://github.com/Guovin/iptv-api)                                               |
 | [Guovin](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)           |
-| [Guovin-ipv4](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u) |
-| [Guovin-ipv6](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u) |
+| [Guovin-ipv4](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u) |
+| [Guovin-ipv6](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u) |
 |                                                                                            |
 | [- joevess](https://github.com/joevess/IPTV)                                               |
 |                                                                                            |
