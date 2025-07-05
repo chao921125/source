@@ -1,4 +1,5 @@
 ###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途
+### 部分文件更新慢，但不代表不可使用
 #### 音乐 [lxmusic](lxmusic)
 https://cdn.jsdelivr.net/gh/chao921125/source@6.3.2/lxmusic/****.js
 
