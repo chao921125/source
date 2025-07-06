@@ -1,25 +1,25 @@
 ###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途
 ### 部分文件更新周期长，但不代表不可使用，如果有问题直接提IS
 #### 音乐 [lxmusic](lxmusic)
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/lxmusic/****.js
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/lxmusic/****.js
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/lxmusic/****.js
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/lxmusic/****.js
 
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 #### 音乐 [musicfree](musicfree)
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/musicfree/index.json
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/musicfree/index.json
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/musicfree/index.json
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/musicfree/index.json
 #### 视频 [zyfun](zyfun)
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/zyfun/index.json
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/zyfun/index.json
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/cimoc/****.json
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/cimoc/****.json
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/cimoc/****.json
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/cimoc/****.json
 #### 小说 [legado](legado)
 
 #### IPTV [iptv](iptv)
-【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/iptv/index.m3u
-【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/iptv/index.m3u
+##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.0/iptv/index.m3u
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/iptv/index.m3u
 
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
