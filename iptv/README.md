@@ -15,6 +15,8 @@
 | [wcb1969](https://github.com/wcb1969/iptv)                        |
 | [DangJin](https://github.com/DangJin/awesome-iptv)                |
 | [HerbertHe](https://github.com/HerbertHe/iptv-sources)            |
+| [imDazui](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)     |
+| [Cyril0563](https://github.com/Cyril0563/lanjing_live)            |
 |                                                                   |
 
 | IPTV API                                                                                          |
@@ -26,8 +28,6 @@
 | [iptv-org-country](https://iptv-org.github.io/iptv/index.country.m3u)                             |
 | [iptv-org-region](https://iptv-org.github.io/iptv/index.region.m3u)                               |
 |                                                                                                   |
-| [- imDazui](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)                                   |
-|                                                                                                   |
 | [Guovin](https://github.com/Guovin/iptv-api)                                                      |
 | [Guovin](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u)                  |
 | [Guovin-ipv4](https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u)        |
@@ -35,27 +35,15 @@
 |                                                                                                   |
 | [- YanG-1989](https://github.com/YanG-1989/m3u)                                                   |
 |                                                                                                   |
-|                                                                                                   |
 | [Free-TV](https://github.com/Free-TV/IPTV)                                                        |
 | [Free-TV](https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8)         |
-|                                                                                                   |
-| [- Cyril0563](https://github.com/Cyril0563/lanjing_live)                                          |
-|                                                                                                   |
-| [- Meroser](https://github.com/Meroser/IPTV)                                                      |
 |                                                                                                   |
 | [vbskycn](https://github.com/vbskycn/iptv)                                                        |
 | [vbskycn-ipv4](https://live.izbds.com/tv/iptv4.m3u)                                               |
 | [vbskycn-ipv6](https://live.izbds.com/tv/iptv6.m3u)                                               |
 |                                                                                                   |
-| [- SPX372928](https://github.com/SPX372928/MyIPTV)                                                |
-|                                                                                                   |
 | [suxuang](https://github.com/suxuang/myIPTV)                                                      |
-| [suxuang](https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/itv.m3u)               |
 | [suxuang-ipv4](https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u)         |
-| [suxuang-ipv6](https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u)         |
-|                                                                                                   |
-| [* yuanzl77](https://github.com/yuanzl77/IPTV)                                                    |
-| [* yuanzl77](http://175.178.251.183:6689/live.m3u)                                                |
 |                                                                                                   |
 | [qwerttvv](https://github.com/qwerttvv/Beijing-IPTV)                                              |
 |                                                                                                   |
@@ -73,11 +61,7 @@
 |                                                                                                   |
 | [kilvn](https://github.com/kilvn/iptv)                                                            |
 |                                                                                                   |
-| [asdjkl6](https://github.com/asdjkl6/tv)                                                          |
-|                                                                                                   |
 | [skddyj](https://github.com/skddyj/iptv)                                                          |
-|                                                                                                   |
-| [big-mouth-cn](https://github.com/big-mouth-cn/tv)                                                |
 |                                                                                                   |
 | [FunctionError](https://github.com/FunctionError/PiratesTv)                                       |
 |                                                                                                   |
