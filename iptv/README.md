@@ -6,15 +6,15 @@
 | [epg 51zmt](http://epg.51zmt.top:8000/)                           |
 | [m3u iptv-sources](https://m3u.ibert.me/)                         |
 | [m3u epg](https://epg.pw/test_channel_page.html)                  |
-| [amclubs](https://github.com/amclubs/iptv-tvbox)                  |
 | [ngo5](https://github.com/ngo5/IPTV)                              |
-| [wcb1969](https://github.com/wcb1969/iptv)                        |
 | [dongyubin](https://github.com/dongyubin/IPTV)                    |
-| [DangJin](https://github.com/DangJin/awesome-iptv)                |
 | [tv-get-hotel-m3u](https://github.com/tongxunlu/tv-get-hotel-m3u) |
 | [iptv 论坛](https://iptv.cc/)                                       |
 | [iptvsearch](https://www.foodieguide.com/iptvsearch/)             |
-| [- HerbertHe](https://github.com/HerbertHe/iptv-sources)          |
+|                                                                   |
+| [wcb1969](https://github.com/wcb1969/iptv)                        |
+| [DangJin](https://github.com/DangJin/awesome-iptv)                |
+| [HerbertHe](https://github.com/HerbertHe/iptv-sources)            |
 |                                                                   |
 
 | IPTV API                                                                                          |
