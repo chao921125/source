@@ -72,29 +72,6 @@ class Program:
 # --- M3U Service Logic ---
 class M3UService:
     @staticmethod
-    def filter_and_group_programs(programs: List[Program]) -> List[Program]:
-        # 只保留CCTV和中国卫视频道
-        # 关键词可根据实际需求扩展
-        CHINA_KEYWORDS = [
-            r"CCTV", r"央视", r"卫视", r"湖南", r"江苏", r"浙江", r"北京", r"上海", r"广东", r"深圳", r"山东", r"东方", r"天津", r"重庆", r"湖北", r"江西", r"河北", r"河南", r"四川", r"陕西", r"山西", r"辽宁", r"吉林", r"黑龙江", r"广西", r"云南", r"贵州", r"福建", r"海南", r"内蒙古", r"宁夏", r"青海", r"新疆", r"西藏", r"甘肃"
-        ]
-        pattern = re.compile(r"(" + r"|".join(CHINA_KEYWORDS) + r")", re.IGNORECASE)
-        grouped = {}
-        for program in programs:
-            title_match = re.search(r',[^,]*$', program.extinf)
-            title = title_match.group(0)[1:] if title_match else ""
-            if pattern.search(title):
-                # 归类：同名频道放一起
-                key = title.strip()
-                if key not in grouped:
-                    grouped[key] = []
-                grouped[key].append(program)
-        # 按频道名排序，组内顺序不变
-        result = []
-        for key in sorted(grouped.keys()):
-            result.extend(grouped[key])
-        return result
-    @staticmethod
     def fetch_m3u_content(url: str) -> str:
         try:
             response = requests.get(url, timeout=10)
@@ -171,22 +148,22 @@ class M3UService:
     @classmethod
     def process_m3u_urls(cls, urls: List[str], output_file: str) -> Dict[str, Any]:
         all_programs = []
+        
         for url in urls:
             logger.info(f"正在处理: {url}")
             content = cls.fetch_m3u_content(url)
             programs = cls.parse_m3u_content(content)
             all_programs.extend(programs)
             logger.info(f"从 {url} 获取了 {len(programs)} 个节目")
+        
         unique_programs = cls.remove_duplicates(all_programs)
         logger.info(f"去重后共有 {len(unique_programs)} 个节目")
-        # 新增：筛选和归类
-        filtered_grouped_programs = cls.filter_and_group_programs(unique_programs)
-        logger.info(f"筛选和归类后共有 {len(filtered_grouped_programs)} 个节目")
-        output_path = cls.generate_m3u_file(filtered_grouped_programs, output_file)
+        
+        output_path = cls.generate_m3u_file(unique_programs, output_file)
+        
         return {
             "total_programs": len(all_programs),
             "unique_programs": len(unique_programs),
-            "filtered_grouped_programs": len(filtered_grouped_programs),
             "output_file": output_path,
             "message": f"成功处理 {len(urls)} 个URL，生成文件 {output_path}"
         }
