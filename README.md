@@ -36,7 +36,8 @@
 | [MusicFree 安卓 & 鸿蒙](https://github.com/maotoumao/MusicFree)                            |
 | [listen1 Win & Mac & Linux](https://github.com/listen1/listen1_desktop)                |
 | [listen1 谷歌插件](https://github.com/listen1/listen1_chrome_extension)                    |
-| [YesPlayMusic 仿网易](https://github.com/qier222/YesPlayMusic)                            |
+| [SPlayer 网易 免VIP](https://github.com/imsyy/SPlayer)                                    |
+| [YesPlayMusic 网易仿](https://github.com/qier222/YesPlayMusic)                            |
 | [spotube 国外Spotify 播放器](https://github.com/KRTirtho/spotube)                           |
 | [nuclear 完全免费的音乐](https://github.com/nukeop/nuclear)                                   |
 
