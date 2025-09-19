@@ -25,8 +25,6 @@
 # 音乐 + 音源 [lxmusic](lxmusic) [musicfree](musicfree)
 |                                                                                        |
 |----------------------------------------------------------------------------------------|
-| [方格 Win & Android](http://fonger.top/) [方格 Win & Android](http://morin.vin/)           |
-| [方格 Android](https://fangge.fun/)                                                      |
 | [Lx 官网](https://lxmusic.toside.cn/) [Lx 官网](https://docs.lxmusic.top/)                 |
 | [Lx Win & Mac 下载地址](https://github.com/lyswhut/lx-music-desktop/releases)              |
 | [Lx Android 下载地址](https://github.com/lyswhut/lx-music-mobile/releases)                 |
