@@ -135,3 +135,5 @@
 |                                                                                                                  |
 
 [//]: # (https://yinghezhinan.com/)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=chao921125/source&type=Date)](https://www.star-history.com/#chao921125/source&Date)
