@@ -342,6 +342,42 @@
       "isActive": true,
       "epg": "",
       "logo": ""
+    },
+    {
+      "id": "8e1d0149-9ddd-49ff-8ba8-be0c16f2fbaf",
+      "name": "电视台",
+      "url": "#EXTM3U\n#EXTINF:-1 tvg-name=\"CCTV1\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV1.png\" group-title=\"央视频道\",CCTV-1 综合\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV2\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV2.png\" group-title=\"央视频道\",CCTV-2 财经\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV3\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV3.png\" group-title=\"央视频道\",CCTV-3 综艺\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV4\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV4.png\" group-title=\"央视频道\",CCTV-4 中文国际\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV5\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV5.png\" group-title=\"央视频道\",CCTV-5 体育\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV5+\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV5+.png\" group-title=\"央视频道\",CCTV-5+ 体育赛事\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV6\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV6.png\" group-title=\"央视频道\",CCTV-6 电影\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV7\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV7.png\" group-title=\"央视频道\",CCTV-7 国防军事\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV8\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV8.png\" group-title=\"央视频道\",CCTV-8 电视剧\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV9\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV9.png\" group-title=\"央视频道\",CCTV-9 纪录\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV10\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV10.png\" group-title=\"央视频道\",CCTV-10 科教\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV11\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV11.png\" group-title=\"央视频道\",CCTV-11 戏曲\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV12\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV12.png\" group-title=\"央视频道\",CCTV-12 社会与法\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV13\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV13.png\" group-title=\"央视频道\",CCTV-13 新闻\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV14\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV14.png\" group-title=\"央视频道\",CCTV-14 少儿\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV15\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV15.png\" group-title=\"央视频道\",CCTV-15 音乐\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV16\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV16.png\" group-title=\"央视频道\",CCTV-16 奥林匹克\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8\n#EXTINF:-1 tvg-name=\"CCTV17\" tvg-logo=\"https://live.fanmingming.com/tv/CCTV17.png\" group-title=\"央视频道\",CCTV-17 农业农村\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8\n#EXTINF:-1 tvg-name=\"CGTN\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN.png\" group-title=\"央视频道\",CGTN英语\nhttps://0472.org/hls/cgtn.m3u8\n#EXTINF:-1 tvg-name=\"CGTN纪录\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN纪录.png\" group-title=\"央视频道\",CGTN记录\nhttps://0472.org/hls/cgtnd.m3u8\n#EXTINF:-1 tvg-name=\"CGTN俄语\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN俄语.png\" group-title=\"央视频道\",CGTN俄语\nhttps://0472.org/hls/cgtne.m3u8\n#EXTINF:-1 tvg-name=\"CGTN法语\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN法语.png\" group-title=\"央视频道\",CGTN法语\nhttps://0472.org/hls/cgtnf.m3u8\n#EXTINF:-1 tvg-name=\"CGTN西语\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN西语.png\" group-title=\"央视频道\",CGTN西语\nhttps://0472.org/hls/cgtnx.m3u8\n#EXTINF:-1 tvg-name=\"CGTN阿语\" tvg-logo=\"https://live.fanmingming.com/tv/CGTN阿语.png\" group-title=\"央视频道\",CGTN阿语\nhttps://0472.org/hls/cgtna.m3u8\n#EXTINF:-1 tvg-name=\"北京卫视\" tvg-logo=\"https://live.fanmingming.com/tv/北京卫视.png\" group-title=\"卫视频道\",北京卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8\n#EXTINF:-1 tvg-name=\"湖南卫视\" tvg-logo=\"https://live.fanmingming.com/tv/湖南卫视.png\" group-title=\"卫视频道\",湖南卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8\n#EXTINF:-1 tvg-name=\"东方卫视\" tvg-logo=\"https://live.fanmingming.com/tv/东方卫视.png\" group-title=\"卫视频道\",东方卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8\n#EXTINF:-1 tvg-name=\"四川卫视\" tvg-logo=\"https://live.fanmingming.com/tv/四川卫视.png\" group-title=\"卫视频道\",四川卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8\n#EXTINF:-1 tvg-name=\"天津卫视\" tvg-logo=\"https://live.fanmingming.com/tv/天津卫视.png\" group-title=\"卫视频道\",天津卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8\n#EXTINF:-1 tvg-name=\"安徽卫视\" tvg-logo=\"https://live.fanmingming.com/tv/安徽卫视.png\" group-title=\"卫视频道\",安徽卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8\n#EXTINF:-1 tvg-name=\"山东卫视\" tvg-logo=\"https://live.fanmingming.com/tv/山东卫视.png\" group-title=\"卫视频道\",山东卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8\n#EXTINF:-1 tvg-name=\"深圳卫视\" tvg-logo=\"https://live.fanmingming.com/tv/深圳卫视.png\" group-title=\"卫视频道\",深圳卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8\n#EXTINF:-1 tvg-name=\"广东卫视\" tvg-logo=\"https://live.fanmingming.com/tv/广东卫视.png\" group-title=\"卫视频道\",广东卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8\n#EXTINF:-1 tvg-name=\"广西卫视\" tvg-logo=\"https://live.fanmingming.com/tv/广西卫视.png\" group-title=\"卫视频道\",广西卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8\n#EXTINF:-1 tvg-name=\"江苏卫视\" tvg-logo=\"https://live.fanmingming.com/tv/江苏卫视.png\" group-title=\"卫视频道\",江苏卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8\n#EXTINF:-1 tvg-name=\"江西卫视\" tvg-logo=\"https://live.fanmingming.com/tv/江西卫视.png\" group-title=\"卫视频道\",江西卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8\n#EXTINF:-1 tvg-name=\"河北卫视\" tvg-logo=\"https://live.fanmingming.com/tv/河北卫视.png\" group-title=\"卫视频道\",河北卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8\n#EXTINF:-1 tvg-name=\"河南卫视\" tvg-logo=\"https://live.fanmingming.com/tv/河南卫视.png\" group-title=\"卫视频道\",河南卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8\n#EXTINF:-1 tvg-name=\"浙江卫视\" tvg-logo=\"https://live.fanmingming.com/tv/浙江卫视.png\" group-title=\"卫视频道\",浙江卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8\n#EXTINF:-1 tvg-name=\"海南卫视\" tvg-logo=\"https://live.fanmingming.com/tv/海南卫视.png\" group-title=\"卫视频道\",海南卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8\n#EXTINF:-1 tvg-name=\"湖北卫视\" tvg-logo=\"https://live.fanmingming.com/tv/湖北卫视.png\" group-title=\"卫视频道\",湖北卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8\n#EXTINF:-1 tvg-name=\"山西卫视\" tvg-logo=\"https://live.fanmingming.com/tv/山西卫视.png\" group-title=\"卫视频道\",山西卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8\n#EXTINF:-1 tvg-name=\"东南卫视\" tvg-logo=\"https://live.fanmingming.com/tv/东南卫视.png\" group-title=\"卫视频道\",东南卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8\n#EXTINF:-1 tvg-name=\"贵州卫视\" tvg-logo=\"https://live.fanmingming.com/tv/贵州卫视.png\" group-title=\"卫视频道\",贵州卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8\n#EXTINF:-1 tvg-name=\"辽宁卫视\" tvg-logo=\"https://live.fanmingming.com/tv/辽宁卫视.png\" group-title=\"卫视频道\",辽宁卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8\n#EXTINF:-1 tvg-name=\"重庆卫视\" tvg-logo=\"https://live.fanmingming.com/tv/重庆卫视.png\" group-title=\"卫视频道\",重庆卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8\n#EXTINF:-1 tvg-name=\"黑龙江卫视\" tvg-logo=\"https://live.fanmingming.com/tv/黑龙江卫视.png\" group-title=\"卫视频道\",黑龙江卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8\n#EXTINF:-1 tvg-name=\"内蒙古卫视\" tvg-logo=\"https://live.fanmingming.com/tv/内蒙古卫视.png\" group-title=\"卫视频道\",内蒙古卫视\nhttps://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880\n#EXTINF:-1 tvg-name=\"宁夏卫视\" tvg-logo=\"https://live.fanmingming.com/tv/宁夏卫视.png\" group-title=\"卫视频道\",宁夏卫视\nhttp://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226454/index.m3u8\n#EXTINF:-1 tvg-name=\"陕西卫视\" tvg-logo=\"https://live.fanmingming.com/tv/陕西卫视.png\" group-title=\"卫视频道\",陕西卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8\n#EXTINF:-1 tvg-name=\"吉林卫视\" tvg-logo=\"https://live.fanmingming.com/tv/吉林卫视.png\" group-title=\"卫视频道\",吉林卫视\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8\n#EXTINF:-1 tvg-name=\"甘肃卫视\" tvg-logo=\"https://live.fanmingming.com/tv/甘肃卫视.png\" group-title=\"卫视频道\",甘肃卫视\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8\n#EXTINF:-1 tvg-name=\"云南卫视\" tvg-logo=\"https://live.fanmingming.com/tv/云南卫视.png\" group-title=\"卫视频道\",云南卫视\nhttp://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8\n#EXTINF:-1 tvg-name=\"三沙卫视\" tvg-logo=\"https://live.fanmingming.com/tv/三沙卫视.png\" group-title=\"卫视频道\",三沙卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8\n#EXTINF:-1 tvg-name=\"青海卫视\" tvg-logo=\"https://live.fanmingming.com/tv/青海卫视.png\" group-title=\"卫视频道\",青海卫视\nhttp://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8\n#EXTINF:-1 tvg-name=\"新疆卫视\" tvg-logo=\"https://live.fanmingming.com/tv/新疆卫视.png\" group-title=\"卫视频道\",新疆卫视\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8\n#EXTINF:-1 tvg-name=\"西藏卫视\" tvg-logo=\"https://live.fanmingming.com/tv/西藏卫视.png\" group-title=\"卫视频道\",西藏卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8\n#EXTINF:-1 tvg-name=\"兵团卫视\" tvg-logo=\"https://live.fanmingming.com/tv/兵团卫视.png\" group-title=\"卫视频道\",兵团卫视\nhttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8\n#EXTINF:-1 tvg-name=\"延边卫视\" tvg-logo=\"https://live.fanmingming.com/tv/延边卫视.png\" group-title=\"卫视频道\",延边卫视\nhttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8\n#EXTINF:-1 tvg-name=\"安多卫视\" tvg-logo=\"https://live.fanmingming.com/tv/安多卫视.png\" group-title=\"卫视频道\",安多卫视\nhttp://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8\n#EXTINF:-1 tvg-name=\"厦门卫视\" tvg-logo=\"https://live.fanmingming.com/tv/厦门卫视.png\" group-title=\"卫视频道\",厦门卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8\n#EXTINF:-1 tvg-name=\"康巴卫视\" tvg-logo=\"https://live.fanmingming.com/tv/康巴卫视.png\" group-title=\"卫视频道\",康巴卫视\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8\n#EXTINF:-1 tvg-name=\"大湾区卫视\" tvg-logo=\"https://live.fanmingming.com/tv/大湾区卫视.png\" group-title=\"卫视频道\",大湾区卫视\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8\n#EXTINF:-1 tvg-name=\"中国教育1台\" tvg-logo=\"https://live.fanmingming.com/tv/CETV1.png\" group-title=\"卫视频道\",CETV-1\nhttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8\n#EXTINF:-1 tvg-name=\"中国教育2台\" tvg-logo=\"https://live.fanmingming.com/tv/CETV2.png\" group-title=\"卫视频道\",CETV-2\nhttp://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8\n#EXTINF:-1 tvg-name=\"中国教育4台\" tvg-logo=\"https://live.fanmingming.com/tv/CETV4.png\" group-title=\"卫视频道\",CETV-4\nhttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8\n#EXTINF:-1 tvg-name=\"内蒙古蒙语卫视\" tvg-logo=\"https://live.fanmingming.com/tv/内蒙古蒙语卫视.png\" group-title=\"内蒙频道\",蒙语卫视\nhttps://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880\n#EXTINF:-1 tvg-name=\"上海纪实人文\" tvg-logo=\"https://live.fanmingming.com/tv/纪实人文.png\" group-title=\"数字频道\",纪实人文\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8\n#EXTINF:-1 tvg-name=\"纪实科教\" tvg-logo=\"https://live.fanmingming.com/tv/北京纪实科教.png\" group-title=\"数字频道\",纪实科教\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8\n#EXTINF:-1 tvg-name=\"劲爆体育\" tvg-logo=\"https://live.fanmingming.com/tv/劲爆体育.png\" group-title=\"数字频道\",劲爆体育\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"全纪实\" tvg-logo=\"https://live.fanmingming.com/tv/乐游.png\" group-title=\"数字频道\",乐游频道\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8\n#EXTINF:-1 tvg-name=\"欢笑剧场\" tvg-logo=\"https://live.fanmingming.com/tv/欢笑剧场.png\" group-title=\"数字频道\",欢笑剧场\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8\n#EXTINF:-1 tvg-name=\"都市剧场\" tvg-logo=\"https://live.fanmingming.com/tv/都市剧场.png\" group-title=\"数字频道\",都市剧场\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8\n#EXTINF:-1 tvg-name=\"金色学堂\" tvg-logo=\"https://live.fanmingming.com/tv/金色学堂.png\" group-title=\"数字频道\",金色学堂\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8\n#EXTINF:-1 tvg-name=\"卡酷动画\" tvg-logo=\"https://live.fanmingming.com/tv/卡酷少儿.png\" group-title=\"数字频道\",卡酷少儿\nhttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8\n#EXTINF:-1 tvg-name=\"金鹰卡通\" tvg-logo=\"https://live.fanmingming.com/tv/金鹰卡通.png\" group-title=\"数字频道\",金鹰卡通\nhttp://[2409:8087:1a0b:df::4008]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8\n#EXTINF:-1 tvg-name=\"金鹰纪实\" tvg-logo=\"https://live.fanmingming.com/tv/金鹰纪实.png\" group-title=\"数字频道\",金鹰纪实\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8\n#EXTINF:-1 tvg-name=\"快乐垂钓\" tvg-logo=\"https://live.fanmingming.com/tv/快乐垂钓.png\" group-title=\"数字频道\",快乐垂钓\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031206/1.m3u8\n#EXTINF:-1 tvg-name=\"茶\" tvg-logo=\"https://live.fanmingming.com/tv/茶.png\" group-title=\"数字频道\",茶友频道\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/1.m3u8\n#EXTINF:-1 tvg-name=\"游戏风云\" tvg-logo=\"https://live.fanmingming.com/tv/游戏风云.png\" group-title=\"数字频道\",游戏风云\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8\n#EXTINF:-1 tvg-name=\"动漫秀场\" tvg-logo=\"https://live.fanmingming.com/tv/动漫秀场.png\" group-title=\"数字频道\",动漫秀场\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8\n#EXTINF:-1 tvg-name=\"嘉佳卡通\" tvg-logo=\"https://live.fanmingming.com/tv/嘉佳卡通.png\" group-title=\"数字频道\",嘉佳卡通\nhttp://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8\n#EXTINF:-1 tvg-name=\"哒啵赛事\" tvg-logo=\"https://live.fanmingming.com/tv/哒啵赛事.png\" group-title=\"数字频道\",哒啵赛事\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8\n#EXTINF:-1 tvg-name=\"哒啵电竞\" tvg-logo=\"https://live.fanmingming.com/tv/哒啵电竞.png\" group-title=\"数字频道\",哒啵电竞\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"优漫卡通\" tvg-logo=\"https://live.fanmingming.com/tv/优漫卡通.png\" group-title=\"数字频道\",优漫卡通\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8\n#EXTINF:-1 tvg-name=\"哈哈炫动\" tvg-logo=\"https://live.fanmingming.com/tv/哈哈炫动.png\" group-title=\"数字频道\",哈哈炫动\nhttp://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8\n#EXTINF:-1 tvg-name=\"黑莓动画\" tvg-logo=\"https://live.fanmingming.com/tv/黑莓动画.png\" group-title=\"数字频道\",黑莓动画\nhttp://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8\n#EXTINF:-1 tvg-name=\"黑莓电影\" tvg-logo=\"https://live.fanmingming.com/tv/黑莓电影.png\" group-title=\"数字频道\",黑莓电影\nhttp://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8\n#EXTINF:-1 tvg-name=\"求索纪录\" tvg-logo=\"https://live.fanmingming.com/tv/求索纪录.png\" group-title=\"数字频道\",求索纪录\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"求索生活\" tvg-logo=\"https://live.fanmingming.com/tv/求索生活.png\" group-title=\"数字频道\",求索生活\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"求索动物\" tvg-logo=\"https://live.fanmingming.com/tv/求索动物.png\" group-title=\"数字频道\",求索动物\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"求索科学\" tvg-logo=\"https://live.fanmingming.com/tv/求索科学.png\" group-title=\"数字频道\",求索科学\nhttp://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281\n#EXTINF:-1 tvg-name=\"newtv超级体育\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV超级体育.png\" group-title=\"数字频道\",超级体育\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv超级电影\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV超级电影.png\" group-title=\"数字频道\",超级电影\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv超级电视剧\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV超级电视剧.png\" group-title=\"数字频道\",超级视剧\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv东北热剧\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV东北热剧.png\" group-title=\"数字频道\",东北热剧\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv海外剧场\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV海外剧场.png\" group-title=\"数字频道\",海外剧场\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv中国功夫\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV中国功夫.png\" group-title=\"数字频道\",中国功夫\nhttp://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv军旅剧场\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV军旅剧场.png\" group-title=\"数字频道\",军旅剧场\nhttp://[2409:8087:1a0b:df::4018]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv惊悚悬疑\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV惊悚悬疑.png\" group-title=\"数字频道\",惊悚悬疑\nhttp://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv潮妈辣婆\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV潮妈辣婆.png\" group-title=\"数字频道\",潮妈辣婆\nhttp://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv精品体育\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV精品体育.png\" group-title=\"数字频道\",精品体育\nhttp://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv精品纪录\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV精品纪录.png\" group-title=\"数字频道\",精品纪录\nhttp://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv家庭剧场\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV家庭剧场.png\" group-title=\"数字频道\",家庭剧场\nhttp://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv精品大剧\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV精品大剧.png\" group-title=\"数字频道\",精品大剧\nhttp://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv军事评论\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV军事评论.png\" group-title=\"数字频道\",军事评论\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv明星大片\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV明星大片.png\" group-title=\"数字频道\",明星大片\nhttp://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv欢乐剧场\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV欢乐剧场.png\" group-title=\"数字频道\",欢乐剧场\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv精品萌宠\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV精品萌宠.png\" group-title=\"数字频道\",精品萌宠\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv超级综艺\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV超级综艺.png\" group-title=\"数字频道\",超级综艺\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8\n#EXTINF:-1 tvg-name=\"newtv金牌综艺\" tvg-logo=\"https://live.fanmingming.com/tv/NEWTV金牌综艺.png\" group-title=\"数字频道\",金牌综艺\nhttp://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Live Cams\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Live Cams\nhttp://cdn.adultiptv.net/livecams.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"MILF\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",MILF\nhttp://cdn.adultiptv.net/milf.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Big Dick\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Big Dick\nhttp://cdn.adultiptv.net/bigdick.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Big Tits\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Big Tits\nhttp://cdn.adultiptv.net/bigtits.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Fetish\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Fetish\nhttp://cdn.adultiptv.net/fetish.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Pornstar\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Pornstar\nhttp://cdn.adultiptv.net/pornstar.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Big Ass\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Big Ass\nhttp://cdn.adultiptv.net/bigass.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Interracial\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Interracial\nhttp://cdn.adultiptv.net/interracial.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Latina\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Latina\nhttp://cdn.adultiptv.net/latina.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"POV\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",POV\nhttp://cdn.adultiptv.net/pov.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Blowjob\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Blowjob\nhttp://cdn.adultiptv.net/blowjob.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Teen\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Teen\nhttp://cdn.adultiptv.net/teen.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Hardcore\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Hardcore\nhttp://cdn.adultiptv.net/hardcore.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Cuckold\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Cuckold\nhttp://cdn.adultiptv.net/cuckold.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Threesome\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Threesome\nhttp://cdn.adultiptv.net/threesome.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Russian\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Russian\nhttp://cdn.adultiptv.net/russian.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Lesbian\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Lesbian\nhttp://cdn.adultiptv.net/lesbian.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Rough\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Rough\nhttp://cdn.adultiptv.net/rough.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Gangbang\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Gangbang\nhttp://cdn.adultiptv.net/gangbang.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Anal\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Anal\nhttp://cdn.adultiptv.net/anal.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Compilation\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Compilation\nhttp://cdn.adultiptv.net/compilation.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Brunette\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Brunette\nhttp://cdn.adultiptv.net/brunette.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Blonde\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Blonde\nhttp://cdn.adultiptv.net/blonde.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Gay\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Gay\nhttp://cdn.adultiptv.net/gay.m3u8\n#EXTINF:-1 tvg-id=\"\" tvg-name=\"Asian\" tvg-language=\"English\" tvg-logo=\"https://files.adultiptv.net/adultiptvnet.jpg\" group-title=\"成人频道\",Asian\nhttp://cdn.adultiptv.net/asian.m3u8",
+      "type": "batches",
+      "isActive": true,
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "id": "97bbe33e-32b9-4d24-869c-d041232b16d2",
+      "name": "春晚频道",
+      "url": "#EXTM3U\n#EXTINF:-1 tvg-name=\"1987年春晚\" tvg-id=\"1987年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1987年春晚.png\" group-title=\"春晚频道\", 1987年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"1988年春晚\" tvg-id=\"1988年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1988年春晚.png\" group-title=\"春晚频道\", 1988年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"1989年春晚\" tvg-id=\"1989年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1989年春晚.png\" group-title=\"春晚频道\", 1989年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"1993年春晚\" tvg-id=\"1993年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1993年春晚.png\" group-title=\"春晚频道\", 1993年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYwODJfMF8z_b_B647d10e431b4cc5e48e6c77347d69021.mp4\n#EXTINF:-1 tvg-name=\"1994年春晚\" tvg-id=\"1994年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1994年春晚.png\" group-title=\"春晚频道\", 1994年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxMjNfMF8z_b_B3dde97f36273f04403d4dc5eec611a35.mp4\n#EXTINF:-1 tvg-name=\"1995年春晚\" tvg-id=\"1995年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1995年春晚.png\" group-title=\"春晚频道\", 1995年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQwNzVfMF8z_b_B811c0dec6b9a3d3074a18522c185010a.mp4\n#EXTINF:-1 tvg-name=\"1996年春晚\" tvg-id=\"1996年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/1996年春晚.png\" group-title=\"春晚频道\", 1996年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/22/BMjAyMzAxMTMyMjEwMDNfNDAzMDAxOTlfOTM1MTIzMzYxNTJfMF8z_b_Bd841eae10ab1c9955ef55fbedfae6c45.mp4\n#EXTINF:-1 tvg-name=\"2000年春晚\" tvg-id=\"2000年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2000年春晚.png\" group-title=\"春晚频道\", 2000年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxMTNfMF8z_b_Bdddf4e7ef0ff6cfd477857bb40e78419.mp4\n#EXTINF:-1 tvg-name=\"2001年春晚\" tvg-id=\"2001年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2001年春晚.png\" group-title=\"春晚频道\", 2001年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMDFfMF8z_b_B70592cb7c4054e9cabb675e849bbf4bd.mp4\n#EXTINF:-1 tvg-name=\"2002年春晚\" tvg-id=\"2002年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2002年春晚.png\" group-title=\"春晚频道\", 2002年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxNDdfMF8z_b_Ba6271d10b7e6cfae83759033a091f257.mp4\n#EXTINF:-1 tvg-name=\"2003年春晚\" tvg-id=\"2003年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2003年春晚.png\" group-title=\"春晚频道\", 2003年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/14/23/BMjAyMzAxMTQyMzQxNDdfNDAzMDAxOTlfOTM2MTU0MTk1NDFfMF8z_b_B182749d2cd2ea9323639254af385f24b.mp4\n#EXTINF:-1 tvg-name=\"2004年春晚\" tvg-id=\"2004年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2004年春晚.png\" group-title=\"春晚频道\", 2004年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/21/BMjAyMzAxMTMyMTE4MzRfNDAzMDAxOTlfOTM1MDY4ODIxOTVfMF8z_b_B86c4430b82ff5a7f4e8132f6ee558536.mp4\n#EXTINF:-1 tvg-name=\"2005年春晚\" tvg-id=\"2005年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2005年春晚.png\" group-title=\"春晚频道\", 2005年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyMzhfMF8z_b_B35ad7cc86aec8fc9e5ddfb31fc7bed63.mp4\n#EXTINF:-1 tvg-name=\"2006年春晚\" tvg-id=\"2006年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2006年春晚.png\" group-title=\"春晚频道\", 2006年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQyNzlfMF8z_b_Bbc3703fc331dc994c50859c19aad28ff.mp4\n#EXTINF:-1 tvg-name=\"2007年春晚\" tvg-id=\"2007年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2007年春晚.png\" group-title=\"春晚频道\", 2007年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzMjNfMF8z_b_B00b069c7899976459ceeaa99353dfefe.mp4\n#EXTINF:-1 tvg-name=\"2008年春晚\" tvg-id=\"2008年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2008年春晚.png\" group-title=\"春晚频道\", 2008年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8\n#EXTINF:-1 tvg-name=\"2009年春晚\" tvg-id=\"2009年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2009年春晚.png\" group-title=\"春晚频道\", 2009年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQzOTBfMF8z_b_B29a36a85e0277f6c2a1f033ef7c10708.mp4\n#EXTINF:-1 tvg-name=\"2010年春晚\" tvg-id=\"2010年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2010年春晚.png\" group-title=\"春晚频道\", 2010年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ0MjlfMF8z_b_B8818807a00eed329a69fb494f405bd43.mp4\n#EXTINF:-1 tvg-name=\"2011年春晚\" tvg-id=\"2011年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2011年春晚.png\" group-title=\"春晚频道\", 2011年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8\n#EXTINF:-1 tvg-name=\"2013年春晚\" tvg-id=\"2013年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2013年春晚.png\" group-title=\"春晚频道\", 2013年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/13/20/BMjAyMzAxMTMyMDA5MjJfNDAzMDAxOTlfOTM0OTkwNDQ1NjNfMF8z_b_B4fea55408dca4471a68a963ae096be59.mp4\n#EXTINF:-1 tvg-name=\"2014年春晚\" tvg-id=\"2014年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2014年春晚.png\" group-title=\"春晚频道\", 2014年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTNfNDAzMDAxOTlfOTI4OTY2ODAzNjlfMF8z_b_Bdee65c77f9e7b2120a185c919dad81d2.mp4\n#EXTINF:-1 tvg-name=\"2017年春晚\" tvg-id=\"2017年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2017年春晚.png\" group-title=\"春晚频道\", 2017年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8\n#EXTINF:-1 tvg-name=\"2018年春晚\" tvg-id=\"2018年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2018年春晚.png\" group-title=\"春晚频道\", 2018年春晚\nhttps://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4\n#EXTINF:-1 tvg-name=\"2022年春晚\" tvg-id=\"2022年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2022年春晚.png\" group-title=\"春晚频道\", 2022年春晚\nhttps://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8\n#EXTINF:-1 tvg-name=\"2024年春晚\" tvg-id=\"2024年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2024年春晚.png\" group-title=\"春晚频道\", 2024年春晚\nhttps://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8\n#EXTINF:-1 tvg-name=\"2025年春晚\" tvg-id=\"2025年春晚\" tvg-logo=\"https://livecdn.zbds.org/logo/2025年春晚.png\" group-title=\"春晚频道\", 2025年春晚\nhttps://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8\nupdateTime: 2025-09-04 07:44:40",
+      "type": "batches",
+      "isActive": true,
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "id": "93fcf098-f9c3-498c-a879-fba6d65d2410",
+      "name": "电影频道",
+      "url": "#EXTM3U\n#EXTINF:-1 tvg-name=\"CHC动作电影\" tvg-id=\"CHC3\" tvg-logo=\"https://livecdn.zbds.org/logo/CHC动作电影.png\" group-title=\"电影频道\", CHC动作电影\nhttp://atcq62.3950.cn:35455/mgtv/644368714.m3u8\n#EXTINF:-1 tvg-name=\"CHC家庭影院\" tvg-id=\"2\" tvg-logo=\"https://livecdn.zbds.org/logo/CHC家庭影院.png\" group-title=\"电影频道\", CHC家庭影院\nhttp://113.195.172.192:808/hls/113/index.m3u8\n#EXTINF:-1 tvg-name=\"CHC影迷电影\" tvg-id=\"CHC1\" tvg-logo=\"https://livecdn.zbds.org/logo/CHC影迷电影.png\" group-title=\"电影频道\", CHC影迷电影\nhttp://atcq62.3950.cn:35455/mgtv/952383261.m3u8\n#EXTINF:-1 tvg-name=\"黑莓电影\" tvg-id=\"黑莓电影\" tvg-logo=\"https://livecdn.zbds.org/logo/黑莓电影.png\" group-title=\"电影频道\", 黑莓电影\nhttps://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8\n#EXTINF:-1 tvg-name=\"科幻电影\" tvg-id=\"科幻电影\" tvg-logo=\"https://livecdn.zbds.org/logo/科幻电影.png\" group-title=\"电影频道\", 科幻电影\nhttps://mursor.ottiptv.cc/yy/1355065896\n#EXTINF:-1 tvg-name=\"凤凰电影\" tvg-id=\"凤凰电影\" tvg-logo=\"https://livecdn.zbds.org/logo/凤凰电影.png\" group-title=\"电影频道\", 凤凰电影\nhttp://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8\n#EXTINF:-1 tvg-name=\"东森电影\" tvg-id=\"1\" tvg-logo=\"https://livecdn.zbds.org/logo/东森电影.png\" group-title=\"电影频道\", 东森电影\nhttp://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8\n#EXTINF:-1 tvg-name=\"龙华电影\" tvg-id=\"龙华电影\" tvg-logo=\"https://livecdn.zbds.org/logo/龙华电影.png\" group-title=\"电影频道\", 龙华电影\nhttps://cdn8.163189.xyz/live/lhdy/stream.m3u8\n#EXTINF:-1 tvg-name=\"AMC电影\" tvg-id=\"AMC电影\" tvg-logo=\"https://livecdn.zbds.org/logo/AMC电影.png\" group-title=\"电影频道\", AMC电影\nhttp://61.221.215.25:8800/hls/43/index.m3u8\n#EXTINF:-1 tvg-name=\"1930年代经典电影\" tvg-id=\"1930年代经典电影\" tvg-logo=\"https://livecdn.zbds.org/logo/1930年代经典电影.png\" group-title=\"电影频道\", 1930年代经典电影\nhttps://mursor.ottiptv.cc/yy/1356363815\n#EXTINF:-1 tvg-name=\"24小时电影\" tvg-id=\"24小时电影\" tvg-logo=\"https://livecdn.zbds.org/logo/24小时电影.png\" group-title=\"电影频道\", 24小时电影\nhttps://mursor.ottiptv.cc/yy/1356051105\n#EXTINF:-1 tvg-name=\"28岁电影\" tvg-id=\"28岁电影\" tvg-logo=\"https://livecdn.zbds.org/logo/28岁电影.png\" group-title=\"电影频道\", 28岁电影\nhttps://mursor.ottiptv.cc/douyu/8884164\n#EXTINF:-1 tvg-name=\"8090电影一哥\" tvg-id=\"8090电影一哥\" tvg-logo=\"https://livecdn.zbds.org/logo/8090电影一哥.png\" group-title=\"电影频道\", 8090电影一哥\nhttps://mursor.ottiptv.cc/yy/29197808\n#EXTINF:-1 tvg-name=\"CHC电影\" tvg-id=\"1\" tvg-logo=\"https://livecdn.zbds.org/logo/CHC电影.png\" group-title=\"电影频道\", CHC电影\nhttp://www.yao87.com:4022/udp/239.76.245.242:1234\n#EXTINF:-1 tvg-name=\"三七电影V\" tvg-id=\"三七电影V\" tvg-logo=\"https://livecdn.zbds.org/logo/三七电影V.png\" group-title=\"电影频道\", 三七电影V\nhttps://mursor.ottiptv.cc/douyu/9457792\n#EXTINF:-1 tvg-name=\"东阳影视生活\" tvg-id=\"东阳影视生活\" tvg-logo=\"https://livecdn.zbds.org/logo/东阳影视生活.png\" group-title=\"电影频道\", 东阳影视生活\nhttp://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8\n#EXTINF:-1 tvg-name=\"二胖影视\" tvg-id=\"二胖影视\" tvg-logo=\"https://livecdn.zbds.org/logo/二胖影视.png\" group-title=\"电影频道\", 二胖影视\nhttps://mursor.ottiptv.cc/douyu/10064260\n#EXTINF:-1 tvg-name=\"互换身份成龙主演电影双龙会\" tvg-id=\"互换身份成龙主演电影双龙会\" tvg-logo=\"https://livecdn.zbds.org/logo/互换身份成龙主演电影双龙会.png\" group-title=\"电影频道\", 互换身份成龙主演电影双龙会\nhttps://mursor.ottiptv.cc/yy/1382735625\n#EXTINF:-1 tvg-name=\"五分钟电影汇\" tvg-id=\"五分钟电影汇\" tvg-logo=\"https://livecdn.zbds.org/logo/五分钟电影汇.png\" group-title=\"电影频道\", 五分钟电影汇\nhttps://mursor.ottiptv.cc/douyu/8443438\n#EXTINF:-1 tvg-name=\"享看电影\" tvg-id=\"享看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/享看电影.png\" group-title=\"电影频道\", 享看电影\nhttps://mursor.ottiptv.cc/douyu/8974130\n#EXTINF:-1 tvg-name=\"人在囧途\" tvg-id=\"人在囧途\" tvg-logo=\"https://livecdn.zbds.org/logo/人在囧途.png\" group-title=\"电影频道\", 人在囧途\nhttps://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8\n#EXTINF:-1 tvg-name=\"人在囧途之泰囧\" tvg-id=\"人在囧途之泰囧\" tvg-logo=\"https://livecdn.zbds.org/logo/人在囧途之泰囧.png\" group-title=\"电影频道\", 人在囧途之泰囧\nhttps://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8\n#EXTINF:-1 tvg-name=\"人在囧途之港囧\" tvg-id=\"人在囧途之港囧\" tvg-logo=\"https://livecdn.zbds.org/logo/人在囧途之港囧.png\" group-title=\"电影频道\", 人在囧途之港囧\nhttps://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8\n#EXTINF:-1 tvg-name=\"俗哥看电影\" tvg-id=\"俗哥看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/俗哥看电影.png\" group-title=\"电影频道\", 俗哥看电影\nhttps://mursor.ottiptv.cc/douyu/2161818\n#EXTINF:-1 tvg-name=\"倩女幽魂人间道\" tvg-id=\"倩女幽魂人间道\" tvg-logo=\"https://livecdn.zbds.org/logo/倩女幽魂人间道.png\" group-title=\"电影频道\", 倩女幽魂人间道\nhttp://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"倩女幽魂妖魔道\" tvg-id=\"倩女幽魂妖魔道\" tvg-logo=\"https://livecdn.zbds.org/logo/倩女幽魂妖魔道.png\" group-title=\"电影频道\", 倩女幽魂妖魔道\nhttp://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"倩女幽魂道道道\" tvg-id=\"倩女幽魂道道道\" tvg-logo=\"https://livecdn.zbds.org/logo/倩女幽魂道道道.png\" group-title=\"电影频道\", 倩女幽魂道道道\nhttp://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8\n#EXTINF:-1 tvg-name=\"冰冰影剧\" tvg-id=\"冰冰影剧\" tvg-logo=\"https://livecdn.zbds.org/logo/冰冰影剧.png\" group-title=\"电影频道\", 冰冰影剧\nhttp://iptv.jxpan.vip:18888/aio/douyu/74374\n#EXTINF:-1 tvg-name=\"刑事侦缉档案\" tvg-id=\"刑事侦缉档案\" tvg-logo=\"https://livecdn.zbds.org/logo/刑事侦缉档案.png\" group-title=\"电影频道\", 刑事侦缉档案\nhttp://iptv.jxpan.vip:18888/aio/huya/29465856\n#EXTINF:-1 tvg-name=\"刘哔电影\" tvg-id=\"刘哔电影\" tvg-logo=\"https://livecdn.zbds.org/logo/刘哔电影.png\" group-title=\"电影频道\", 刘哔电影\nhttps://mursor.ottiptv.cc/douyu/2632223\n#EXTINF:-1 tvg-name=\"刘德华电影\" tvg-id=\"刘德华电影\" tvg-logo=\"https://livecdn.zbds.org/logo/刘德华电影.png\" group-title=\"电影频道\", 刘德华电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11342424\n#EXTINF:-1 tvg-name=\"功夫电影\" tvg-id=\"功夫电影\" tvg-logo=\"https://livecdn.zbds.org/logo/功夫电影.png\" group-title=\"电影频道\", 功夫电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11352941\n#EXTINF:-1 tvg-name=\"南宁影视娱乐\" tvg-id=\"南宁影视娱乐\" tvg-logo=\"https://livecdn.zbds.org/logo/南宁影视娱乐.png\" group-title=\"电影频道\", 南宁影视娱乐\nhttp://688b7cbf9b7a8d911a085372b6c70ab5.livehwc3.cn/hls.nntv.cn/nnlive/YSYL_244.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e7eb508555e76e08cc1b198d04f41fb5\n#EXTINF:-1 tvg-name=\"史诗级科幻电影阿凡达\" tvg-id=\"史诗级科幻电影阿凡达\" tvg-logo=\"https://livecdn.zbds.org/logo/史诗级科幻电影阿凡达.png\" group-title=\"电影频道\", 史诗级科幻电影阿凡达\nhttps://mursor.ottiptv.cc/yy/1382735577\n#EXTINF:-1 tvg-name=\"同同电影\" tvg-id=\"同同电影\" tvg-logo=\"https://livecdn.zbds.org/logo/同同电影.png\" group-title=\"电影频道\", 同同电影\nhttps://mursor.ottiptv.cc/douyu/10155359\n#EXTINF:-1 tvg-name=\"周墨看电影\" tvg-id=\"周墨看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/周墨看电影.png\" group-title=\"电影频道\", 周墨看电影\nhttps://mursor.ottiptv.cc/douyu/9505584\n#EXTINF:-1 tvg-name=\"周星驰搞笑电影\" tvg-id=\"周星驰搞笑电影\" tvg-logo=\"https://livecdn.zbds.org/logo/周星驰搞笑电影.png\" group-title=\"电影频道\", 周星驰搞笑电影\nhttps://mursor.ottiptv.cc/yy/38670875\n#EXTINF:-1 tvg-name=\"周星驰电影\" tvg-id=\"周星驰电影\" tvg-logo=\"https://livecdn.zbds.org/logo/周星驰电影.png\" group-title=\"电影频道\", 周星驰电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11342412\n#EXTINF:-1 tvg-name=\"周杰伦MV\" tvg-id=\"周杰伦MV\" tvg-logo=\"https://livecdn.zbds.org/logo/周杰伦MV.png\" group-title=\"电影频道\", 周杰伦MV\nhttp://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p\n#EXTINF:-1 tvg-name=\"哈利影视\" tvg-id=\"哈利影视\" tvg-logo=\"https://livecdn.zbds.org/logo/哈利影视.png\" group-title=\"电影频道\", 哈利影视\nhttps://mursor.ottiptv.cc/douyu/8475821\n#EXTINF:-1 tvg-name=\"哈尔滨影视\" tvg-id=\"哈尔滨影视\" tvg-logo=\"https://livecdn.zbds.org/logo/哈尔滨影视.png\" group-title=\"电影频道\", 哈尔滨影视\nhttps://stream.hrbtv.net/yspd/playlist.m3u8\n#EXTINF:-1 tvg-name=\"喜人电影\" tvg-id=\"喜人电影\" tvg-logo=\"https://livecdn.zbds.org/logo/喜人电影.png\" group-title=\"电影频道\", 喜人电影\nhttps://mursor.ottiptv.cc/douyu/10348735\n#EXTINF:-1 tvg-name=\"喜剧电影冒牌天神12\" tvg-id=\"喜剧电影冒牌天神12\" tvg-logo=\"https://livecdn.zbds.org/logo/喜剧电影冒牌天神12.png\" group-title=\"电影频道\", 喜剧电影冒牌天神12\nhttps://mursor.ottiptv.cc/yy/1354936210\n#EXTINF:-1 tvg-name=\"喜剧电影笑不停\" tvg-id=\"喜剧电影笑不停\" tvg-logo=\"https://livecdn.zbds.org/logo/喜剧电影笑不停.png\" group-title=\"电影频道\", 喜剧电影笑不停\nhttps://mursor.ottiptv.cc/douyu/10298856\n#EXTINF:-1 tvg-name=\"嘉兴文化影视\" tvg-id=\"嘉兴文化影视\" tvg-logo=\"https://livecdn.zbds.org/logo/嘉兴文化影视.png\" group-title=\"电影频道\", 嘉兴文化影视\nhttp://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d\n#EXTINF:-1 tvg-name=\"四叶草影视\" tvg-id=\"四叶草影视\" tvg-logo=\"https://livecdn.zbds.org/logo/四叶草影视.png\" group-title=\"电影频道\", 四叶草影视\nhttps://mursor.ottiptv.cc/douyu/9446117\n#EXTINF:-1 tvg-name=\"国产动作电影\" tvg-id=\"国产动作电影\" tvg-logo=\"https://livecdn.zbds.org/logo/国产动作电影.png\" group-title=\"电影频道\", 国产动作电影\nhttps://mursor.ottiptv.cc/yy/1382736858\n#EXTINF:-1 tvg-name=\"国产大片电影\" tvg-id=\"国产大片电影\" tvg-logo=\"https://livecdn.zbds.org/logo/国产大片电影.png\" group-title=\"电影频道\", 国产大片电影\nhttps://mursor.ottiptv.cc/yy/1354926655\n#EXTINF:-1 tvg-name=\"国产电影就是闹着玩的\" tvg-id=\"国产电影就是闹着玩的\" tvg-logo=\"https://livecdn.zbds.org/logo/国产电影就是闹着玩的.png\" group-title=\"电影频道\", 国产电影就是闹着玩的\nhttps://mursor.ottiptv.cc/yy/1354931503\n#EXTINF:-1 tvg-name=\"国内玄幻电影林正英\" tvg-id=\"国内玄幻电影林正英\" tvg-logo=\"https://livecdn.zbds.org/logo/国内玄幻电影林正英.png\" group-title=\"电影频道\", 国内玄幻电影林正英\nhttps://mursor.ottiptv.cc/yy/1354932444\n#EXTINF:-1 tvg-name=\"国内经典动作电影\" tvg-id=\"国内经典动作电影\" tvg-logo=\"https://livecdn.zbds.org/logo/国内经典动作电影.png\" group-title=\"电影频道\", 国内经典动作电影\nhttps://mursor.ottiptv.cc/yy/1382851522\n#EXTINF:-1 tvg-name=\"墨逗电影\" tvg-id=\"墨逗电影\" tvg-logo=\"https://livecdn.zbds.org/logo/墨逗电影.png\" group-title=\"电影频道\", 墨逗电影\nhttps://mursor.ottiptv.cc/douyu/9614847\n#EXTINF:-1 tvg-name=\"夏洛特烦恼国内电影喜剧\" tvg-id=\"夏洛特烦恼国内电影喜剧\" tvg-logo=\"https://livecdn.zbds.org/logo/夏洛特烦恼国内电影喜剧.png\" group-title=\"电影频道\", 夏洛特烦恼国内电影喜剧\nhttps://mursor.ottiptv.cc/yy/1354936201\n#EXTINF:-1 tvg-name=\"大壮撞电影\" tvg-id=\"大壮撞电影\" tvg-logo=\"https://livecdn.zbds.org/logo/大壮撞电影.png\" group-title=\"电影频道\", 大壮撞电影\nhttps://mursor.ottiptv.cc/douyu/9437349\n#EXTINF:-1 tvg-name=\"大时代\" tvg-id=\"大时代\" tvg-logo=\"https://livecdn.zbds.org/logo/大时代.png\" group-title=\"电影频道\", 大时代\nhttp://iptv.jxpan.vip:18888/aio/huya/23865161\n#EXTINF:-1 tvg-name=\"大江大河2高分影视推荐\" tvg-id=\"大江大河2高分影视推荐\" tvg-logo=\"https://livecdn.zbds.org/logo/大江大河2高分影视推荐.png\" group-title=\"电影频道\", 大江大河2高分影视推荐\nhttps://mursor.ottiptv.cc/yy/1382736797\n#EXTINF:-1 tvg-name=\"大江大河高分影视推荐\" tvg-id=\"大江大河高分影视推荐\" tvg-logo=\"https://livecdn.zbds.org/logo/大江大河高分影视推荐.png\" group-title=\"电影频道\", 大江大河高分影视推荐\nhttps://mursor.ottiptv.cc/yy/1382736806\n#EXTINF:-1 tvg-name=\"大米饭影视\" tvg-id=\"大米饭影视\" tvg-logo=\"https://livecdn.zbds.org/logo/大米饭影视.png\" group-title=\"电影频道\", 大米饭影视\nhttps://mursor.ottiptv.cc/douyu/9824094\n#EXTINF:-1 tvg-name=\"大趴电影院\" tvg-id=\"大趴电影院\" tvg-logo=\"https://livecdn.zbds.org/logo/大趴电影院.png\" group-title=\"电影频道\", 大趴电影院\nhttps://mursor.ottiptv.cc/douyu/8747638\n#EXTINF:-1 tvg-name=\"大进军全集红色系列电影\" tvg-id=\"大进军全集红色系列电影\" tvg-logo=\"https://livecdn.zbds.org/logo/大进军全集红色系列电影.png\" group-title=\"电影频道\", 大进军全集红色系列电影\nhttps://mursor.ottiptv.cc/yy/1382745083\n#EXTINF:-1 tvg-name=\"天堂电影1895\" tvg-id=\"天堂电影1895\" tvg-logo=\"https://livecdn.zbds.org/logo/天堂电影1895.png\" group-title=\"电影频道\", 天堂电影1895\nhttps://mursor.ottiptv.cc/douyu/9573592\n#EXTINF:-1 tvg-name=\"天映经典\" tvg-id=\"天映经典\" tvg-logo=\"https://livecdn.zbds.org/logo/天映经典.png\" group-title=\"电影频道\", 天映经典\nhttps://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy\n#EXTINF:-1 tvg-name=\"太空生命高分科幻电影开播\" tvg-id=\"太空生命高分科幻电影开播\" tvg-logo=\"https://livecdn.zbds.org/logo/太空生命高分科幻电影开播.png\" group-title=\"电影频道\", 太空生命高分科幻电影开播\nhttps://mursor.ottiptv.cc/yy/1382851586\n#EXTINF:-1 tvg-name=\"奇怪电影\" tvg-id=\"奇怪电影\" tvg-logo=\"https://livecdn.zbds.org/logo/奇怪电影.png\" group-title=\"电影频道\", 奇怪电影\nhttps://mursor.ottiptv.cc/douyu/9440966\n#EXTINF:-1 tvg-name=\"妙手仁心\" tvg-id=\"妙手仁心\" tvg-logo=\"https://livecdn.zbds.org/logo/妙手仁心.png\" group-title=\"电影频道\", 妙手仁心\nhttp://iptv.jxpan.vip:18888/aio/huya/29465853\n#EXTINF:-1 tvg-name=\"宇宙科幻合集\" tvg-id=\"宇宙科幻合集\" tvg-logo=\"https://livecdn.zbds.org/logo/宇宙科幻合集.png\" group-title=\"电影频道\", 宇宙科幻合集\nhttp://iptv.jxpan.vip:18888/aio/huya/11342428\n#EXTINF:-1 tvg-name=\"寒战\" tvg-id=\"寒战\" tvg-logo=\"https://livecdn.zbds.org/logo/寒战.png\" group-title=\"电影频道\", 寒战\nhttps://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8\n#EXTINF:-1 tvg-name=\"小儛电影嘚啵嘚\" tvg-id=\"小儛电影嘚啵嘚\" tvg-logo=\"https://livecdn.zbds.org/logo/小儛电影嘚啵嘚.png\" group-title=\"电影频道\", 小儛电影嘚啵嘚\nhttps://mursor.ottiptv.cc/douyu/8362978\n#EXTINF:-1 tvg-name=\"小儿难养影视剧\" tvg-id=\"小儿难养影视剧\" tvg-logo=\"https://livecdn.zbds.org/logo/小儿难养影视剧.png\" group-title=\"电影频道\", 小儿难养影视剧\nhttps://mursor.ottiptv.cc/yy/1382735559\n#EXTINF:-1 tvg-name=\"少年看电影\" tvg-id=\"少年看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/少年看电影.png\" group-title=\"电影频道\", 少年看电影\nhttps://mursor.ottiptv.cc/douyu/8762120\n#EXTINF:-1 tvg-name=\"岳云鹏宋小宝也来演电影了\" tvg-id=\"岳云鹏宋小宝也来演电影了\" tvg-logo=\"https://livecdn.zbds.org/logo/岳云鹏宋小宝也来演电影了.png\" group-title=\"电影频道\", 岳云鹏宋小宝也来演电影了\nhttps://mursor.ottiptv.cc/yy/1354926612\n#EXTINF:-1 tvg-name=\"广州影视\" tvg-id=\"广州影视\" tvg-logo=\"https://livecdn.zbds.org/logo/广州影视.png\" group-title=\"电影频道\", 广州影视\nhttp://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4\n#EXTINF:-1 tvg-name=\"张小宾电影\" tvg-id=\"张小宾电影\" tvg-logo=\"https://livecdn.zbds.org/logo/张小宾电影.png\" group-title=\"电影频道\", 张小宾电影\nhttps://mursor.ottiptv.cc/huya/29862176\n#EXTINF:-1 tvg-name=\"强森电影\" tvg-id=\"强森电影\" tvg-logo=\"https://livecdn.zbds.org/logo/强森电影.png\" group-title=\"电影频道\", 强森电影\nhttp://iptv.jxpan.vip:18888/aio/huya/21059581\n#EXTINF:-1 tvg-name=\"影视小艺\" tvg-id=\"影视小艺\" tvg-logo=\"https://livecdn.zbds.org/logo/影视小艺.png\" group-title=\"电影频道\", 影视小艺\nhttps://mursor.ottiptv.cc/yy/1382737886\n#EXTINF:-1 tvg-name=\"影视梗大叔\" tvg-id=\"影视梗大叔\" tvg-logo=\"https://livecdn.zbds.org/logo/影视梗大叔.png\" group-title=\"电影频道\", 影视梗大叔\nhttps://mursor.ottiptv.cc/douyu/9480648\n#EXTINF:-1 tvg-name=\"影视集装箱\" tvg-id=\"影视集装箱\" tvg-logo=\"https://livecdn.zbds.org/logo/影视集装箱.png\" group-title=\"电影频道\", 影视集装箱\nhttps://mursor.ottiptv.cc/douyu/8651489\n#EXTINF:-1 tvg-name=\"怪兽电影\" tvg-id=\"怪兽电影\" tvg-logo=\"https://livecdn.zbds.org/logo/怪兽电影.png\" group-title=\"电影频道\", 怪兽电影\nhttp://iptv.jxpan.vip:18888/aio/huya/21059577\n#EXTINF:-1 tvg-name=\"怪兽马提尼电影\" tvg-id=\"怪兽马提尼电影\" tvg-logo=\"https://livecdn.zbds.org/logo/怪兽马提尼电影.png\" group-title=\"电影频道\", 怪兽马提尼电影\nhttps://mursor.ottiptv.cc/douyu/9075333\n#EXTINF:-1 tvg-name=\"怪味爆米花电影\" tvg-id=\"怪味爆米花电影\" tvg-logo=\"https://livecdn.zbds.org/logo/怪味爆米花电影.png\" group-title=\"电影频道\", 怪味爆米花电影\nhttps://mursor.ottiptv.cc/douyu/9422144\n#EXTINF:-1 tvg-name=\"恐怖电影\" tvg-id=\"恐怖电影\" tvg-logo=\"https://livecdn.zbds.org/logo/恐怖电影.png\" group-title=\"电影频道\", 恐怖电影\nhttps://mursor.ottiptv.cc/yy/24066336\n#EXTINF:-1 tvg-name=\"我不是药神\" tvg-id=\"我不是药神\" tvg-logo=\"https://livecdn.zbds.org/logo/我不是药神.png\" group-title=\"电影频道\", 我不是药神\nhttps://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8\n#EXTINF:-1 tvg-name=\"我是吃泡面看电影\" tvg-id=\"我是吃泡面看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/我是吃泡面看电影.png\" group-title=\"电影频道\", 我是吃泡面看电影\nhttps://mursor.ottiptv.cc/douyu/8851063\n#EXTINF:-1 tvg-name=\"扫黄先锋\" tvg-id=\"扫黄先锋\" tvg-logo=\"https://livecdn.zbds.org/logo/扫黄先锋.png\" group-title=\"电影频道\", 扫黄先锋\nhttp://iptv.jxpan.vip:18888/aio/huya/29465855\n#EXTINF:-1 tvg-name=\"拆弹专家1\" tvg-id=\"拆弹专家1\" tvg-logo=\"https://livecdn.zbds.org/logo/拆弹专家1.png\" group-title=\"电影频道\", 拆弹专家1\nhttps://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8\n#EXTINF:-1 tvg-name=\"拆弹专家2\" tvg-id=\"拆弹专家2\" tvg-logo=\"https://livecdn.zbds.org/logo/拆弹专家2.png\" group-title=\"电影频道\", 拆弹专家2\nhttps://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8\n#EXTINF:-1 tvg-name=\"指缝里看电影\" tvg-id=\"指缝里看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/指缝里看电影.png\" group-title=\"电影频道\", 指缝里看电影\nhttps://mursor.ottiptv.cc/douyu/9647834\n#EXTINF:-1 tvg-name=\"捕风追影浪浪山小妖怪电影实时票房\" tvg-id=\"捕风追影浪浪山小妖怪电影实时票房\" tvg-logo=\"https://livecdn.zbds.org/logo/捕风追影浪浪山小妖怪电影实时票房.png\" group-title=\"电影频道\", 捕风追影浪浪山小妖怪电影实时票房\nhttps://mursor.ottiptv.cc/bilibili/833792\n#EXTINF:-1 tvg-name=\"搞笑经典电影\" tvg-id=\"搞笑经典电影\" tvg-logo=\"https://livecdn.zbds.org/logo/搞笑经典电影.png\" group-title=\"电影频道\", 搞笑经典电影\nhttps://mursor.ottiptv.cc/yy/1351537467\n#EXTINF:-1 tvg-name=\"播放影视为主\" tvg-id=\"播放影视为主\" tvg-logo=\"https://livecdn.zbds.org/logo/播放影视为主.png\" group-title=\"电影频道\", 播放影视为主\nhttps://mursor.ottiptv.cc/yy/1353454489\n#EXTINF:-1 tvg-name=\"斗鱼港剧\" tvg-id=\"斗鱼港剧\" tvg-logo=\"https://livecdn.zbds.org/logo/斗鱼港剧.png\" group-title=\"电影频道\", 斗鱼港剧\nhttp://iptv.jxpan.vip:18888/aio/douyu/5061550\n#EXTINF:-1 tvg-name=\"无心法师\" tvg-id=\"无心法师\" tvg-logo=\"https://livecdn.zbds.org/logo/无心法师.png\" group-title=\"电影频道\", 无心法师\nhttp://iptv.jxpan.vip:18888/aio/huya/30080233\n#EXTINF:-1 tvg-name=\"无际电影\" tvg-id=\"无际电影\" tvg-logo=\"https://livecdn.zbds.org/logo/无际电影.png\" group-title=\"电影频道\", 无际电影\nhttps://mursor.ottiptv.cc/douyu/9720498\n#EXTINF:-1 tvg-name=\"无限复活张柏芝主演爱情电影\" tvg-id=\"无限复活张柏芝主演爱情电影\" tvg-logo=\"https://livecdn.zbds.org/logo/无限复活张柏芝主演爱情电影.png\" group-title=\"电影频道\", 无限复活张柏芝主演爱情电影\nhttps://mursor.ottiptv.cc/yy/1382745190\n#EXTINF:-1 tvg-name=\"晨晨的影视小窝\" tvg-id=\"晨晨的影视小窝\" tvg-logo=\"https://livecdn.zbds.org/logo/晨晨的影视小窝.png\" group-title=\"电影频道\", 晨晨的影视小窝\nhttps://mursor.ottiptv.cc/yy/1382851576\n#EXTINF:-1 tvg-name=\"有部电影儿\" tvg-id=\"有部电影儿\" tvg-logo=\"https://livecdn.zbds.org/logo/有部电影儿.png\" group-title=\"电影频道\", 有部电影儿\nhttps://mursor.ottiptv.cc/douyu/9736479\n#EXTINF:-1 tvg-name=\"末日系列外国电影合集\" tvg-id=\"末日系列外国电影合集\" tvg-logo=\"https://livecdn.zbds.org/logo/末日系列外国电影合集.png\" group-title=\"电影频道\", 末日系列外国电影合集\nhttps://mursor.ottiptv.cc/yy/1354889019\n#EXTINF:-1 tvg-name=\"李连杰电影\" tvg-id=\"李连杰电影\" tvg-logo=\"https://livecdn.zbds.org/logo/李连杰电影.png\" group-title=\"电影频道\", 李连杰电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11342390\n#EXTINF:-1 tvg-name=\"林九影视\" tvg-id=\"林九影视\" tvg-logo=\"https://livecdn.zbds.org/logo/林九影视.png\" group-title=\"电影频道\", 林九影视\nhttps://mursor.ottiptv.cc/douyu/7212528\n#EXTINF:-1 tvg-name=\"林正英电影\" tvg-id=\"林正英电影\" tvg-logo=\"https://livecdn.zbds.org/logo/林正英电影.png\" group-title=\"电影频道\", 林正英电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11342421\n#EXTINF:-1 tvg-name=\"林正英经典玄幻电影\" tvg-id=\"林正英经典玄幻电影\" tvg-logo=\"https://livecdn.zbds.org/logo/林正英经典玄幻电影.png\" group-title=\"电影频道\", 林正英经典玄幻电影\nhttps://mursor.ottiptv.cc/yy/1462895099\n#EXTINF:-1 tvg-name=\"林正英经典电影\" tvg-id=\"林正英经典电影\" tvg-logo=\"https://livecdn.zbds.org/logo/林正英经典电影.png\" group-title=\"电影频道\", 林正英经典电影\nhttps://mursor.ottiptv.cc/yy/34229877\n#EXTINF:-1 tvg-name=\"枪战电影\" tvg-id=\"枪战电影\" tvg-logo=\"https://livecdn.zbds.org/logo/枪战电影.png\" group-title=\"电影频道\", 枪战电影\nhttp://iptv.jxpan.vip:18888/aio/huya/21059579\n#EXTINF:-1 tvg-name=\"楚汉骄雄\" tvg-id=\"楚汉骄雄\" tvg-logo=\"https://livecdn.zbds.org/logo/楚汉骄雄.png\" group-title=\"电影频道\", 楚汉骄雄\nhttp://iptv.jxpan.vip:18888/aio/huya/29465854\n#EXTINF:-1 tvg-name=\"欧美大片\" tvg-id=\"欧美大片\" tvg-logo=\"https://livecdn.zbds.org/logo/欧美大片.png\" group-title=\"电影频道\", 欧美大片\nhttp://iptv.jxpan.vip:18888/aio/douyu/2793084\n#EXTINF:-1 tvg-name=\"欧美配音电影\" tvg-id=\"欧美配音电影\" tvg-logo=\"https://livecdn.zbds.org/logo/欧美配音电影.png\" group-title=\"电影频道\", 欧美配音电影\nhttps://mursor.ottiptv.cc/yy/1354693629\n#EXTINF:-1 tvg-name=\"武侠电影\" tvg-id=\"武侠电影\" tvg-logo=\"https://livecdn.zbds.org/logo/武侠电影.png\" group-title=\"电影频道\", 武侠电影\nhttp://cfss.cc/cdn/hy/11342427.m3u8\n#EXTINF:-1 tvg-name=\"每日好电影V\" tvg-id=\"每日好电影V\" tvg-logo=\"https://livecdn.zbds.org/logo/每日好电影V.png\" group-title=\"电影频道\", 每日好电影V\nhttps://mursor.ottiptv.cc/douyu/9533302\n#EXTINF:-1 tvg-name=\"江苏影视\" tvg-id=\"江苏影视\" tvg-logo=\"https://livecdn.zbds.org/logo/江苏影视.png\" group-title=\"电影频道\", 江苏影视\nhttps://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy\n#EXTINF:-1 tvg-name=\"沈腾电影\" tvg-id=\"沈腾电影\" tvg-logo=\"https://livecdn.zbds.org/logo/沈腾电影.png\" group-title=\"电影频道\", 沈腾电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11601968\n#EXTINF:-1 tvg-name=\"治愈电影阳光小美女一家人的寻梦之旅\" tvg-id=\"治愈电影阳光小美女一家人的寻梦之旅\" tvg-logo=\"https://livecdn.zbds.org/logo/治愈电影阳光小美女一家人的寻梦之旅.png\" group-title=\"电影频道\", 治愈电影阳光小美女一家人的寻梦之旅\nhttps://mursor.ottiptv.cc/yy/1382736920\n#EXTINF:-1 tvg-name=\"法政先锋\" tvg-id=\"法政先锋\" tvg-logo=\"https://livecdn.zbds.org/logo/法政先锋.png\" group-title=\"电影频道\", 法政先锋\nhttp://iptv.jxpan.vip:18888/aio/huya/23863804\n#EXTINF:-1 tvg-name=\"泡芙陪你看电影\" tvg-id=\"泡芙陪你看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/泡芙陪你看电影.png\" group-title=\"电影频道\", 泡芙陪你看电影\nhttps://mursor.ottiptv.cc/yy/24407222\n#EXTINF:-1 tvg-name=\"泰州三套影视娱乐\" tvg-id=\"泰州三套影视娱乐\" tvg-logo=\"https://livecdn.zbds.org/logo/泰州三套影视娱乐.png\" group-title=\"电影频道\", 泰州三套影视娱乐\nhttp://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426\n#EXTINF:-1 tvg-name=\"洗冤录\" tvg-id=\"洗冤录\" tvg-logo=\"https://livecdn.zbds.org/logo/洗冤录.png\" group-title=\"电影频道\", 洗冤录\nhttp://iptv.jxpan.vip:18888/aio/huya/29465851\n#EXTINF:-1 tvg-name=\"活佛济公3\" tvg-id=\"活佛济公3\" tvg-logo=\"https://livecdn.zbds.org/logo/活佛济公3.png\" group-title=\"电影频道\", 活佛济公3\nhttp://iptv.jxpan.vip:18888/aio/huya/23903123\n#EXTINF:-1 tvg-name=\"浙江教科影视\" tvg-id=\"浙江教科影视\" tvg-logo=\"https://livecdn.zbds.org/logo/浙江教科影视.png\" group-title=\"电影频道\", 浙江教科影视\nhttps://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8\n#EXTINF:-1 tvg-name=\"涛浪浪电影\" tvg-id=\"涛浪浪电影\" tvg-logo=\"https://livecdn.zbds.org/logo/涛浪浪电影.png\" group-title=\"电影频道\", 涛浪浪电影\nhttps://mursor.ottiptv.cc/douyu/5424258\n#EXTINF:-1 tvg-name=\"淘剧场\" tvg-id=\"淘剧场\" tvg-logo=\"https://livecdn.zbds.org/logo/淘剧场.png\" group-title=\"电影频道\", 淘剧场\nhttp://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8\n#EXTINF:-1 tvg-name=\"淘娱乐\" tvg-id=\"淘娱乐\" tvg-logo=\"https://livecdn.zbds.org/logo/淘娱乐.png\" group-title=\"电影频道\", 淘娱乐\nhttp://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8\n#EXTINF:-1 tvg-name=\"淘电影\" tvg-id=\"淘电影\" tvg-logo=\"https://livecdn.zbds.org/logo/淘电影.png\" group-title=\"电影频道\", 淘电影\nhttp://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8\n#EXTINF:-1 tvg-name=\"港剧影视汇\" tvg-id=\"港剧影视汇\" tvg-logo=\"https://livecdn.zbds.org/logo/港剧影视汇.png\" group-title=\"电影频道\", 港剧影视汇\nhttps://mursor.ottiptv.cc/huya/23903142\n#EXTINF:-1 tvg-name=\"热血动作电影\" tvg-id=\"热血动作电影\" tvg-logo=\"https://livecdn.zbds.org/logo/热血动作电影.png\" group-title=\"电影频道\", 热血动作电影\nhttps://mursor.ottiptv.cc/yy/1382736804\n#EXTINF:-1 tvg-name=\"热血抗日电影\" tvg-id=\"热血抗日电影\" tvg-logo=\"https://livecdn.zbds.org/logo/热血抗日电影.png\" group-title=\"电影频道\", 热血抗日电影\nhttps://mursor.ottiptv.cc/yy/1382749907\n#EXTINF:-1 tvg-name=\"熊猫电影\" tvg-id=\"熊猫电影\" tvg-logo=\"https://livecdn.zbds.org/logo/熊猫电影.png\" group-title=\"电影频道\", 熊猫电影\nhttps://mursor.ottiptv.cc/douyu/3506483\n#EXTINF:-1 tvg-name=\"爆笑电影王牌大贱谍23\" tvg-id=\"爆笑电影王牌大贱谍23\" tvg-logo=\"https://livecdn.zbds.org/logo/爆笑电影王牌大贱谍23.png\" group-title=\"电影频道\", 爆笑电影王牌大贱谍23\nhttps://mursor.ottiptv.cc/yy/1382735556\n#EXTINF:-1 tvg-name=\"爱星影视\" tvg-id=\"爱星影视\" tvg-logo=\"https://livecdn.zbds.org/logo/爱星影视.png\" group-title=\"电影频道\", 爱星影视\nhttps://mursor.ottiptv.cc/douyu/9476806\n#EXTINF:-1 tvg-name=\"特辑电影院\" tvg-id=\"特辑电影院\" tvg-logo=\"https://livecdn.zbds.org/logo/特辑电影院.png\" group-title=\"电影频道\", 特辑电影院\nhttps://mursor.ottiptv.cc/douyu/3637778\n#EXTINF:-1 tvg-name=\"狄仁杰电影\" tvg-id=\"狄仁杰电影\" tvg-logo=\"https://livecdn.zbds.org/logo/狄仁杰电影.png\" group-title=\"电影频道\", 狄仁杰电影\nhttp://iptv.jxpan.vip:18888/aio/huya/30080229\n#EXTINF:-1 tvg-name=\"狗毛电影\" tvg-id=\"狗毛电影\" tvg-logo=\"https://livecdn.zbds.org/logo/狗毛电影.png\" group-title=\"电影频道\", 狗毛电影\nhttps://mursor.ottiptv.cc/douyu/9356637\n#EXTINF:-1 tvg-name=\"独立鱼电影\" tvg-id=\"独立鱼电影\" tvg-logo=\"https://livecdn.zbds.org/logo/独立鱼电影.png\" group-title=\"电影频道\", 独立鱼电影\nhttps://mursor.ottiptv.cc/douyu/2413555\n#EXTINF:-1 tvg-name=\"猫眼电影\" tvg-id=\"猫眼电影\" tvg-logo=\"https://livecdn.zbds.org/logo/猫眼电影.png\" group-title=\"电影频道\", 猫眼电影\nhttps://mursor.ottiptv.cc/douyu/8726221\n#EXTINF:-1 tvg-name=\"玄幻电影\" tvg-id=\"玄幻电影\" tvg-logo=\"https://livecdn.zbds.org/logo/玄幻电影.png\" group-title=\"电影频道\", 玄幻电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11342414\n#EXTINF:-1 tvg-name=\"王晶电影\" tvg-id=\"王晶电影\" tvg-logo=\"https://livecdn.zbds.org/logo/王晶电影.png\" group-title=\"电影频道\", 王晶电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11602058\n#EXTINF:-1 tvg-name=\"玖月影视\" tvg-id=\"玖月影视\" tvg-logo=\"https://livecdn.zbds.org/logo/玖月影视.png\" group-title=\"电影频道\", 玖月影视\nhttps://mursor.ottiptv.cc/douyu/9339251\n#EXTINF:-1 tvg-name=\"珍珠港电影\" tvg-id=\"珍珠港电影\" tvg-logo=\"https://livecdn.zbds.org/logo/珍珠港电影.png\" group-title=\"电影频道\", 珍珠港电影\nhttps://mursor.ottiptv.cc/yy/1354936234\n#EXTINF:-1 tvg-name=\"甄子丹电影\" tvg-id=\"甄子丹电影\" tvg-logo=\"https://livecdn.zbds.org/logo/甄子丹电影.png\" group-title=\"电影频道\", 甄子丹电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11352935\n#EXTINF:-1 tvg-name=\"电影七十二变\" tvg-id=\"电影七十二变\" tvg-logo=\"https://livecdn.zbds.org/logo/电影七十二变.png\" group-title=\"电影频道\", 电影七十二变\nhttps://mursor.ottiptv.cc/douyu/9323164\n#EXTINF:-1 tvg-name=\"电影先锋V\" tvg-id=\"电影先锋V\" tvg-logo=\"https://livecdn.zbds.org/logo/电影先锋V.png\" group-title=\"电影频道\", 电影先锋V\nhttps://mursor.ottiptv.cc/douyu/8711212\n#EXTINF:-1 tvg-name=\"电影兴风作浪系列播放\" tvg-id=\"电影兴风作浪系列播放\" tvg-logo=\"https://livecdn.zbds.org/logo/电影兴风作浪系列播放.png\" group-title=\"电影频道\", 电影兴风作浪系列播放\nhttps://mursor.ottiptv.cc/yy/1382736857\n#EXTINF:-1 tvg-name=\"电影刘油果\" tvg-id=\"电影刘油果\" tvg-logo=\"https://livecdn.zbds.org/logo/电影刘油果.png\" group-title=\"电影频道\", 电影刘油果\nhttps://mursor.ottiptv.cc/douyu/3985805\n#EXTINF:-1 tvg-name=\"电影吐槽汇\" tvg-id=\"电影吐槽汇\" tvg-logo=\"https://livecdn.zbds.org/logo/电影吐槽汇.png\" group-title=\"电影频道\", 电影吐槽汇\nhttps://mursor.ottiptv.cc/douyu/9447668\n#EXTINF:-1 tvg-name=\"电影周星星\" tvg-id=\"1\" tvg-logo=\"https://livecdn.zbds.org/logo/电影周星星.png\" group-title=\"电影频道\", 电影周星星\nhttp://live.metshop.top/huya/11336587?cdn=alicdn\n#EXTINF:-1 tvg-name=\"电影小班长\" tvg-id=\"电影小班长\" tvg-logo=\"https://livecdn.zbds.org/logo/电影小班长.png\" group-title=\"电影频道\", 电影小班长\nhttps://mursor.ottiptv.cc/douyu/549693\n#EXTINF:-1 tvg-name=\"电影幕后喵\" tvg-id=\"电影幕后喵\" tvg-logo=\"https://livecdn.zbds.org/logo/电影幕后喵.png\" group-title=\"电影频道\", 电影幕后喵\nhttps://mursor.ottiptv.cc/douyu/8884074\n#EXTINF:-1 tvg-name=\"电影犯罪片\" tvg-id=\"1\" tvg-logo=\"https://livecdn.zbds.org/logo/电影犯罪片.png\" group-title=\"电影频道\", 电影犯罪片\nhttp://live.metshop.top/huya/11352974?cdn=alicdn\n#EXTINF:-1 tvg-name=\"电影百团大战\" tvg-id=\"电影百团大战\" tvg-logo=\"https://livecdn.zbds.org/logo/电影百团大战.png\" group-title=\"电影频道\", 电影百团大战\nhttps://mursor.ottiptv.cc/yy/1382736871\n#EXTINF:-1 tvg-name=\"电影笔记\" tvg-id=\"电影笔记\" tvg-logo=\"https://livecdn.zbds.org/logo/电影笔记.png\" group-title=\"电影频道\", 电影笔记\nhttps://mursor.ottiptv.cc/douyu/9636034\n#EXTINF:-1 tvg-name=\"电影蜘蛛侠\" tvg-id=\"1\" tvg-logo=\"https://livecdn.zbds.org/logo/电影蜘蛛侠.png\" group-title=\"电影频道\", 电影蜘蛛侠\nhttp://live.metshop.top/huya/21059599?cdn=alicdn\n#EXTINF:-1 tvg-name=\"电影迷小雅\" tvg-id=\"电影迷小雅\" tvg-logo=\"https://livecdn.zbds.org/logo/电影迷小雅.png\" group-title=\"电影频道\", 电影迷小雅\nhttps://mursor.ottiptv.cc/douyu/9639225\n#EXTINF:-1 tvg-name=\"电影黑匣子\" tvg-id=\"电影黑匣子\" tvg-logo=\"https://livecdn.zbds.org/logo/电影黑匣子.png\" group-title=\"电影频道\", 电影黑匣子\nhttps://mursor.ottiptv.cc/douyu/8706652\n#EXTINF:-1 tvg-name=\"电影黑豹\" tvg-id=\"电影黑豹\" tvg-logo=\"https://livecdn.zbds.org/logo/电影黑豹.png\" group-title=\"电影频道\", 电影黑豹\nhttps://mursor.ottiptv.cc/yy/1382736816\n#EXTINF:-1 tvg-name=\"看电影了没V\" tvg-id=\"看电影了没V\" tvg-logo=\"https://livecdn.zbds.org/logo/看电影了没V.png\" group-title=\"电影频道\", 看电影了没V\nhttps://mursor.ottiptv.cc/douyu/9562616\n#EXTINF:-1 tvg-name=\"神雕侠侣\" tvg-id=\"神雕侠侣\" tvg-logo=\"https://livecdn.zbds.org/logo/神雕侠侣.png\" group-title=\"电影频道\", 神雕侠侣\nhttp://iptv.jxpan.vip:18888/aio/huya/23865171\n#EXTINF:-1 tvg-name=\"科幻电影环太平洋\" tvg-id=\"科幻电影环太平洋\" tvg-logo=\"https://livecdn.zbds.org/logo/科幻电影环太平洋.png\" group-title=\"电影频道\", 科幻电影环太平洋\nhttps://mursor.ottiptv.cc/yy/1354936170\n#EXTINF:-1 tvg-name=\"笑看风云\" tvg-id=\"笑看风云\" tvg-logo=\"https://livecdn.zbds.org/logo/笑看风云.png\" group-title=\"电影频道\", 笑看风云\nhttp://iptv.jxpan.vip:18888/aio/huya/29465858\n#EXTINF:-1 tvg-name=\"粟裕大将影视\" tvg-id=\"粟裕大将影视\" tvg-logo=\"https://livecdn.zbds.org/logo/粟裕大将影视.png\" group-title=\"电影频道\", 粟裕大将影视\nhttps://mursor.ottiptv.cc/yy/1354926542\n#EXTINF:-1 tvg-name=\"粤语电影丶\" tvg-id=\"粤语电影丶\" tvg-logo=\"https://livecdn.zbds.org/logo/粤语电影丶.png\" group-title=\"电影频道\", 粤语电影丶\nhttps://mursor.ottiptv.cc/douyu/1226741\n#EXTINF:-1 tvg-name=\"精彩动作电影\" tvg-id=\"精彩动作电影\" tvg-logo=\"https://livecdn.zbds.org/logo/精彩动作电影.png\" group-title=\"电影频道\", 精彩动作电影\nhttps://mursor.ottiptv.cc/yy/1382736823\n#EXTINF:-1 tvg-name=\"精彩动作电影享不停\" tvg-id=\"精彩动作电影享不停\" tvg-logo=\"https://livecdn.zbds.org/logo/精彩动作电影享不停.png\" group-title=\"电影频道\", 精彩动作电影享不停\nhttps://mursor.ottiptv.cc/yy/1382736809\n#EXTINF:-1 tvg-name=\"经典港片电影\" tvg-id=\"经典港片电影\" tvg-logo=\"https://livecdn.zbds.org/logo/经典港片电影.png\" group-title=\"电影频道\", 经典港片电影\nhttps://mursor.ottiptv.cc/yy/1461889059\n#EXTINF:-1 tvg-name=\"经典电影港片枪战\" tvg-id=\"经典电影港片枪战\" tvg-logo=\"https://livecdn.zbds.org/logo/经典电影港片枪战.png\" group-title=\"电影频道\", 经典电影港片枪战\nhttps://mursor.ottiptv.cc/yy/1355076627\n#EXTINF:-1 tvg-name=\"经典电影重温\" tvg-id=\"经典电影重温\" tvg-logo=\"https://livecdn.zbds.org/logo/经典电影重温.png\" group-title=\"电影频道\", 经典电影重温\nhttps://mursor.ottiptv.cc/yy/1382793140\n#EXTINF:-1 tvg-name=\"经典科幻电影2001漫游太空\" tvg-id=\"经典科幻电影2001漫游太空\" tvg-logo=\"https://livecdn.zbds.org/logo/经典科幻电影2001漫游太空.png\" group-title=\"电影频道\", 经典科幻电影2001漫游太空\nhttps://mursor.ottiptv.cc/yy/1354926671\n#EXTINF:-1 tvg-name=\"绝版电影港片女鬼\" tvg-id=\"绝版电影港片女鬼\" tvg-logo=\"https://livecdn.zbds.org/logo/绝版电影港片女鬼.png\" group-title=\"电影频道\", 绝版电影港片女鬼\nhttps://mursor.ottiptv.cc/yy/1455988450\n#EXTINF:-1 tvg-name=\"缉魂科幻悬疑电影\" tvg-id=\"缉魂科幻悬疑电影\" tvg-logo=\"https://livecdn.zbds.org/logo/缉魂科幻悬疑电影.png\" group-title=\"电影频道\", 缉魂科幻悬疑电影\nhttps://mursor.ottiptv.cc/yy/1382745090\n#EXTINF:-1 tvg-name=\"罪犯电影\" tvg-id=\"罪犯电影\" tvg-logo=\"https://livecdn.zbds.org/logo/罪犯电影.png\" group-title=\"电影频道\", 罪犯电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11352962\n#EXTINF:-1 tvg-name=\"美亚电影\" tvg-id=\"美亚电影\" tvg-logo=\"https://livecdn.zbds.org/logo/美亚电影.png\" group-title=\"电影频道\", 美亚电影\nhttps://live.tvfix.org/live/mydy/index.m3u8\n#EXTINF:-1 tvg-name=\"老卓电影\" tvg-id=\"老卓电影\" tvg-logo=\"https://livecdn.zbds.org/logo/老卓电影.png\" group-title=\"电影频道\", 老卓电影\nhttps://mursor.ottiptv.cc/yy/1354770516\n#EXTINF:-1 tvg-name=\"老电影故事\" tvg-id=\"老电影故事\" tvg-logo=\"https://livecdn.zbds.org/logo/老电影故事.png\" group-title=\"电影频道\", 老电影故事\nhttps://mursor.ottiptv.cc/douyu/9167273\n#EXTINF:-1 tvg-name=\"胶片看电影\" tvg-id=\"胶片看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/胶片看电影.png\" group-title=\"电影频道\", 胶片看电影\nhttps://mursor.ottiptv.cc/douyu/3715426\n#EXTINF:-1 tvg-name=\"腹黑电影\" tvg-id=\"腹黑电影\" tvg-logo=\"https://livecdn.zbds.org/logo/腹黑电影.png\" group-title=\"电影频道\", 腹黑电影\nhttps://mursor.ottiptv.cc/douyu/8867878\n#EXTINF:-1 tvg-name=\"莱纳电影\" tvg-id=\"莱纳电影\" tvg-logo=\"https://livecdn.zbds.org/logo/莱纳电影.png\" group-title=\"电影频道\", 莱纳电影\nhttps://mursor.ottiptv.cc/douyu/9356937\n#EXTINF:-1 tvg-name=\"西游记2\" tvg-id=\"西游记2\" tvg-logo=\"https://livecdn.zbds.org/logo/西游记2.png\" group-title=\"电影频道\", 西游记2\nhttp://iptv.jxpan.vip:18888/aio/huya/29465859\n#EXTINF:-1 tvg-name=\"让子弹飞\" tvg-id=\"让子弹飞\" tvg-logo=\"https://livecdn.zbds.org/logo/让子弹飞.png\" group-title=\"电影频道\", 让子弹飞\nhttps://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8\n#EXTINF:-1 tvg-name=\"谍战电影\" tvg-id=\"谍战电影\" tvg-logo=\"https://livecdn.zbds.org/logo/谍战电影.png\" group-title=\"电影频道\", 谍战电影\nhttp://iptv.jxpan.vip:18888/aio/huya/21059585\n#EXTINF:-1 tvg-name=\"豆瓣电影\" tvg-id=\"豆瓣电影\" tvg-logo=\"https://livecdn.zbds.org/logo/豆瓣电影.png\" group-title=\"电影频道\", 豆瓣电影\nhttps://live.tvfix.org/live/cmc/index.m3u8\n#EXTINF:-1 tvg-name=\"贝爷求生影视\" tvg-id=\"贝爷求生影视\" tvg-logo=\"https://livecdn.zbds.org/logo/贝爷求生影视.png\" group-title=\"电影频道\", 贝爷求生影视\nhttps://mursor.ottiptv.cc/douyu/9661369\n#EXTINF:-1 tvg-name=\"贰哥电影\" tvg-id=\"贰哥电影\" tvg-logo=\"https://livecdn.zbds.org/logo/贰哥电影.png\" group-title=\"电影频道\", 贰哥电影\nhttps://mursor.ottiptv.cc/douyu/9338867\n#EXTINF:-1 tvg-name=\"超精彩系列动作电影\" tvg-id=\"超精彩系列动作电影\" tvg-logo=\"https://livecdn.zbds.org/logo/超精彩系列动作电影.png\" group-title=\"电影频道\", 超精彩系列动作电影\nhttps://mursor.ottiptv.cc/yy/1382745096\n#EXTINF:-1 tvg-name=\"越越爱影视\" tvg-id=\"越越爱影视\" tvg-logo=\"https://livecdn.zbds.org/logo/越越爱影视.png\" group-title=\"电影频道\", 越越爱影视\nhttps://mursor.ottiptv.cc/yy/1382736886\n#EXTINF:-1 tvg-name=\"辽宁影视剧\" tvg-id=\"辽宁影视剧\" tvg-logo=\"https://livecdn.zbds.org/logo/辽宁影视剧.png\" group-title=\"电影频道\", 辽宁影视剧\nhttp://120.76.248.139/live/bfgd/4200000070.m3u8\n#EXTINF:-1 tvg-name=\"远去的飞鹰影视剧\" tvg-id=\"远去的飞鹰影视剧\" tvg-logo=\"https://livecdn.zbds.org/logo/远去的飞鹰影视剧.png\" group-title=\"电影频道\", 远去的飞鹰影视剧\nhttps://mursor.ottiptv.cc/yy/1354930912\n#EXTINF:-1 tvg-name=\"逐梦电影\" tvg-id=\"逐梦电影\" tvg-logo=\"https://livecdn.zbds.org/logo/逐梦电影.png\" group-title=\"电影频道\", 逐梦电影\nhttps://mursor.ottiptv.cc/douyu/4058285\n#EXTINF:-1 tvg-name=\"邵氏影院\" tvg-id=\"邵氏影院\" tvg-logo=\"https://livecdn.zbds.org/logo/邵氏影院.png\" group-title=\"电影频道\", 邵氏影院\nhttp://iptv.jxpan.vip:18888/aio/douyu/4246519\n#EXTINF:-1 tvg-name=\"野山鹰影视剧\" tvg-id=\"野山鹰影视剧\" tvg-logo=\"https://livecdn.zbds.org/logo/野山鹰影视剧.png\" group-title=\"电影频道\", 野山鹰影视剧\nhttps://mursor.ottiptv.cc/yy/1354932395\n#EXTINF:-1 tvg-name=\"野格影视\" tvg-id=\"野格影视\" tvg-logo=\"https://livecdn.zbds.org/logo/野格影视.png\" group-title=\"电影频道\", 野格影视\nhttps://mursor.ottiptv.cc/douyu/9931766\n#EXTINF:-1 tvg-name=\"野蛮亲家\" tvg-id=\"野蛮亲家\" tvg-logo=\"https://livecdn.zbds.org/logo/野蛮亲家.png\" group-title=\"电影频道\", 野蛮亲家\nhttp://iptv.jxpan.vip:18888/aio/huya/23863796\n#EXTINF:-1 tvg-name=\"金庸武侠\" tvg-id=\"金庸武侠\" tvg-logo=\"https://livecdn.zbds.org/logo/金庸武侠.png\" group-title=\"电影频道\", 金庸武侠\nhttp://iptv.jxpan.vip:18888/aio/huya/11342435\n#EXTINF:-1 tvg-name=\"鉴证实录\" tvg-id=\"鉴证实录\" tvg-logo=\"https://livecdn.zbds.org/logo/鉴证实录.png\" group-title=\"电影频道\", 鉴证实录\nhttp://iptv.jxpan.vip:18888/aio/huya/23903183\n#EXTINF:-1 tvg-name=\"铁血影视汇\" tvg-id=\"铁血影视汇\" tvg-logo=\"https://livecdn.zbds.org/logo/铁血影视汇.png\" group-title=\"电影频道\", 铁血影视汇\nhttps://mursor.ottiptv.cc/douyu/9649701\n#EXTINF:-1 tvg-name=\"阿神电影\" tvg-id=\"阿神电影\" tvg-logo=\"https://livecdn.zbds.org/logo/阿神电影.png\" group-title=\"电影频道\", 阿神电影\nhttps://mursor.ottiptv.cc/huya/29396896\n#EXTINF:-1 tvg-name=\"陕西西部电影\" tvg-id=\"陕西西部电影\" tvg-logo=\"https://livecdn.zbds.org/logo/陕西西部电影.png\" group-title=\"电影频道\", 陕西西部电影\nhttp://112.46.105.20:8009/hls/62/index.m3u8\n#EXTINF:-1 tvg-name=\"陪你看电影\" tvg-id=\"陪你看电影\" tvg-logo=\"https://livecdn.zbds.org/logo/陪你看电影.png\" group-title=\"电影频道\", 陪你看电影\nhttps://mursor.ottiptv.cc/yy/1382745084\n#EXTINF:-1 tvg-name=\"雨哥影视\" tvg-id=\"雨哥影视\" tvg-logo=\"https://livecdn.zbds.org/logo/雨哥影视.png\" group-title=\"电影频道\", 雨哥影视\nhttps://mursor.ottiptv.cc/huya/29517294\n#EXTINF:-1 tvg-name=\"韩国电影1\" tvg-id=\"韩国电影1\" tvg-logo=\"https://livecdn.zbds.org/logo/韩国电影1.png\" group-title=\"电影频道\", 韩国电影1\nhttps://stream.ads.ottera.tv/playlist.m3u8?network_id=595\n#EXTINF:-1 tvg-name=\"韩国电影2\" tvg-id=\"韩国电影2\" tvg-logo=\"https://livecdn.zbds.org/logo/韩国电影2.png\" group-title=\"电影频道\", 韩国电影2\nhttps://stream.ads.ottera.tv/playlist.m3u8?network_id=743\n#EXTINF:-1 tvg-name=\"黄渤电影\" tvg-id=\"黄渤电影\" tvg-logo=\"https://livecdn.zbds.org/logo/黄渤电影.png\" group-title=\"电影频道\", 黄渤电影\nhttp://iptv.jxpan.vip:18888/aio/huya/11352876\n#EXTINF:-1 tvg-name=\"龙哥盘电影\" tvg-id=\"龙哥盘电影\" tvg-logo=\"https://livecdn.zbds.org/logo/龙哥盘电影.png\" group-title=\"电影频道\", 龙哥盘电影\nhttps://mursor.ottiptv.cc/douyu/9736161\n#EXTINF:-1 tvg-name=\"龙门飞甲\" tvg-id=\"龙门飞甲\" tvg-logo=\"https://livecdn.zbds.org/logo/龙门飞甲.png\" group-title=\"电影频道\", 龙门飞甲\nhttp://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8\nupdateTime: 2025-09-04 07:44:43",
+      "type": "batches",
+      "isActive": true,
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "id": "e5467f74-bcd6-489c-ab14-e97e343bce8a",
+      "name": "测试",
+      "url": "https://live.hacks.tools/tv/ipv4/categories/电影频道.m3u",
+      "type": "remote",
+      "isActive": true,
+      "epg": "",
+      "logo": ""
     }
   ],
   "channel": [
@@ -350,6 +386,1194 @@
       "name": "无效配置-可删除",
       "url": "https://www.iptv.com/name.m3u8",
       "group": "无效配置"
+    },
+    {
+      "id": "87bdedbf-7a60-4332-b55e-c9ec204ff894",
+      "name": "CHC动作电影",
+      "url": "http://111.43.126.240:9003/hls/75/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "bbb9573e-a011-4227-927a-991cf09300bb",
+      "name": "CHC家庭影院",
+      "url": "http://113.195.172.192:808/hls/113/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "2f840d75-0d39-4e63-8409-69edd982f791",
+      "name": "黑莓电影",
+      "url": "https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "4584de6f-09b7-4093-8df5-8cab16af9bb9",
+      "name": "科幻电影",
+      "url": "https://mursor.ottiptv.cc/yy/1354930209",
+      "group": "电影频道"
+    },
+    {
+      "id": "5fcf3137-07db-4a80-bb71-8dcacbd1bef4",
+      "name": "凤凰电影",
+      "url": "http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "f9777668-a088-4ed1-942a-9c24c9e61f1b",
+      "name": "东森电影",
+      "url": "http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "b3067304-32e0-486a-9d96-358fafa96bfa",
+      "name": "龙华电影",
+      "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "3563eaad-a8fb-421b-8cb1-a68580490acc",
+      "name": "AMC电影",
+      "url": "http://61.221.215.25:8800/hls/43/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "a054d618-1813-4bcc-9ae5-5d18a2a18344",
+      "name": "1930年代经典电影",
+      "url": "https://mursor.ottiptv.cc/yy/1356363815",
+      "group": "电影频道"
+    },
+    {
+      "id": "2574b1aa-b90f-428d-8d42-ec3f1007fd45",
+      "name": "24h高分电影",
+      "url": "https://mursor.ottiptv.cc/yy/1355171357",
+      "group": "电影频道"
+    },
+    {
+      "id": "0abc87b5-8f65-4e85-9bad-34bcc3941a44",
+      "name": "24小时电影",
+      "url": "https://mursor.ottiptv.cc/yy/1356051105",
+      "group": "电影频道"
+    },
+    {
+      "id": "c6f98d09-fbe6-421d-9296-819a43506917",
+      "name": "28岁电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8884164",
+      "group": "电影频道"
+    },
+    {
+      "id": "bfc5fe5a-eb75-449e-9601-9b340084fad1",
+      "name": "CHC电影",
+      "url": "http://218.15.183.23:9901/tsfile/live/23044_1.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "017ae8c6-8291-4a0d-8844-9a78e6ea5377",
+      "name": "三七电影V",
+      "url": "https://mursor.ottiptv.cc/douyu/9457792",
+      "group": "电影频道"
+    },
+    {
+      "id": "f36a3dbb-1e84-4a76-95a0-c325bc46cbde",
+      "name": "东阳影视生活",
+      "url": "http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "3ba1e55d-4871-40ce-b945-326a3be00a6b",
+      "name": "二胖影视",
+      "url": "https://mursor.ottiptv.cc/douyu/10064260",
+      "group": "电影频道"
+    },
+    {
+      "id": "bf6e77b2-e4e0-46c7-99ce-86bf0f42bd26",
+      "name": "互换身份成龙主演电影双龙会",
+      "url": "https://mursor.ottiptv.cc/yy/1382735625",
+      "group": "电影频道"
+    },
+    {
+      "id": "5b6c4b0d-cf53-4206-a651-1573771709f4",
+      "name": "五分钟电影汇",
+      "url": "https://mursor.ottiptv.cc/douyu/8443438",
+      "group": "电影频道"
+    },
+    {
+      "id": "4dbeb1f6-7b28-4b97-aadb-bd4d125c1db4",
+      "name": "享看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8974130",
+      "group": "电影频道"
+    },
+    {
+      "id": "e8e82453-01eb-4a87-91b9-c0e7d7713e20",
+      "name": "人在囧途",
+      "url": "https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "c3029b5d-3625-4acb-8226-d03d48a8ee87",
+      "name": "人在囧途之泰囧",
+      "url": "https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "d2488696-4f2b-4336-986c-6bc69232b61c",
+      "name": "人在囧途之港囧",
+      "url": "https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "3b191ed4-dfeb-415c-91d9-0c376317091b",
+      "name": "传奇之王影视剧",
+      "url": "https://mursor.ottiptv.cc/yy/1354926735",
+      "group": "电影频道"
+    },
+    {
+      "id": "a5137538-73de-414f-b36a-717c0666f1ce",
+      "name": "佛曰影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9671758",
+      "group": "电影频道"
+    },
+    {
+      "id": "9f15cd43-2ca4-4acd-be68-b0964539906b",
+      "name": "使徒行者",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23734256",
+      "group": "电影频道"
+    },
+    {
+      "id": "b62f5a0f-4b1e-4dee-9e7d-2088c9f22b42",
+      "name": "倩女幽魂人间道",
+      "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "2cef5dd8-44bb-44f7-b593-c2cd9ea6c273",
+      "name": "倩女幽魂妖魔道",
+      "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "c588b33d-50c8-48ed-9a90-7685b2868541",
+      "name": "倩女幽魂道道道",
+      "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "5e6858fc-fc73-47a3-8e60-5c20a1ace210",
+      "name": "冰冰影剧",
+      "url": "http://iptv.jxpan.vip:18888/aio/douyu/74374",
+      "group": "电影频道"
+    },
+    {
+      "id": "b0e1feb3-f46b-4e49-b1af-c2559e34390d",
+      "name": "刑事侦缉档案",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465856",
+      "group": "电影频道"
+    },
+    {
+      "id": "98debe94-f152-447e-8a8a-c4e73296d0a3",
+      "name": "刘哔电影",
+      "url": "https://mursor.ottiptv.cc/douyu/2632223",
+      "group": "电影频道"
+    },
+    {
+      "id": "7cb3e149-5c53-4d32-9cea-14ef0c914451",
+      "name": "创世纪",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465852",
+      "group": "电影频道"
+    },
+    {
+      "id": "3c286d8a-bfc2-4da0-96d9-ad49e09a6d45",
+      "name": "前任电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9329242",
+      "group": "电影频道"
+    },
+    {
+      "id": "6b430747-c38f-4b28-9186-f3ee26460bba",
+      "name": "功夫电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11352941",
+      "group": "电影频道"
+    },
+    {
+      "id": "c23e60b7-af45-45a1-b238-efffb2aa2c04",
+      "name": "发条张的电影最TOP",
+      "url": "https://mursor.ottiptv.cc/douyu/2164691",
+      "group": "电影频道"
+    },
+    {
+      "id": "336498d7-16fb-4cae-a8f4-8997cbc1d62a",
+      "name": "古天乐电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29982675",
+      "group": "电影频道"
+    },
+    {
+      "id": "3b70c126-6023-4099-8be2-049ea7d5ae5e",
+      "name": "可乐电影o",
+      "url": "https://mursor.ottiptv.cc/huya/29598686",
+      "group": "电影频道"
+    },
+    {
+      "id": "0cb4f491-6b40-42e1-8d05-553bdfadb7f9",
+      "name": "史诗级科幻电影阿凡达",
+      "url": "https://mursor.ottiptv.cc/yy/1382735577",
+      "group": "电影频道"
+    },
+    {
+      "id": "eb768226-69a5-447f-98af-62ace5144726",
+      "name": "同同电影",
+      "url": "https://mursor.ottiptv.cc/douyu/10155359",
+      "group": "电影频道"
+    },
+    {
+      "id": "201c68df-d800-483c-acea-1531eff2f7b5",
+      "name": "周墨看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9505584",
+      "group": "电影频道"
+    },
+    {
+      "id": "6ebe542e-7a81-427b-bcda-660ef041ee40",
+      "name": "周星驰搞笑电影",
+      "url": "https://mursor.ottiptv.cc/yy/38670875",
+      "group": "电影频道"
+    },
+    {
+      "id": "22e576ee-1082-493c-9535-2164269c9ad2",
+      "name": "哈利影视",
+      "url": "https://mursor.ottiptv.cc/douyu/8475821",
+      "group": "电影频道"
+    },
+    {
+      "id": "422358ac-477d-4548-b1f5-9af9bb808ec5",
+      "name": "哈尔滨影视",
+      "url": "http://111.43.126.240:9003/hls/5/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "d43c897d-0d11-4879-9157-e00b72da8b43",
+      "name": "喜人电影",
+      "url": "https://mursor.ottiptv.cc/douyu/10348735",
+      "group": "电影频道"
+    },
+    {
+      "id": "03f49266-d121-4b1a-a4b3-56cf9bd1bdb3",
+      "name": "喜剧电影冒牌天神12",
+      "url": "https://mursor.ottiptv.cc/yy/1354936210",
+      "group": "电影频道"
+    },
+    {
+      "id": "0f198c67-6c89-4da6-b77f-3e41611ca3fa",
+      "name": "喜剧电影放映厅",
+      "url": "https://mursor.ottiptv.cc/huya/11602031",
+      "group": "电影频道"
+    },
+    {
+      "id": "485e335d-8b8f-4e11-8c1f-96130351afe3",
+      "name": "嘉兴文化影视",
+      "url": "http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d",
+      "group": "电影频道"
+    },
+    {
+      "id": "9fa47c09-9917-41c8-95ba-bd6b06bb79a2",
+      "name": "四叶草影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9446117",
+      "group": "电影频道"
+    },
+    {
+      "id": "d8e5891a-5854-4e88-b2be-e07fcbcc049a",
+      "name": "国产动作电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382736858",
+      "group": "电影频道"
+    },
+    {
+      "id": "2dac9a83-1738-4a8a-b8de-95bb0eef7a0e",
+      "name": "国产大片电影",
+      "url": "https://mursor.ottiptv.cc/yy/1354926655",
+      "group": "电影频道"
+    },
+    {
+      "id": "e53cdd0a-e422-4738-bf63-0e3024096d36",
+      "name": "国产电影就是闹着玩的",
+      "url": "https://mursor.ottiptv.cc/yy/1354931503",
+      "group": "电影频道"
+    },
+    {
+      "id": "bbe5c5c8-35fc-4359-9376-7b939fec7ef9",
+      "name": "国内玄幻电影林正英",
+      "url": "https://mursor.ottiptv.cc/yy/1354932444",
+      "group": "电影频道"
+    },
+    {
+      "id": "5f904377-e226-4c6c-b9cf-343f123a0ee9",
+      "name": "国内经典动作电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382851522",
+      "group": "电影频道"
+    },
+    {
+      "id": "0e084a76-c4ac-4fd3-8851-8c4ea84d6ae5",
+      "name": "墨逗电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9614847",
+      "group": "电影频道"
+    },
+    {
+      "id": "6ccb348d-51e5-46bf-b32e-b287de5b73ad",
+      "name": "夏洛特烦恼国内电影喜剧",
+      "url": "https://mursor.ottiptv.cc/yy/1354936201",
+      "group": "电影频道"
+    },
+    {
+      "id": "cf6425a0-f85e-443d-9276-d877a865e51f",
+      "name": "大墨电影",
+      "url": "https://mursor.ottiptv.cc/huya/29458834",
+      "group": "电影频道"
+    },
+    {
+      "id": "18be6644-d085-4be8-a1f6-43c26215f2c4",
+      "name": "大壮撞电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9437349",
+      "group": "电影频道"
+    },
+    {
+      "id": "f42330ee-17b6-4fb9-adf8-7f47af8e5d1c",
+      "name": "大时代",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23865161",
+      "group": "电影频道"
+    },
+    {
+      "id": "6cb21659-170b-4b4e-b0fc-bebe6238477e",
+      "name": "大江大河2高分影视推荐",
+      "url": "https://mursor.ottiptv.cc/yy/1382736797",
+      "group": "电影频道"
+    },
+    {
+      "id": "bec340cd-78dc-46cb-873c-c87c7b487a7d",
+      "name": "大江大河高分影视推荐",
+      "url": "https://mursor.ottiptv.cc/yy/1382736806",
+      "group": "电影频道"
+    },
+    {
+      "id": "e98c6f9b-6aec-4263-976a-6d70e62f0ecc",
+      "name": "大神影视",
+      "url": "https://mursor.ottiptv.cc/huya/30297011",
+      "group": "电影频道"
+    },
+    {
+      "id": "622a9d79-4e83-4c77-b844-4d4340375f5e",
+      "name": "大米饭影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9824094",
+      "group": "电影频道"
+    },
+    {
+      "id": "85860519-9a6e-4e70-b034-5fb1a9e09306",
+      "name": "大趴电影院",
+      "url": "https://mursor.ottiptv.cc/douyu/8747638",
+      "group": "电影频道"
+    },
+    {
+      "id": "ec000945-cfd5-412b-9414-8373896511c1",
+      "name": "大进军全集红色系列电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382745083",
+      "group": "电影频道"
+    },
+    {
+      "id": "810b7fb8-f061-4a13-916a-7f0957743129",
+      "name": "天映经典",
+      "url": "https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy",
+      "group": "电影频道"
+    },
+    {
+      "id": "7c367420-a1f3-4833-b657-9cd1d81c1c4d",
+      "name": "太空生命高分科幻电影开播",
+      "url": "https://mursor.ottiptv.cc/yy/1382851586",
+      "group": "电影频道"
+    },
+    {
+      "id": "3688cc6e-40d8-495e-9a18-2a9bd3d64a4e",
+      "name": "奇怪电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9440966",
+      "group": "电影频道"
+    },
+    {
+      "id": "af7eab2c-d316-4b54-a22f-8463fa9cc630",
+      "name": "妙手仁心",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465853",
+      "group": "电影频道"
+    },
+    {
+      "id": "62d7d48c-265d-4371-bf24-1e9eabe1cee5",
+      "name": "寒战",
+      "url": "https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "852d7cae-51e0-4d6e-a24b-4b12a3d2cb4a",
+      "name": "封神榜",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465849",
+      "group": "电影频道"
+    },
+    {
+      "id": "994e8aec-7444-44ec-a07c-c5bc94b38a00",
+      "name": "小儛电影嘚啵嘚",
+      "url": "https://mursor.ottiptv.cc/douyu/8362978",
+      "group": "电影频道"
+    },
+    {
+      "id": "08751d33-adca-4ddd-b2f4-74796bbb7630",
+      "name": "小儿难养影视剧",
+      "url": "https://mursor.ottiptv.cc/yy/1382735559",
+      "group": "电影频道"
+    },
+    {
+      "id": "35ab4c02-bfbe-499b-8f17-26a0e299ca3d",
+      "name": "少年看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8762120",
+      "group": "电影频道"
+    },
+    {
+      "id": "824111ab-74ed-4151-b82d-f05a4ee3583a",
+      "name": "岳云鹏宋小宝也来演电影了",
+      "url": "https://mursor.ottiptv.cc/yy/1354926612",
+      "group": "电影频道"
+    },
+    {
+      "id": "f833727f-c6cd-46b0-b8d9-1c2ee157c93c",
+      "name": "年轻电影",
+      "url": "https://mursor.ottiptv.cc/douyu/12649849",
+      "group": "电影频道"
+    },
+    {
+      "id": "346f6e19-1071-4ddc-85bf-a6ccd677e05a",
+      "name": "广州影视",
+      "url": "http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4",
+      "group": "电影频道"
+    },
+    {
+      "id": "dd2bee88-00ac-434f-8bbf-f76a5b94965e",
+      "name": "张小宾电影",
+      "url": "https://mursor.ottiptv.cc/huya/29862176",
+      "group": "电影频道"
+    },
+    {
+      "id": "70d6a065-4651-494e-a3ad-75ce46eec19c",
+      "name": "影视小艺",
+      "url": "https://mursor.ottiptv.cc/yy/1382737886",
+      "group": "电影频道"
+    },
+    {
+      "id": "330d3ffe-73c0-4769-923c-8ab70d6bca97",
+      "name": "影视梗大叔",
+      "url": "https://mursor.ottiptv.cc/douyu/9480648",
+      "group": "电影频道"
+    },
+    {
+      "id": "28417c78-dbd2-4588-8204-c2b47c59f18b",
+      "name": "影视笑工场",
+      "url": "https://mursor.ottiptv.cc/douyu/10298846",
+      "group": "电影频道"
+    },
+    {
+      "id": "e04262ae-6432-472e-b63d-52e992394519",
+      "name": "影视集装箱",
+      "url": "https://mursor.ottiptv.cc/douyu/8651489",
+      "group": "电影频道"
+    },
+    {
+      "id": "59cf6b49-ee8f-4b15-be33-0d041d370c19",
+      "name": "微笑影视",
+      "url": "https://mursor.ottiptv.cc/huya/25256065",
+      "group": "电影频道"
+    },
+    {
+      "id": "7f4cabef-e4f0-475e-bbb2-3b699c361265",
+      "name": "怪兽马提尼电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9075333",
+      "group": "电影频道"
+    },
+    {
+      "id": "7d7af9fe-3569-4a02-8a0b-1b49deed3d85",
+      "name": "恐怖电影",
+      "url": "https://mursor.ottiptv.cc/yy/24066336",
+      "group": "电影频道"
+    },
+    {
+      "id": "32995a3c-140b-40bf-a21a-ea0d4a338191",
+      "name": "悠悠爱电影",
+      "url": "https://mursor.ottiptv.cc/huya/30611864",
+      "group": "电影频道"
+    },
+    {
+      "id": "479e0072-e487-418a-ade8-7dedcaa2e3b2",
+      "name": "成龙电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342386",
+      "group": "电影频道"
+    },
+    {
+      "id": "d705b824-8a3b-4a55-9db0-364905b1f565",
+      "name": "我不是药神",
+      "url": "https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "c5df51b8-c3a3-4967-90d3-6417d1501013",
+      "name": "我是吃泡面看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8851063",
+      "group": "电影频道"
+    },
+    {
+      "id": "2a6e79d7-38cd-4809-81ed-9f0f5796d672",
+      "name": "战争电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/21059574",
+      "group": "电影频道"
+    },
+    {
+      "id": "ef8821b4-537e-4ac3-b8cc-212c8aa8ea62",
+      "name": "战争电影放映厅",
+      "url": "https://mursor.ottiptv.cc/huya/21059618",
+      "group": "电影频道"
+    },
+    {
+      "id": "4eff4b76-cc85-4952-997a-d74fa894be4f",
+      "name": "扫黄先锋",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465855",
+      "group": "电影频道"
+    },
+    {
+      "id": "beddf2b6-26d4-4881-a4bc-33b5331aa70e",
+      "name": "拆弹专家1",
+      "url": "https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "40c7ee01-06e5-4d8e-a7c6-be0ae4ade3d0",
+      "name": "拆弹专家2",
+      "url": "https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "3042b7cf-6c51-4f26-9a3a-4e87c8e65543",
+      "name": "指缝里看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9647834",
+      "group": "电影频道"
+    },
+    {
+      "id": "e2a36645-7297-4414-a8da-10bae5bf9844",
+      "name": "搞笑经典电影",
+      "url": "https://mursor.ottiptv.cc/yy/1351537467",
+      "group": "电影频道"
+    },
+    {
+      "id": "f29041c4-6c8d-4e9f-a816-fd3ac3433d75",
+      "name": "救赎电影",
+      "url": "https://mursor.ottiptv.cc/huya/29833341",
+      "group": "电影频道"
+    },
+    {
+      "id": "83e735e2-7b80-41ef-b758-aba632ba044c",
+      "name": "斗鱼港剧",
+      "url": "http://iptv.jxpan.vip:18888/aio/douyu/5061550",
+      "group": "电影频道"
+    },
+    {
+      "id": "3c034721-63c9-4c7a-9662-ab91428b12a0",
+      "name": "新海电影",
+      "url": "https://mursor.ottiptv.cc/huya/29396806",
+      "group": "电影频道"
+    },
+    {
+      "id": "d79ab536-2e6f-4cd3-8aca-17fa1b3d15c7",
+      "name": "无心法师",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/30080233",
+      "group": "电影频道"
+    },
+    {
+      "id": "ff176567-0daf-4719-b0fc-774f56e564db",
+      "name": "无际电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9720498",
+      "group": "电影频道"
+    },
+    {
+      "id": "7abf0d66-16cd-4bb7-80a6-b4c139331cf4",
+      "name": "无限复活张柏芝主演爱情电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382745190",
+      "group": "电影频道"
+    },
+    {
+      "id": "05641167-d5a3-44a7-84d2-6b2e063f7785",
+      "name": "有部电影儿",
+      "url": "https://mursor.ottiptv.cc/douyu/9736479",
+      "group": "电影频道"
+    },
+    {
+      "id": "2b1457cf-6589-48ac-be6d-626859d62f36",
+      "name": "末日系列外国电影合集",
+      "url": "https://mursor.ottiptv.cc/yy/1354889019",
+      "group": "电影频道"
+    },
+    {
+      "id": "d64c6559-0d6f-4f00-acc8-f20acd067713",
+      "name": "李连杰电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342390",
+      "group": "电影频道"
+    },
+    {
+      "id": "c936afcf-c3fc-40ec-a72d-75f0fb3a0ef7",
+      "name": "林正英电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342421",
+      "group": "电影频道"
+    },
+    {
+      "id": "ef43c9b4-a6d7-4954-b1f0-307333e212d4",
+      "name": "林正英经典电影",
+      "url": "https://mursor.ottiptv.cc/yy/34229877",
+      "group": "电影频道"
+    },
+    {
+      "id": "518cc9c3-ce0e-45da-ad07-fafc682b2227",
+      "name": "枪战电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/21059579",
+      "group": "电影频道"
+    },
+    {
+      "id": "11c55879-6289-417d-9e11-2a27dadaaf95",
+      "name": "楚汉骄雄",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465854",
+      "group": "电影频道"
+    },
+    {
+      "id": "66b7d50a-20de-4ea9-9004-8707428f0540",
+      "name": "止戈电影",
+      "url": "https://mursor.ottiptv.cc/huya/19863777",
+      "group": "电影频道"
+    },
+    {
+      "id": "2e27eff4-e684-458d-bdff-fb6169dc3a99",
+      "name": "武侠电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342427",
+      "group": "电影频道"
+    },
+    {
+      "id": "15336850-ab6f-416a-8c74-d6b1549bfdae",
+      "name": "每日好电影V",
+      "url": "https://mursor.ottiptv.cc/douyu/9533302",
+      "group": "电影频道"
+    },
+    {
+      "id": "710eb5d7-5919-4850-8e19-ccb8dfc88b52",
+      "name": "江苏影视",
+      "url": "https://mursor.ottiptv.cc/migu/626064697.m3u8?migutoken=b73f8d78cfb5fb25d1b0e54e8b651db35d48ff071c6fe1f7826fcc4e6212a20ba7c8991185d03743da42bafdff874a4a03b5df60e7c2aa293ad3b34997faa082e300149433e3b1c2694909770b",
+      "group": "电影频道"
+    },
+    {
+      "id": "311aabcf-36c8-4908-8b42-a05b899e3aec",
+      "name": "沈腾电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11601968",
+      "group": "电影频道"
+    },
+    {
+      "id": "c66cecaf-a6ca-4fbf-81d9-d4c0e23fb2a7",
+      "name": "治愈电影阳光小美女一家人的寻梦之旅",
+      "url": "https://mursor.ottiptv.cc/yy/1382736920",
+      "group": "电影频道"
+    },
+    {
+      "id": "3df99b54-9879-4a1d-9988-a2240304a992",
+      "name": "法政先锋",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23863804",
+      "group": "电影频道"
+    },
+    {
+      "id": "dfe54094-d0b6-446a-ae12-f410b7c0d94d",
+      "name": "洛克电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9414884",
+      "group": "电影频道"
+    },
+    {
+      "id": "701a3d6a-9cde-4b4c-a306-06f8706049fe",
+      "name": "浙江教科影视",
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "9f61b9d0-c937-402d-aabc-e5ebc6e6bd6c",
+      "name": "淘剧场",
+      "url": "http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "10b4b8a1-1667-4241-9c3b-16d2e25ef7ca",
+      "name": "淘娱乐",
+      "url": "http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "1ee1c193-a28d-46d4-8e12-2bca7a65717a",
+      "name": "淘电影",
+      "url": "http://dsj.motem.top:8880/bptv/10000100000000050000000003887498.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "2a3d4d7b-aa29-41f0-9175-55a8b862e407",
+      "name": "港剧影视汇",
+      "url": "https://mursor.ottiptv.cc/huya/23903142",
+      "group": "电影频道"
+    },
+    {
+      "id": "256bc833-1a7b-43bd-bdc6-d54f90fff9f9",
+      "name": "热血动作电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382736804",
+      "group": "电影频道"
+    },
+    {
+      "id": "2800caff-3125-48fa-a26a-608b9fcdd60c",
+      "name": "热血抗日电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382749907",
+      "group": "电影频道"
+    },
+    {
+      "id": "dd823dc1-650f-48c1-9151-c6b571ac3e7d",
+      "name": "熊猫电影",
+      "url": "https://mursor.ottiptv.cc/douyu/3506483",
+      "group": "电影频道"
+    },
+    {
+      "id": "1ff28c61-4e18-4b48-87c7-c471abb837eb",
+      "name": "爆笑电影王牌大贱谍23",
+      "url": "https://mursor.ottiptv.cc/yy/1354936169",
+      "group": "电影频道"
+    },
+    {
+      "id": "b709a81b-9931-4cb0-bbfa-1736a9a3a350",
+      "name": "爱星影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9476806",
+      "group": "电影频道"
+    },
+    {
+      "id": "8ef82ca8-b823-47d4-91b8-dc3e7b3200f8",
+      "name": "特辑电影院",
+      "url": "https://mursor.ottiptv.cc/douyu/3637778",
+      "group": "电影频道"
+    },
+    {
+      "id": "ba5d4f57-eee2-4cbd-9437-2f514a8f94d0",
+      "name": "狗毛电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9356637",
+      "group": "电影频道"
+    },
+    {
+      "id": "364854e4-d067-4f38-a47d-829804116006",
+      "name": "独立鱼电影",
+      "url": "https://mursor.ottiptv.cc/douyu/2413555",
+      "group": "电影频道"
+    },
+    {
+      "id": "19594c0b-e44d-4ace-bc97-36288b4d7a86",
+      "name": "猫眼电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8726221",
+      "group": "电影频道"
+    },
+    {
+      "id": "f855c6e7-4068-4982-85c1-578c0e66e837",
+      "name": "玄幻电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342414",
+      "group": "电影频道"
+    },
+    {
+      "id": "34e10f3e-79b6-47f7-ba46-91fa6f42e40c",
+      "name": "王晶电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11602058",
+      "group": "电影频道"
+    },
+    {
+      "id": "41d70b6b-4caf-4042-8659-2eec3c9f79b1",
+      "name": "玖月影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9339251",
+      "group": "电影频道"
+    },
+    {
+      "id": "d32d5ecc-98dc-4b1d-92e6-e2ffce42b0bb",
+      "name": "珍珠港电影",
+      "url": "https://mursor.ottiptv.cc/yy/1354936234",
+      "group": "电影频道"
+    },
+    {
+      "id": "13cca59a-aa9a-40ee-b767-8cc15d500bdd",
+      "name": "甄子丹电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11352935",
+      "group": "电影频道"
+    },
+    {
+      "id": "2a6a3972-09dd-4cf2-a7fe-b40dea5ac74c",
+      "name": "电影",
+      "url": "https://mursor.ottiptv.cc/yy/37454459",
+      "group": "电影频道"
+    },
+    {
+      "id": "ca9bb51e-75ed-4453-b3bc-0cf39bd28423",
+      "name": "电影先锋V",
+      "url": "https://mursor.ottiptv.cc/douyu/8711212",
+      "group": "电影频道"
+    },
+    {
+      "id": "98d53e31-dc26-41dc-af94-770bbc6440ef",
+      "name": "电影八点档",
+      "url": "http://live.metshop.top/huya/880261?cdn=alicdn",
+      "group": "电影频道"
+    },
+    {
+      "id": "76045e18-8a26-45d2-af3d-39b3cb883fce",
+      "name": "电影兴风作浪系列播放",
+      "url": "https://mursor.ottiptv.cc/yy/1382736857",
+      "group": "电影频道"
+    },
+    {
+      "id": "ae8ea8b0-eae4-43b6-a66c-1d3e7abf9f09",
+      "name": "电影冷知识",
+      "url": "https://mursor.ottiptv.cc/douyu/9660835",
+      "group": "电影频道"
+    },
+    {
+      "id": "378fd9a5-405a-44bf-b441-5a5c9a93cf95",
+      "name": "电影刘德华",
+      "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
+      "group": "电影频道"
+    },
+    {
+      "id": "65fd2f48-4eef-4e68-b90c-6e7e0896b284",
+      "name": "电影刘油果",
+      "url": "https://mursor.ottiptv.cc/douyu/3985805",
+      "group": "电影频道"
+    },
+    {
+      "id": "e922663e-41ed-48fd-95fc-b0f3c7bb39cf",
+      "name": "电影吐槽汇",
+      "url": "https://mursor.ottiptv.cc/douyu/9447668",
+      "group": "电影频道"
+    },
+    {
+      "id": "a50178e4-59bc-4904-a68f-46d356ec1718",
+      "name": "电影小班长",
+      "url": "https://mursor.ottiptv.cc/douyu/549693",
+      "group": "电影频道"
+    },
+    {
+      "id": "bf9d9493-d816-4dae-965d-b0e788a40872",
+      "name": "电影最TOP",
+      "url": "https://mursor.ottiptv.cc/huya/11774959",
+      "group": "电影频道"
+    },
+    {
+      "id": "8e0c8390-2b1e-47d9-b992-8ac27208db88",
+      "name": "电影最TOP2",
+      "url": "https://mursor.ottiptv.cc/huya/29982676",
+      "group": "电影频道"
+    },
+    {
+      "id": "f66dc8fd-ea32-41db-8b79-4a267e7873dc",
+      "name": "电影百团大战",
+      "url": "https://mursor.ottiptv.cc/yy/1382736871",
+      "group": "电影频道"
+    },
+    {
+      "id": "2640c19a-7c37-4e9f-9aa1-78df45e7d0c2",
+      "name": "电影笔记",
+      "url": "https://mursor.ottiptv.cc/douyu/9636034",
+      "group": "电影频道"
+    },
+    {
+      "id": "4179a168-73e4-4889-8ee2-0a789ee29faf",
+      "name": "电影蜘蛛侠",
+      "url": "http://live.metshop.top/huya/21059599?cdn=alicdn",
+      "group": "电影频道"
+    },
+    {
+      "id": "8aa7dbf6-7c5c-4936-a49e-8b4afddf183a",
+      "name": "电影迷小雅",
+      "url": "https://mursor.ottiptv.cc/douyu/9639225",
+      "group": "电影频道"
+    },
+    {
+      "id": "df6d714d-cce6-4834-9fe2-40ddbc036e6b",
+      "name": "电影黑豹",
+      "url": "https://mursor.ottiptv.cc/yy/1382736816",
+      "group": "电影频道"
+    },
+    {
+      "id": "f57f0831-e7f7-4a8d-a410-9d3030950457",
+      "name": "看电影了没V",
+      "url": "https://mursor.ottiptv.cc/douyu/9562616",
+      "group": "电影频道"
+    },
+    {
+      "id": "0a58a7b8-ad5f-416b-bf03-44cb5ca4f787",
+      "name": "神雕侠侣",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23865171",
+      "group": "电影频道"
+    },
+    {
+      "id": "50f316ba-7444-4d94-b878-1bf6b5b5cc70",
+      "name": "科幻电影环太平洋",
+      "url": "https://mursor.ottiptv.cc/yy/1354936170",
+      "group": "电影频道"
+    },
+    {
+      "id": "c7975f1b-a31b-491a-8d41-6f86c2b824ed",
+      "name": "笑看风云",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465858",
+      "group": "电影频道"
+    },
+    {
+      "id": "7e7f8b68-164a-4d7e-a7a7-6ae8f07b21b5",
+      "name": "粟裕大将影视",
+      "url": "https://mursor.ottiptv.cc/yy/1354926542",
+      "group": "电影频道"
+    },
+    {
+      "id": "334e69cd-ec43-497e-ac9c-75d7b0e1b8d6",
+      "name": "粤语电影丶",
+      "url": "https://mursor.ottiptv.cc/douyu/1226741",
+      "group": "电影频道"
+    },
+    {
+      "id": "341a63a2-2718-4ea5-88cf-dc3eb87f8d93",
+      "name": "精彩动作电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382736823",
+      "group": "电影频道"
+    },
+    {
+      "id": "a3052204-1993-4b86-a323-3be5fa1f546b",
+      "name": "精彩动作电影享不停",
+      "url": "https://mursor.ottiptv.cc/yy/1382736809",
+      "group": "电影频道"
+    },
+    {
+      "id": "7e42e058-f821-4999-b571-0839184dad30",
+      "name": "经典武侠电影如来神掌",
+      "url": "https://mursor.ottiptv.cc/yy/1382749944",
+      "group": "电影频道"
+    },
+    {
+      "id": "9441d472-3973-434e-8e1a-d6d2c3fdd7e0",
+      "name": "经典港片电影",
+      "url": "https://mursor.ottiptv.cc/yy/1461889059",
+      "group": "电影频道"
+    },
+    {
+      "id": "5cb54926-00ee-4ed5-880f-f81b858dd0ed",
+      "name": "经典电影",
+      "url": "https://mursor.ottiptv.cc/bilibili/1777481601",
+      "group": "电影频道"
+    },
+    {
+      "id": "277f8e36-b3ac-4ecd-b370-769ea9169895",
+      "name": "经典电影港片枪战",
+      "url": "https://mursor.ottiptv.cc/yy/1355076627",
+      "group": "电影频道"
+    },
+    {
+      "id": "e2500ef6-134c-45e3-8f57-a796703d2588",
+      "name": "经典电影重温",
+      "url": "https://mursor.ottiptv.cc/yy/1382793140",
+      "group": "电影频道"
+    },
+    {
+      "id": "91b88bd0-2848-4727-95f8-4ee5b5b0b2d2",
+      "name": "经典科幻电影2001漫游太空",
+      "url": "https://mursor.ottiptv.cc/yy/1354926671",
+      "group": "电影频道"
+    },
+    {
+      "id": "f7c2268f-fc73-4469-a05e-fbe513aa2330",
+      "name": "维立方电影",
+      "url": "https://mursor.ottiptv.cc/douyu/8706393",
+      "group": "电影频道"
+    },
+    {
+      "id": "eb421fa7-6e6d-4da1-92d7-045cbceb8362",
+      "name": "缉魂科幻悬疑电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382745090",
+      "group": "电影频道"
+    },
+    {
+      "id": "c7cb60bd-a92d-4bf2-8695-992ee9bf2818",
+      "name": "罪犯电影",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11352962",
+      "group": "电影频道"
+    },
+    {
+      "id": "aeec56cf-6c64-406d-97df-1c6aa2f4ad2c",
+      "name": "美亚电影",
+      "url": "https://live.tvfix.org/live/mydy/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "76351ad7-33bb-462c-92b0-dbdda6a69ed8",
+      "name": "老巴电影",
+      "url": "https://mursor.ottiptv.cc/huya/29340502",
+      "group": "电影频道"
+    },
+    {
+      "id": "63b942ae-41b2-4fe3-8f4f-88ed2499e542",
+      "name": "老王的夜电影院",
+      "url": "https://mursor.ottiptv.cc/douyu/3498219",
+      "group": "电影频道"
+    },
+    {
+      "id": "4d448a8a-2e1e-4bf7-a446-c35402ec557a",
+      "name": "胶片看电影",
+      "url": "https://mursor.ottiptv.cc/douyu/3715426",
+      "group": "电影频道"
+    },
+    {
+      "id": "854b66f3-fa84-4c77-aa27-c99892c7508d",
+      "name": "莱纳电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9356937",
+      "group": "电影频道"
+    },
+    {
+      "id": "58ef38ad-c1dc-4579-a7bc-b1d20505cb44",
+      "name": "虎牙电影直播一起看",
+      "url": "https://mursor.ottiptv.cc/huya/29076690",
+      "group": "电影频道"
+    },
+    {
+      "id": "49b9f70e-bf17-4e81-a387-32a9078452ce",
+      "name": "虎牙电影陪看",
+      "url": "https://mursor.ottiptv.cc/huya/23177366",
+      "group": "电影频道"
+    },
+    {
+      "id": "580d8d38-ce60-4461-8824-56a839d5185b",
+      "name": "西游记2",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465859",
+      "group": "电影频道"
+    },
+    {
+      "id": "9022a5e6-f8a7-489d-a77b-180bc9c400b5",
+      "name": "让子弹飞",
+      "url": "https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "3c402a14-f640-4297-82a2-c428eea5715d",
+      "name": "豆瓣电影",
+      "url": "https://live.tvfix.org/live/cmc/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "549ad028-9a5a-4dc8-a56a-c57b4f192356",
+      "name": "贝爷求生影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9661369",
+      "group": "电影频道"
+    },
+    {
+      "id": "a2010a94-0601-4552-807a-3044cf38748a",
+      "name": "贰哥电影",
+      "url": "https://mursor.ottiptv.cc/douyu/9338867",
+      "group": "电影频道"
+    },
+    {
+      "id": "594e0619-c729-4269-a66b-ee53f9fe4614",
+      "name": "超精彩系列动作电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382745096",
+      "group": "电影频道"
+    },
+    {
+      "id": "5220f5a5-a49e-4c55-8e02-f6fe3d5de07a",
+      "name": "越越爱影视",
+      "url": "https://mursor.ottiptv.cc/yy/1382736886",
+      "group": "电影频道"
+    },
+    {
+      "id": "17d3a308-6c9e-4f63-b5b0-f92e232171b2",
+      "name": "辽宁影视剧",
+      "url": "http://120.76.248.139/live/bfgd/4200000070.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "cd635a8a-617d-456c-b78e-7edc3b16fbf6",
+      "name": "远去的飞鹰影视剧",
+      "url": "https://mursor.ottiptv.cc/yy/1354930912",
+      "group": "电影频道"
+    },
+    {
+      "id": "a6378bc4-4a25-4fdf-b331-a067114ac6de",
+      "name": "逐梦电影",
+      "url": "https://mursor.ottiptv.cc/douyu/4058285",
+      "group": "电影频道"
+    },
+    {
+      "id": "b076228e-c823-48f4-a587-2397974e2c30",
+      "name": "邵氏影院",
+      "url": "http://iptv.jxpan.vip:18888/aio/douyu/4246519",
+      "group": "电影频道"
+    },
+    {
+      "id": "75d38151-cd90-4da4-aa4e-5f34e686209e",
+      "name": "野山鹰影视剧",
+      "url": "https://mursor.ottiptv.cc/yy/1354932395",
+      "group": "电影频道"
+    },
+    {
+      "id": "2ec80b07-e1ea-4dbb-97f1-ab163df134ec",
+      "name": "野格影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9931766",
+      "group": "电影频道"
+    },
+    {
+      "id": "46e34119-ea10-4d2a-aee9-66b08442a0ca",
+      "name": "野蛮亲家",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23863796",
+      "group": "电影频道"
+    },
+    {
+      "id": "15bd2f29-c531-4346-9bc3-cc4140384408",
+      "name": "金庸武侠",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342435",
+      "group": "电影频道"
+    },
+    {
+      "id": "0fb8cb02-7f58-4f73-b434-2a8e2ff232b4",
+      "name": "鑫鑫影视",
+      "url": "https://mursor.ottiptv.cc/huya/30439676",
+      "group": "电影频道"
+    },
+    {
+      "id": "cf60aa8c-e0d4-4b7c-9f40-a9766087c822",
+      "name": "铁血影视汇",
+      "url": "https://mursor.ottiptv.cc/douyu/9649701",
+      "group": "电影频道"
+    },
+    {
+      "id": "bb2e5fc4-0d1e-4236-acc2-0dd8e15568b8",
+      "name": "陕西西部电影",
+      "url": "http://112.46.105.20:8009/hls/62/index.m3u8",
+      "group": "电影频道"
+    },
+    {
+      "id": "34159a7d-b1a7-4db8-b767-ad08a663f9bb",
+      "name": "陪你看电影",
+      "url": "https://mursor.ottiptv.cc/yy/1382745084",
+      "group": "电影频道"
+    },
+    {
+      "id": "824171a7-d2fd-4883-b923-515e951ca3ad",
+      "name": "韩国电影1",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595",
+      "group": "电影频道"
+    },
+    {
+      "id": "8d9e5fa1-2d9a-45c1-89e6-5a6494dad194",
+      "name": "韩国电影2",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743",
+      "group": "电影频道"
+    },
+    {
+      "id": "b7933ad7-47f2-48f2-80f6-ad815d17a984",
+      "name": "香兰爱影视",
+      "url": "https://mursor.ottiptv.cc/douyu/9487090",
+      "group": "电影频道"
+    },
+    {
+      "id": "dc82cde6-6b2e-4c7c-a7dc-fa90ca8be058",
+      "name": "龙门飞甲",
+      "url": "http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8",
+      "group": "电影频道"
     }
   ],
   "sites": [
@@ -1244,6 +2468,552 @@
       "api": "https://www.77hanju.com/api.php/provide/vod/",
       "playUrl": "",
       "search": 0,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "aa905d6a-24af-447e-b1b7-0ea4758b0bf5",
+      "key": "aa905d6a-24af-447e-b1b7-0ea4758b0bf5",
+      "name": "快车资源",
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "8faed402-a23e-4456-88c8-2580c4b864d3",
+      "key": "8faed402-a23e-4456-88c8-2580c4b864d3",
+      "name": "速播资源",
+      "api": "https://subocj.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "3afb864b-374f-443e-9427-32dc4c0386b7",
+      "key": "3afb864b-374f-443e-9427-32dc4c0386b7",
+      "name": "魔爪资源",
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "2923a60c-1a7f-4bcf-8158-5758d326cb3a",
+      "key": "2923a60c-1a7f-4bcf-8158-5758d326cb3a",
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "dc177317-9220-4601-a34d-599a4dd1cd02",
+      "key": "dc177317-9220-4601-a34d-599a4dd1cd02",
+      "name": "旺旺资源",
+      "api": "https://api.wwzy.tv/api.php/provide/vod/at/xml/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "8d71f0d0-f6a3-42ec-8870-eb32a0bf5a4c",
+      "key": "8d71f0d0-f6a3-42ec-8870-eb32a0bf5a4c",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "6672144e-9b0b-4ecd-926b-21eb195538ef",
+      "key": "6672144e-9b0b-4ecd-926b-21eb195538ef",
+      "name": "百度资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "b55f57be-599c-47e9-8467-34bb87a9eae1",
+      "key": "b55f57be-599c-47e9-8467-34bb87a9eae1",
+      "name": "暴风资源",
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "1a594f78-5872-42db-8929-80036dce1c58",
+      "key": "1a594f78-5872-42db-8929-80036dce1c58",
+      "name": "光速资源",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "2d46d703-91b9-490a-98e2-9d99af0081da",
+      "key": "2d46d703-91b9-490a-98e2-9d99af0081da",
+      "name": "牛牛资源",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "d5f7d5ff-3439-40b9-b819-451940c05431",
+      "key": "d5f7d5ff-3439-40b9-b819-451940c05431",
+      "name": "细胞资源",
+      "api": "https://www.xxibaozyw.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "ca031b08-563b-4783-a905-62ee0bd96dc9",
+      "key": "ca031b08-563b-4783-a905-62ee0bd96dc9",
+      "name": "黄色仓库",
+      "api": "https://hsckzy888.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "a807a0ab-ae75-4185-95dc-ead32916df36",
+      "key": "a807a0ab-ae75-4185-95dc-ead32916df36",
+      "name": "电影天堂",
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "d0d5711a-5f08-4713-8e6d-8bec75095f75",
+      "key": "d0d5711a-5f08-4713-8e6d-8bec75095f75",
+      "name": "大奶子资源",
+      "api": "https://apidanaizi.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "99cb15e4-7395-40e4-930e-94cb4224ce48",
+      "key": "99cb15e4-7395-40e4-930e-94cb4224ce48",
+      "name": "桃花视频",
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "87e10d05-74c7-41b1-8590-5fd91a22c2d0",
+      "key": "87e10d05-74c7-41b1-8590-5fd91a22c2d0",
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "1b8f7efb-e56c-4986-b025-05305f0610c6",
+      "key": "1b8f7efb-e56c-4986-b025-05305f0610c6",
+      "name": "淘片资源",
+      "api": "https://taopianapi.com/cjapi/sda/vod/json.html",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "618bc51d-c48b-4a40-87c7-0104d25b6820",
+      "key": "618bc51d-c48b-4a40-87c7-0104d25b6820",
+      "name": "搜av资源",
+      "api": "https://api.souavzy.vip/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "c8e1f81f-c171-43eb-a887-b8074b286288",
+      "key": "c8e1f81f-c171-43eb-a887-b8074b286288",
+      "name": "滴滴资源",
+      "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "dc081c06-7549-4f96-abf7-522c25e2a928",
+      "key": "dc081c06-7549-4f96-abf7-522c25e2a928",
+      "name": "色猫资源",
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "9b373ccf-ec9e-4603-ac29-f74550ff0047",
+      "key": "9b373ccf-ec9e-4603-ac29-f74550ff0047",
+      "name": "奶香香资源",
+      "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "c1638637-7068-4920-96a3-dbf08e53d0d8",
+      "key": "c1638637-7068-4920-96a3-dbf08e53d0d8",
+      "name": "杏吧资源",
+      "api": "https://xingba222.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "5ebee958-44cc-4187-b60d-2c120e52d284",
+      "key": "5ebee958-44cc-4187-b60d-2c120e52d284",
+      "name": "金鹰云资源",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "7d1c0d2f-6886-44bf-9b20-91d4d049c4e4",
+      "key": "7d1c0d2f-6886-44bf-9b20-91d4d049c4e4",
+      "name": "番号资源",
+      "api": "http://fhapi9.com/api.php/provide/vod/at/json/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "f767319e-9b43-4c72-98f7-d20534040efd",
+      "key": "f767319e-9b43-4c72-98f7-d20534040efd",
+      "name": "老色b资源",
+      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "92fe2380-4b6a-414e-b457-18159b711812",
+      "key": "92fe2380-4b6a-414e-b457-18159b711812",
+      "name": "gay资源",
+      "api": "https://gayapi.com/api.php/provide/vod/at/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "47272455-cec7-4712-9099-c5b77253133d",
+      "key": "47272455-cec7-4712-9099-c5b77253133d",
+      "name": "森林资源",
+      "api": "https://slapibf.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "0051587e-9a9d-4475-9d35-977c5ceebe3d",
+      "key": "0051587e-9a9d-4475-9d35-977c5ceebe3d",
+      "name": "乐播资源",
+      "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "79d90682-d485-430f-b458-9fb6359ccda0",
+      "key": "79d90682-d485-430f-b458-9fb6359ccda0",
+      "name": "155资源",
+      "api": "https://155api.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "644b4317-f19a-4d88-8b0f-e487c29ca3ea",
+      "key": "644b4317-f19a-4d88-8b0f-e487c29ca3ea",
+      "name": "桃花资源",
+      "api": "https://thzy1.me/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "b89b146d-f189-4ca4-8631-bd95e6161755",
+      "key": "b89b146d-f189-4ca4-8631-bd95e6161755",
+      "name": "豆瓣资源",
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "c031e4cc-ad01-4f99-9432-b03b12295f1a",
+      "key": "c031e4cc-ad01-4f99-9432-b03b12295f1a",
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "753dc167-5763-48c0-8f91-6f3b6391b04f",
+      "key": "753dc167-5763-48c0-8f91-6f3b6391b04f",
+      "name": "幸资源站",
+      "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "3a5b8749-493f-440f-a495-f763b2fde8bd",
+      "key": "3a5b8749-493f-440f-a495-f763b2fde8bd",
+      "name": "猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "a6b73d05-4961-440a-a8f7-29a05e5bcdb9",
+      "key": "a6b73d05-4961-440a-a8f7-29a05e5bcdb9",
+      "name": "大地资源",
+      "api": "https://dadiapi.com/api.php",
+      "playUrl": "",
+      "search": 2,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "b800d73d-c19a-4979-96fe-ccf31e0d6c93",
+      "key": "b800d73d-c19a-4979-96fe-ccf31e0d6c93",
+      "name": "百万资源",
+      "api": " https://api.bwzyz.com/api.php/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "14265a17-f2dc-4e73-a3b3-54e8f8404e1b",
+      "key": "14265a17-f2dc-4e73-a3b3-54e8f8404e1b",
+      "name": "CK伦理资源",
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "1239fed5-02ba-4420-a674-119c00e77d4a",
+      "key": "1239fed5-02ba-4420-a674-119c00e77d4a",
+      "name": "ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "cbb6d8ef-98ca-449b-97eb-cfeef2833356",
+      "key": "cbb6d8ef-98ca-449b-97eb-cfeef2833356",
+      "name": "金鹰资源",
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "63c25207-1127-44fc-bf32-67a02b43bc68",
+      "key": "63c25207-1127-44fc-bf32-67a02b43bc68",
+      "name": "CK百货",
+      "api": "https://ckbh1.xyz/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "b45d8515-39c1-42e8-bc4f-68cec0b7272b",
+      "key": "b45d8515-39c1-42e8-bc4f-68cec0b7272b",
+      "name": "最色资源",
+      "api": "https://api.zuiseapi.com/api.php/provide/vod/?ac=list",
+      "playUrl": "",
+      "search": 1,
+      "group": "默认",
+      "type": 1,
+      "ext": "",
+      "categories": "电视,影视",
+      "isActive": true
+    },
+    {
+      "id": "aa1c4022-a82e-40ad-8f3c-7525bd6d53c2",
+      "key": "aa1c4022-a82e-40ad-8f3c-7525bd6d53c2",
+      "name": "91资源",
+      "api": "https://91jpzyw.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "search": 1,
       "group": "默认",
       "type": 1,
       "ext": "",
