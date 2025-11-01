@@ -6,14 +6,17 @@
 
 ##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/lxmusic/sixyin-music-source-v1.2.1-encrypt.js
+
 #### 音乐 [musicfree](musicfree)
 ##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/musicfree/index.json
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/musicfree/index.json
+
 #### 视频 [zyfun](zyfun)
 ##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/zyfun/index.json
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
+
 #### 动漫 [cimoc](cimoc)
-##### 最新版软件已经不再支持当前图源
+
 #### 小说 [legado](legado)
 
 #### IPTV [iptv](iptv)
@@ -132,9 +135,16 @@
 | [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                                    |
 |                                                                                                                  |
 
-![ccnet.jpg](other/ccnet.jpg)
+[//]: # (![ccnet.jpg]&#40;other/ccnet.jpg&#41;)
+# 公众号
+<img src="./other/ccnet.jpg" width="200" height="200" />
 
-![pay-wx.jpg](other/pay-wx.jpg)
-![pay-zfb.jpg](other/pay-zfb.jpg)
+# 不喝咖啡
+
+[//]: # (![pay-wx.jpg]&#40;other/pay-wx.jpg&#41;)
+<img src="./other/pay-wx.jpg" width="200" height="260" />
+
+[//]: # (![pay-zfb.jpg]&#40;other/pay-zfb.jpg&#41;)
+<img src="./other/pay-zfb.jpg" width="200" height="280" />
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chao921125/source&type=Date)](https://www.star-history.com/#chao921125/source&Date)
