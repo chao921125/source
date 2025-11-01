@@ -1,5 +1,4 @@
-# 近期有朋友举报某些人拿着部分资源进行收费或做自媒体使用，请有点功德心，开源分享的初衷不是满足私欲！！！分享请保留出处
-###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途
+###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途。
 ### 部分文件更新周期长，但不代表不可使用，如果有问题直接提IS
 #### 音乐 [lxmusic](lxmusic)
 ##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/lxmusic/****.js
@@ -14,8 +13,7 @@
 ##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/zyfun/index.json
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
 #### 动漫 [cimoc](cimoc)
-##### 【加速连接】https://cdn.jsdelivr.net/gh/chao921125/source@6.4.2/cimoc/****.json
-##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/cimoc/****.json
+##### 最新版软件已经不再支持当前图源
 #### 小说 [legado](legado)
 
 #### IPTV [iptv](iptv)
@@ -134,6 +132,9 @@
 | [miru-app](https://github.com/miru-project/miru-app/tree/dev)                                                    |
 |                                                                                                                  |
 
-[//]: # (https://yinghezhinan.com/)
+![ccnet.jpg](other/ccnet.jpg)
+
+![pay-wx.jpg](other/pay-wx.jpg)
+![pay-zfb.jpg](other/pay-zfb.jpg)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chao921125/source&type=Date)](https://www.star-history.com/#chao921125/source&Date)
