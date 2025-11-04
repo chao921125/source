@@ -136,15 +136,13 @@
 |                                                                                                                  |
 
 [//]: # (![ccnet.jpg]&#40;other/ccnet.jpg&#41;)
-# 公众号
-<img src="./other/ccnet.jpg" width="200" height="200" />
 
-# 不喝咖啡
+[//]: # (<img src="./other/ccnet.jpg" width="200" height="200" />)
 
 [//]: # (![pay-wx.jpg]&#40;other/pay-wx.jpg&#41;)
-<img src="./other/pay-wx.jpg" width="200" height="260" />
+[//]: # (<img src="./other/pay-wx.jpg" width="200" height="260" />)
 
 [//]: # (![pay-zfb.jpg]&#40;other/pay-zfb.jpg&#41;)
-<img src="./other/pay-zfb.jpg" width="200" height="280" />
+[//]: # (<img src="./other/pay-zfb.jpg" width="200" height="280" />)
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chao921125/source&type=Date)](https://www.star-history.com/#chao921125/source&Date)
