@@ -2,6 +2,7 @@
 | IPTV 源                                                            |
 |-------------------------------------------------------------------|
 | [awesome-iptv](https://github.com/iptv-org/awesome-iptv)          |
+| [epg-iptv](https://epg.pw/index.html)                             |
 | [图标库 fanmingming](https://github.com/fanmingming/live)            |
 | [epg 51zmt](http://epg.51zmt.top:8000/)                           |
 | [m3u iptv-sources](https://m3u.ibert.me/)                         |
@@ -19,6 +20,7 @@
 | [Cyril0563](https://github.com/Cyril0563/lanjing_live)            |
 | [IPTV 直播源](https://iptv.hacks.tools/)                             |
 | [饭太硬](https://www.xn--sss604efuw.com/)                            |
+| [饭太硬](http://xn--z7x900a.com/)                                    |
 |                                                                   |
 
 | IPTV API                                                                                          |
@@ -74,6 +76,8 @@
 | [jesaro15](https://github.com/jesaro15/iptv)                                                      |
 |                                                                                                   |
 | [Kimentanm](https://github.com/Kimentanm/aptv)                                                    |
+|                                                                                                   |
+| [zwc456baby](https://github.com/zwc456baby/iptv_alive)                                            |
 |                                                                                                   |
 | [ipstreet312](https://github.com/ipstreet312/freeiptv)                                            |
 | [ipstreet312 国外频道](https://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u)         |
