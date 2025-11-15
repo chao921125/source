@@ -52,6 +52,8 @@ class Settings:
         "https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u",
         "https://live.izbds.com/tv/iptv4.m3u",
         "https://live.izbds.com/tv/iptv6.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+        "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u",
         "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/itv.m3u",
         "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
         "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",

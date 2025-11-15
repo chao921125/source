@@ -1,3 +1,4 @@
+# (加速服务)[https://gh-proxy.com/]
 # 源
 | IPTV 源                                                            |
 |-------------------------------------------------------------------|
@@ -17,6 +18,8 @@
 | [HerbertHe](https://github.com/HerbertHe/iptv-sources)            |
 | [imDazui](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8)     |
 | [Cyril0563](https://github.com/Cyril0563/lanjing_live)            |
+| [IPTV 直播源](https://iptv.hacks.tools/)                             |
+| [饭太硬](https://www.xn--sss604efuw.com/)                            |
 |                                                                   |
 
 | IPTV API                                                                                          |
