@@ -1,5 +1,6 @@
 ###### 收集整合互联网资源，不提供额外的服务，仅供学习交流使用，请勿用于商业用途。
 ### 部分文件更新周期长，但不代表不可使用，如果有问题直接提IS
+###### 旧版本链接做备份，https://cdn.jsdelivr.net/gh/chao921125/source@[version]/
 
 #### 音乐 [lxmusic](lxmusic)
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/lxmusic/****.js
