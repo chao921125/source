@@ -354,6 +354,31 @@
       "name": "W音乐",
       "url": "https://musicfreepluginshub.2020818.xyz/0263ce116c67fe436c5b5ad7d4e79430.js",
       "version": "0.2.3"
+    },
+    {
+      "name": "网易云",
+      "url": "https://api.music.lerd.dpdns.org/mf/wy.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "咪咕",
+      "url": "https://api.music.lerd.dpdns.org/mf/mg.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷狗",
+      "url": "https://api.music.lerd.dpdns.org/mf/kg.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "酷我",
+      "url": "https://api.music.lerd.dpdns.org/mf/kw.js",
+      "version": "0.1.0"
+    },
+    {
+      "name": "Q音",
+      "url": "https://api.music.lerd.dpdns.org/mf/qq.js",
+      "version": "0.1.0"
     }
   ]
 }

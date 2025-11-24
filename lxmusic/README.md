@@ -1,2 +1,6 @@
+# 文件可用性解释
+###### za-* 代表全部失效
+###### zh-* 代表部分资源失效
+###### zg-* 过期但可用
+
 https://github.com/Huibq/keep-alive
-https://github.com/ikunshare/ikun-public-source
