@@ -21,6 +21,8 @@
 #### 动漫 [cimoc](cimoc)
 
 #### 小说 [legado](legado)
+##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/legado/index.json
+##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/legado/index.json
 
 #### IPTV [iptv](iptv)
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/iptv/index.m3u
