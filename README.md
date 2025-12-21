@@ -19,6 +19,7 @@
 ##### 【原连接】https://raw.githubusercontent.com/chao921125/source/refs/heads/main/zyfun/index.json
 
 #### 动漫 [cimoc](cimoc)
+##### 【大部分链接失效了，现在只有内置源的 APP】
 
 #### 小说 [legado](legado)
 ##### 【加速连接】https://gh-proxy.org/https://github.com/chao921125/source/blob/main/legado/index.json
