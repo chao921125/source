@@ -20,7 +20,6 @@ logger = logging.getLogger("iptv-script")
 # --- Default Settings ---
 class Settings:
     DEFAULT_M3U_URLS: List[str] = [
-        "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
         "https://m3u.ibert.me/fmml_ipv6.m3u",
         "https://m3u.ibert.me/fmml_itv.m3u",
         "https://m3u.ibert.me/fmml_index.m3u",
@@ -44,20 +43,18 @@ class Settings:
         "https://m3u.ibert.me/q_bj_iptv_unicom_m.m3u",
         "https://m3u.ibert.me/q_bj_iptv_mobile.m3u",
         "https://m3u.ibert.me/q_bj_iptv_mobile_m.m3u",
+        "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
         "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
         "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
         "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
         "https://raw.githubusercontent.com/joevess/IPTV/main/home.m3u8",
         "https://raw.githubusercontent.com/Free-TV/IPTV/refs/heads/master/playlist.m3u8",
-        "https://gitlab.com/Meroser/IPTV/-/raw/main/IPTV-demo.m3u",
-        "https://live.izbds.com/tv/iptv4.m3u",
-        "https://live.izbds.com/tv/iptv6.m3u",
         "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
         "https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u",
-        "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/itv.m3u",
-        "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u",
-        "https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv6.m3u",
-        "http://175.178.251.183:6689/live.m3u",
+        "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u",
+        "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
+        "https://live.izbds.com/tv/iptv4.m3u",
+        "https://live.izbds.com/tv/iptv6.m3u",
         "https://live.iptv365.org/live.m3u"
     ]
     DEFAULT_OUTPUT_FILE: str = "index.m3u"
