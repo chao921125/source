@@ -52,16 +52,21 @@ jobs:
           ./run.sh
 
       # ---------------------------------------------------
-      # 步骤 4: 保存结果 (可选)
+      # 步骤 4: 如果有文件更新，自动创建合并请求
       # ---------------------------------------------------
-      # 如果你的脚本运行后生成了新的文件（比如更新了 m3u 文件），建议上传回来
-      - name: 📤 上传生成的文件 (示例)
-        uses: actions/upload-artifact@v4
+      - name: 🚀 自动提交更新
+        # 使用 peter-evans/create-pull-request 动作
+        uses: peter-evans/create-pull-request@v7
         with:
-          name: generated-files
-          path: |
-            # 这里填写你脚本生成的文件路径，例如：
-            # /Users/huangchao/Work/GitHub/source/iptv/output/
-            # 或者相对路径
+          # PR 的标题
+          title: "自动更新脚本生成的文件"
+          # 提交信息
+          commit-message: "chore: 自动更新 iptv 和 legado 数据"
+          # 要提交的文件路径（相对于仓库根目录）
+          paths: |
             source/iptv/
             source/legado/
+          # 分支名称（会自动创建）
+          branch: auto-update-files
+          # 删除已存在的同名 PR（可选）
+          delete-branch: true
