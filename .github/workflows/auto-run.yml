@@ -17,12 +17,23 @@ jobs:
     # 注意：如果你的脚本严重依赖 macOS 特有的命令，可能需要使用 macos-latest，但速度较慢且费用较高
     runs-on: ubuntu-latest
 
+    # --- 关键步骤 1: 添加权限配置 ---
+    permissions:
+      contents: write  # 允许写入仓库（创建 PR 需要）
+      # 这一行允许工作流触发另一个工作流（如果需要的话）
+      # pull-requests: write
+
     steps:
       # ---------------------------------------------------
       # 步骤 1: 检出代码
       # ---------------------------------------------------
       - name: 📥 拉取仓库代码
         uses: actions/checkout@v5
+
+      - name: 🐍 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
 
       # ---------------------------------------------------
       # 步骤 2: 处理代理 (关键步骤)
@@ -58,6 +69,10 @@ jobs:
         # 使用 peter-evans/create-pull-request 动作
         uses: peter-evans/create-pull-request@v7
         with:
+          # 机器人用户名和邮箱
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+
           # PR 的标题
           title: "自动更新脚本生成的文件"
           # 提交信息
