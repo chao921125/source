@@ -1,4 +1,3 @@
-#!/bin/bash
 
 echo "当前所在目录: $(pwd)"
 echo "目录列表:"
