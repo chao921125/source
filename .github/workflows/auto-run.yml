@@ -56,7 +56,7 @@ jobs:
       # ---------------------------------------------------
       # 如果你的脚本运行后生成了新的文件（比如更新了 m3u 文件），建议上传回来
       - name: 📤 上传生成的文件 (示例)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: generated-files
           path: |
