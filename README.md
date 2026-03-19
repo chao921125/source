@@ -76,6 +76,7 @@
 | [All Ombi](https://github.com/Ombi-app/Ombi)                      |
 | [All QMPlay2](https://github.com/zaps166/QMPlay2)                 |
 | [All media-kit](https://github.com/media-kit/media-kit)           |
+| [All Cinetry](https://github.com/gstory0404/Cinetry)              |
 |                                                                   |
 | [Win PotPlayer](https://potplayer.org/en/index.html)              |
 | [Win mpc-hc](https://github.com/clsid2/mpc-hc)                    |
@@ -93,9 +94,11 @@
 | [APK ourtv](https://github.com/andandroidor/ourtv)                |
 | [APK my-tv-0](https://github.com/lizongying/my-tv-0)              |
 | [APK mpv-android](https://github.com/mpv-android/mpv-android)     |
+| [APK mpv-android](https://github.com/mytv-android/mytv-android)   |
 | [APK nextplayer](https://github.com/anilbeesetti/nextplayer)      |
 | [APK Player](https://github.com/moneytoo/Player)                  |
 | [APK my-tv 停更](https://github.com/lizongying/my-tv)               |
+| [APK yourtv](https://github.com/horsemail/yourtv)                 |
 | [APK Televizo]()                                                  |
 |                                                                   |
 | [IOS ntplayer](https://ntplayer.nilbt.com/)                       |
@@ -106,7 +109,6 @@
 | [TV OTT]()                                                        |
 |                                                                   |
 | [soft Player](https://github.com/GhostenEditor/Ghosten-Player)    |
-| [soft open-tv](https://github.com/Fredolx/open-tv)                |
 | [soft hypnotix](https://github.com/linuxmint/hypnotix)            |
 | [soft iptv-checker](https://github.com/zhimin-dev/iptv-checker)   |
 |                                                                   |
@@ -117,6 +119,7 @@
 |------------------------------------------------------|
 | [TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) |
 | [files](https://github.com/cyao2q/files)             |
+| [zouming](https://zouming.com/index.html)            |
 | []()                                                 |
 | [TVBox](https://github.com/scovis/TVBox)             |
 |                                                      |
