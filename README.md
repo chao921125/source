@@ -51,7 +51,6 @@
 | https://www.xmwav.com/   |
 | https://www.gequbao.com/ |
 | https://zz123.com/       |
-| https://m.uzz.me/        |
 | http://www.xmsj.org/     |
 | https://www.kumeiwp.com/ |
 | http://www.eev3.com/     |
